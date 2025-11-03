@@ -20,10 +20,15 @@
     * threading
     * time
     * timeit
-* To install these, see `requirements.txt`. If you have anaconda, you can also start anaconda prompt and run the commands:
+* To install these, see `requirements.txt`. 
+    * You can install all required libraries by navigating to the repo and running the command `pip install -r requirements.txt` in anaconda prompt, or in a normal terminal with pip installed.
+* If you have anaconda, you can also start anaconda prompt and run the commands:
     * `pip install matplotlib`
     * `pip install numpy`
     * `pip install Pillow`
+    * `pip install requests`
+    * `pip install tqdm`
+    * `pip install detoxify`
     * The rest are standard libraries and are included with python
 
 * Install [Git](https://git-scm.com/downloads).
