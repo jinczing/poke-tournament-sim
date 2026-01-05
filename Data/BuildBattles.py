@@ -6,7 +6,7 @@ def generate_tournament_matchups(input_file, output_file):
     RUN_N_TIMES = 100
 
     # Read the JSON data from the input file
-    with open(input_file, 'r') as file:
+    with open(input_file, 'r', encoding='utf-8') as file:
         gym_leaders_data = json.load(file)
 
     # Extract the teams into a list

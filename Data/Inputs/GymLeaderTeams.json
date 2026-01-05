@@ -1,1 +1,5 @@
-Replace this with your own teams, see the example files in videos for formatting
+{
+    "Pikachu": [["Pikachu", 1]],
+    "Staryu": [["Staryu", 43]],
+    "Arcanine": [["Arcanine", 71]]
+}

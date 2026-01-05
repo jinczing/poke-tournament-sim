@@ -132,21 +132,21 @@ def get_keys_from_value(d, val):
     return [k for k, v in d.items() if v == val]
 
 filename = "Inputs/" + "GymLeaderPokemon.txt"
-noOfThreads = 1 # change this to fit your CPU
+noOfThreads = 10 # change this to fit your CPU
 RandomiseTeams = False # randomise order of simulations
 
 #read in teams
-with open('Inputs/tournament_battles.json', 'r') as infile:
+with open('Inputs/tournament_battles.json', 'r', encoding='utf-8') as infile:
     teams = json.load(infile)
 if RandomiseTeams:
     random.shuffle(teams)
 
-with open('Inputs/GymLeaderTeams.json', 'r') as infile:
+with open('Inputs/GymLeaderTeams.json', 'r', encoding='utf-8') as infile:
     teamNumbers = json.load(infile)
 
 print(len(teams))
 setLevel = 50 # If not None, all pokemon will be set to this level
-n = 100 # number of battles to stop running after
+n = 200 # number of battles to stop running after
 teams = teams[:n] # comment this out to simulate all battles
 
 n = len(teams)
