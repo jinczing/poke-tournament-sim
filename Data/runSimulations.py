@@ -146,7 +146,7 @@ with open('Inputs/GymLeaderTeams.json', 'r', encoding='utf-8') as infile:
 
 print(len(teams))
 setLevel = 50 # If not None, all pokemon will be set to this level
-n = 200 # number of battles to stop running after
+n = 10 # number of battles to stop running after
 teams = teams[:n] # comment this out to simulate all battles
 
 n = len(teams)
