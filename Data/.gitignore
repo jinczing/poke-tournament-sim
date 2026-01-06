@@ -14,8 +14,10 @@ ErrorOutputs.txt
 Inputs/tournament_battles.json
 Inputs/PokemonBuilds.txt
 Inputs/PokemonVsLeaderTeams.json
+legacy/tournament_battles.json
 UsefulDatasets/pokemon_availability_template.json
 tempCodeRunnerFile.py
 average_scores.json
 builds.json
 scores.json
+/ReplaySplits

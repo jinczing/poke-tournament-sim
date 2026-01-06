@@ -1,3 +1,4 @@
+|Onix#1
 Onix @ Eviolite
 Level: 50
 Hardy Nature
@@ -6,7 +7,8 @@ Ability: Sturdy
 - Rock Slide
 - Sandstorm
 - Iron Head
-|Golem @ Lum Berry
+|Golem#1
+Golem @ Lum Berry
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -14,7 +16,8 @@ Ability: Sturdy
 - Rock Polish
 - Earthquake
 - Sucker Punch
-|Kabutops @ Focus Sash
+|Kabutops#1
+Kabutops @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Battle Armor
@@ -22,7 +25,8 @@ Ability: Battle Armor
 - X-Scissor
 - Swords Dance
 - Rock Slide
-|Tyranitar @ Chople Berry
+|Tyranitar#1
+Tyranitar @ Chople Berry
 Level: 50
 Hardy Nature
 Ability: Sand Stream
@@ -30,7 +34,8 @@ Ability: Sand Stream
 - Thunder Punch
 - Payback
 - Ice Punch
-|Aerodactyl @ Choice Scarf
+|Aerodactyl#1
+Aerodactyl @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Pressure
@@ -38,7 +43,8 @@ Ability: Pressure
 - Earthquake
 - Fire Fang
 - Ice Fang
-|Rhyperior @ Expert Belt
+|Rhyperior#1
+Rhyperior @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Solid Rock
@@ -46,7 +52,8 @@ Ability: Solid Rock
 - Stone Edge
 - Megahorn
 - Avalanche
-|Starmie @ Petaya Berry
+|Starmie#1
+Starmie @ Petaya Berry
 Level: 50
 Hardy Nature
 Ability: Natural Cure
@@ -54,7 +61,8 @@ Ability: Natural Cure
 - Hydro Pump
 - Ice Beam
 - Thunderbolt
-|Golduck @ Water Gem
+|Golduck#1
+Golduck @ Water Gem
 Level: 50
 Hardy Nature
 Ability: Cloud Nine
@@ -62,7 +70,8 @@ Ability: Cloud Nine
 - Focus Blast
 - Aqua Jet
 - Hone Claws
-|Seaking @ Wacan Berry
+|Seaking#1
+Seaking @ Wacan Berry
 Level: 50
 Hardy Nature
 Ability: Swift Swim
@@ -70,7 +79,8 @@ Ability: Swift Swim
 - Waterfall
 - Poison Jab
 - Agility
-|Lapras @ Ganlon Berry
+|Lapras#1
+Lapras @ Ganlon Berry
 Level: 50
 Hardy Nature
 Ability: Shell Armor
@@ -78,7 +88,8 @@ Ability: Shell Armor
 - Ice Beam
 - Thunderbolt
 - Confuse Ray
-|Slowbro @ Apicot Berry
+|Slowbro#1
+Slowbro @ Apicot Berry
 Level: 50
 Hardy Nature
 Ability: Oblivious
@@ -86,7 +97,8 @@ Ability: Oblivious
 - Scald
 - Slack Off
 - Yawn
-|Blastoise @ Salac Berry
+|Blastoise#1
+Blastoise @ Salac Berry
 Level: 50
 Hardy Nature
 Ability: Torrent
@@ -94,7 +106,8 @@ Ability: Torrent
 - Iron Tail
 - Hydro Pump
 - Iron Defense
-|Raichu @ Life Orb
+|Raichu#1
+Raichu @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Static
@@ -102,7 +115,8 @@ Ability: Static
 - Volt Tackle
 - Focus Punch
 - Fake Out
-|Electrode @ Focus Sash
+|Electrode#1
+Electrode @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Static
@@ -110,7 +124,8 @@ Ability: Static
 - Signal Beam
 - Thunder Wave
 - Electro Ball
-|Electrode @ Focus Sash
+|Electrode#2
+Electrode @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Static
@@ -118,7 +133,8 @@ Ability: Static
 - Signal Beam
 - Thunder Wave
 - Electro Ball
-|Electivire @ Expert Belt
+|Electivire#1
+Electivire @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Motor Drive
@@ -126,7 +142,8 @@ Ability: Motor Drive
 - Cross Chop
 - Earthquake
 - Ice Punch
-|Jolteon @ Shuca Berry
+|Jolteon#1
+Jolteon @ Shuca Berry
 Level: 50
 Hardy Nature
 Ability: Volt Absorb
@@ -134,7 +151,8 @@ Ability: Volt Absorb
 - Quick Attack
 - Volt Switch
 - Double Team
-|Lanturn @ Wide Lens
+|Lanturn#1
+Lanturn @ Wide Lens
 Level: 50
 Hardy Nature
 Ability: Volt Absorb
@@ -142,7 +160,8 @@ Ability: Volt Absorb
 - Thunder
 - Blizzard
 - Signal Beam
-|Vileplume @ Black Sludge
+|Vileplume#1
+Vileplume @ Black Sludge
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -150,7 +169,8 @@ Ability: Chlorophyll
 - Drain Punch
 - Synthesis
 - Sleep Powder
-|Venusaur @ Expert Belt
+|Venusaur#1
+Venusaur @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Overgrow
@@ -158,7 +178,8 @@ Ability: Overgrow
 - Power Whip
 - Earthquake
 - Outrage
-|Cradily @ Leftovers
+|Cradily#1
+Cradily @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Suction Cups
@@ -166,7 +187,8 @@ Ability: Suction Cups
 - Recover
 - Seed Bomb
 - Stone Edge
-|Exeggutor @ Tanga Berry
+|Exeggutor#1
+Exeggutor @ Tanga Berry
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -174,7 +196,8 @@ Ability: Chlorophyll
 - Psyshock
 - Ancient Power
 - Psychic
-|Tangrowth @ Power Herb
+|Tangrowth#1
+Tangrowth @ Power Herb
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -182,7 +205,8 @@ Ability: Chlorophyll
 - Solar Beam
 - Ancient Power
 - Synthesis
-|Abomasnow @ Focus Sash
+|Abomasnow#1
+Abomasnow @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Snow Warning
@@ -190,7 +214,8 @@ Ability: Snow Warning
 - Protect
 - Blizzard
 - Sheer Cold
-|Skuntank
+|Skuntank#1
+Skuntank
 Level: 61
 Hardy Nature
 Ability: Aftermath
@@ -198,7 +223,8 @@ Ability: Aftermath
 - Dig
 - Sucker Punch
 - Explosion
-|Venomoth
+|Venomoth#1
+Venomoth
 Level: 63
 Hardy Nature
 Ability: Tinted Lens
@@ -206,7 +232,8 @@ Ability: Tinted Lens
 - Double Team
 - Silver Wind
 - Psychic
-|Toxicroak
+|Toxicroak#1
+Toxicroak
 Level: 60
 Hardy Nature
 Ability: Dry Skin
@@ -214,7 +241,8 @@ Ability: Dry Skin
 - Cross Chop
 - Gunk Shot
 - X-Scissor
-|Swalot @ Leftovers
+|Swalot#1
+Swalot @ Leftovers
 Level: 62
 Hardy Nature
 Ability: Sticky Hold
@@ -222,7 +250,8 @@ Ability: Sticky Hold
 - Amnesia
 - Pain Split
 - Yawn
-|Crobat
+|Crobat#1
+Crobat
 Level: 64
 Hardy Nature
 Ability: Inner Focus
@@ -230,7 +259,8 @@ Ability: Inner Focus
 - Cross Poison
 - Mean Look
 - Toxic
-|Muk @ Black Sludge
+|Muk#1
+Muk @ Black Sludge
 Level: 62
 Hardy Nature
 Ability: Sticky Hold
@@ -238,7 +268,8 @@ Ability: Sticky Hold
 - Screech
 - Swagger
 - Toxic
-|Alakazam @ Kasib Berry
+|Alakazam#1
+Alakazam @ Kasib Berry
 Level: 50
 Hardy Nature
 Ability: Synchronize
@@ -246,7 +277,8 @@ Ability: Synchronize
 - Shadow Ball
 - Focus Blast
 - Charge Beam
-|Metagross @ Expert Belt
+|Metagross#1
+Metagross @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Clear Body
@@ -254,7 +286,8 @@ Ability: Clear Body
 - Shadow Ball
 - Signal Beam
 - Grass Knot
-|Exeggutor @ Tanga Berry
+|Exeggutor#2
+Exeggutor @ Tanga Berry
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -262,7 +295,8 @@ Ability: Chlorophyll
 - Energy Ball
 - Sleep Powder
 - Dream Eater
-|Slowking @ Choice Specs
+|Slowking#1
+Slowking @ Choice Specs
 Level: 50
 Hardy Nature
 Ability: Oblivious
@@ -270,7 +304,8 @@ Ability: Oblivious
 - Psychic
 - Shadow Ball
 - Focus Blast
-|Espeon @ Leftovers
+|Espeon#1
+Espeon @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Synchronize
@@ -278,7 +313,8 @@ Ability: Synchronize
 - Signal Beam
 - Psychic
 - Calm Mind
-|Sigilyph @ Life Orb
+|Sigilyph#1
+Sigilyph @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Wonder Skin
@@ -286,7 +322,8 @@ Ability: Wonder Skin
 - Air Slash
 - Ice Beam
 - Light Screen
-|Arcanine @ Focus Sash
+|Arcanine#1
+Arcanine @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -294,7 +331,8 @@ Ability: Intimidate
 - Close Combat
 - Extreme Speed
 - Bulldoze
-|Ninetales @ Charti Berry
+|Ninetales#1
+Ninetales @ Charti Berry
 Level: 50
 Hardy Nature
 Ability: Flash Fire
@@ -302,7 +340,8 @@ Ability: Flash Fire
 - Energy Ball
 - Psyshock
 - Will-O-Wisp
-|Charizard @ Life Orb
+|Charizard#1
+Charizard @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Blaze
@@ -310,7 +349,8 @@ Ability: Blaze
 - Air Slash
 - Focus Blast
 - Dragon Pulse
-|Magmortar @ Choice Scarf
+|Magmortar#1
+Magmortar @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Flame Body
@@ -318,7 +358,8 @@ Ability: Flame Body
 - Psychic
 - Thunderbolt
 - Rock Slide
-|Flareon @ Passho Berry
+|Flareon#1
+Flareon @ Passho Berry
 Level: 50
 Hardy Nature
 Ability: Flash Fire
@@ -326,7 +367,8 @@ Ability: Flash Fire
 - Quick Attack
 - Overheat
 - Toxic
-|Rotom-Heat @ Flame Orb
+|Rotom-Heat#1
+Rotom-Heat @ Flame Orb
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -334,7 +376,8 @@ Ability: Levitate
 - Thunderbolt
 - Overheat
 - Pain Split
-|Dugtrio @ Smooth Rock
+|Dugtrio#1
+Dugtrio @ Smooth Rock
 Level: 68
 Hardy Nature
 Ability: Sand Veil
@@ -342,7 +385,8 @@ Ability: Sand Veil
 - Earthquake
 - Sucker Punch
 - Stealth Rock
-|Nidoking
+|Nidoking#1
+Nidoking
 Level: 68
 Hardy Nature
 Ability: Poison Point
@@ -350,7 +394,8 @@ Ability: Poison Point
 - Poison Jab
 - Throat Chop
 - Aqua Tail
-|Nidoqueen
+|Nidoqueen#1
+Nidoqueen
 Level: 68
 Hardy Nature
 Ability: Poison Point
@@ -358,7 +403,8 @@ Ability: Poison Point
 - Sludge Wave
 - Earth Power
 - Flamethrower
-|Rhyperior
+|Rhyperior#2
+Rhyperior
 Level: 68
 Hardy Nature
 Ability: Lightning Rod
@@ -366,7 +412,8 @@ Ability: Lightning Rod
 - Earthquake
 - Thunder Punch
 - Stone Edge
-|Mewtwo
+|Mewtwo#1
+Mewtwo
 Level: 70
 Hardy Nature
 Ability: Pressure
@@ -374,7 +421,8 @@ Ability: Pressure
 - Aura Sphere
 - Psychic
 - Ice Beam
-|Dewgong
+|Dewgong#1
+Dewgong
 Level: 61
 Hardy Nature
 Ability: Thick Fat
@@ -382,7 +430,8 @@ Ability: Thick Fat
 - Ice Shard
 - Waterfall
 - Iron Tail
-|Jynx
+|Jynx#1
+Jynx
 Level: 61
 Hardy Nature
 Ability: Oblivious
@@ -390,7 +439,8 @@ Ability: Oblivious
 - Psychic
 - Shadow Ball
 - Blizzard
-|Sandslash-Alola
+|Sandslash-Alola#1
+Sandslash-Alola
 Level: 61
 Hardy Nature
 Ability: Snow Cloak
@@ -398,7 +448,8 @@ Ability: Snow Cloak
 - Ice Shard
 - Earthquake
 - Iron Tail
-|Cloyster
+|Cloyster#1
+Cloyster
 Level: 61
 Hardy Nature
 Ability: Shell Armor
@@ -406,7 +457,8 @@ Ability: Shell Armor
 - Spike Cannon
 - Hydro Pump
 - Poison Jab
-|Slowbro
+|Slowbro#2
+Slowbro
 Level: 61
 Hardy Nature
 Ability: Oblivious
@@ -414,7 +466,8 @@ Ability: Oblivious
 - Yawn
 - Flamethrower
 - Psychic
-|Lapras
+|Lapras#2
+Lapras
 Level: 62
 Hardy Nature
 Ability: Water Absorb
@@ -422,7 +475,8 @@ Ability: Water Absorb
 - Dragon Pulse
 - Hydro Pump
 - Thunder
-|Hitmontop
+|Hitmontop#1
+Hitmontop
 Level: 62
 Hardy Nature
 Ability: Technician
@@ -430,7 +484,8 @@ Ability: Technician
 - Earthquake
 - Counter
 - Quick Attack
-|Hitmonlee
+|Hitmonlee#1
+Hitmonlee
 Level: 61
 Hardy Nature
 Ability: Reckless
@@ -438,7 +493,8 @@ Ability: Reckless
 - Reversal
 - Blaze Kick
 - Swagger
-|Hitmonchan
+|Hitmonchan#1
+Hitmonchan
 Level: 61
 Hardy Nature
 Ability: Iron Fist
@@ -446,7 +502,8 @@ Ability: Iron Fist
 - Drain Punch
 - Bullet Punch
 - Substitute
-|Hariyama @ Sitrus Berry
+|Hariyama#1
+Hariyama @ Sitrus Berry
 Level: 62
 Hardy Nature
 Ability: Guts
@@ -454,7 +511,8 @@ Ability: Guts
 - Low Kick
 - Payback
 - Bullet Punch
-|Lucario
+|Lucario#1
+Lucario
 Level: 64
 Hardy Nature
 Ability: Inner Focus
@@ -462,7 +520,8 @@ Ability: Inner Focus
 - Counter
 - Iron Tail
 - Extreme Speed
-|Machamp
+|Machamp#1
+Machamp
 Level: 64
 Hardy Nature
 Ability: No Guard
@@ -470,7 +529,8 @@ Ability: No Guard
 - Bullet Punch
 - Stone Edge
 - Foresight
-|Arbok
+|Arbok#1
+Arbok
 Level: 63
 Hardy Nature
 Ability: Intimidate
@@ -478,7 +538,8 @@ Ability: Intimidate
 - Poison Jab
 - Crunch
 - Earthquake
-|Golbat
+|Golbat#1
+Golbat
 Level: 63
 Hardy Nature
 Ability: Inner Focus
@@ -486,7 +547,8 @@ Ability: Inner Focus
 - Crunch
 - Quick Attack
 - Leech Life
-|Marowak-Alola
+|Marowak-Alola#1
+Marowak-Alola
 Level: 63
 Hardy Nature
 Ability: Cursed Body
@@ -494,7 +556,8 @@ Ability: Cursed Body
 - Bonemerang
 - Shadow Ball
 - Rock Slide
-|Gengar
+|Gengar#1
+Gengar
 Level: 63
 Hardy Nature
 Ability: Cursed Body
@@ -502,7 +565,8 @@ Ability: Cursed Body
 - Will-O-Wisp
 - Sludge Bomb
 - Sucker Punch
-|Weezing
+|Weezing#1
+Weezing
 Level: 63
 Hardy Nature
 Ability: Levitate
@@ -510,7 +574,8 @@ Ability: Levitate
 - Fire Blast
 - Shadow Ball
 - Thunder
-|Gengar
+|Gengar#2
+Gengar
 Level: 64
 Hardy Nature
 Ability: Cursed Body
@@ -518,7 +583,8 @@ Ability: Cursed Body
 - Dazzling Gleam
 - Sucker Punch
 - Sludge Bomb
-|Dragonite @ Focus Sash
+|Dragonite#1
+Dragonite @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Inner Focus
@@ -526,7 +592,8 @@ Ability: Inner Focus
 - Ice Punch
 - Fire Punch
 - Draco Meteor
-|Salamence @ Expert Belt
+|Salamence#1
+Salamence @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -534,7 +601,8 @@ Ability: Intimidate
 - Crunch
 - Earthquake
 - Stone Edge
-|Kingdra @ Scope Lens
+|Kingdra#1
+Kingdra @ Scope Lens
 Level: 50
 Hardy Nature
 Ability: Sniper
@@ -542,7 +610,8 @@ Ability: Sniper
 - Ice Beam
 - Dragon Pulse
 - Flash Cannon
-|Hydreigon @ White Herb
+|Hydreigon#1
+Hydreigon @ White Herb
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -550,7 +619,8 @@ Ability: Levitate
 - Fire Blast
 - Earth Power
 - Dark Pulse
-|Haxorus @ Choice Scarf
+|Haxorus#1
+Haxorus @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Rivalry
@@ -558,7 +628,8 @@ Ability: Rivalry
 - Superpower
 - Earthquake
 - Rock Slide
-|Flygon @ Power Herb
+|Flygon#1
+Flygon @ Power Herb
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -566,7 +637,8 @@ Ability: Levitate
 - Earth Power
 - Draco Meteor
 - U-turn
-|Aerodactyl @ Choice Band
+|Aerodactyl#2
+Aerodactyl @ Choice Band
 Level: 50
 Hardy Nature
 Ability: Rock Head
@@ -574,7 +646,8 @@ Ability: Rock Head
 - Earthquake
 - Ice Fang
 - Fire Blast
-|Exeggutor @ Life Orb
+|Exeggutor#3
+Exeggutor @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -582,7 +655,8 @@ Ability: Chlorophyll
 - Wood Hammer
 - Zen Headbutt
 - Leech Seed
-|Gyarados @ King's Rock
+|Gyarados#1
+Gyarados @ King's Rock
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -590,7 +664,8 @@ Ability: Intimidate
 - Waterfall
 - Earthquake
 - Outrage
-|Alakazam @ Focus Sash
+|Alakazam#2
+Alakazam @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Synchronize
@@ -598,7 +673,8 @@ Ability: Synchronize
 - Focus Blast
 - Shadow Ball
 - Reflect
-|Arcanine @ Expert Belt
+|Arcanine#2
+Arcanine @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -606,7 +682,8 @@ Ability: Intimidate
 - Close Combat
 - Wild Charge
 - Extreme Speed
-|Machamp @ White Herb
+|Machamp#2
+Machamp @ White Herb
 Level: 50
 Hardy Nature
 Ability: No Guard
@@ -614,7 +691,8 @@ Ability: No Guard
 - Stone Edge
 - Fire Punch
 - Bullet Punch
-|Pidgeot @ Life Orb
+|Pidgeot#1
+Pidgeot @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Keen Eye
@@ -622,7 +700,8 @@ Ability: Keen Eye
 - Double Team
 - Swagger
 - Return
-|Crobat @ Red Card
+|Crobat#2
+Crobat @ Red Card
 Level: 50
 Hardy Nature
 Ability: Inner Focus
@@ -630,7 +709,8 @@ Ability: Inner Focus
 - Confuse Ray
 - Acrobatics
 - Super Fang
-|Aerodactyl @ Focus Sash
+|Aerodactyl#3
+Aerodactyl @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Pressure
@@ -638,7 +718,8 @@ Ability: Pressure
 - Protect
 - Rock Slide
 - Ice Fang
-|Honchkrow @ Choice Scarf
+|Honchkrow#1
+Honchkrow @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Super Luck
@@ -646,7 +727,8 @@ Ability: Super Luck
 - Night Slash
 - Icy Wind
 - Heat Wave
-|Xatu @ Leftovers
+|Xatu#1
+Xatu @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Synchronize
@@ -654,7 +736,8 @@ Ability: Synchronize
 - Roost
 - Calm Mind
 - Stored Power
-|Swellow @ Flame Orb
+|Swellow#1
+Swellow @ Flame Orb
 Level: 50
 Hardy Nature
 Ability: Guts
@@ -662,7 +745,8 @@ Ability: Guts
 - Protect
 - Endeavor
 - Aerial Ace
-|Scizor @ Sitrus Berry
+|Scizor#1
+Scizor @ Sitrus Berry
 Level: 50
 Hardy Nature
 Ability: Technician
@@ -670,7 +754,8 @@ Ability: Technician
 - U-turn
 - Acrobatics
 - Bullet Punch
-|Shuckle @ Rocky Helmet
+|Shuckle#1
+Shuckle @ Rocky Helmet
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -678,7 +763,8 @@ Ability: Sturdy
 - Earthquake
 - Power Split
 - Toxic
-|Heracross @ Choice Band
+|Heracross#1
+Heracross @ Choice Band
 Level: 50
 Hardy Nature
 Ability: Swarm
@@ -686,7 +772,8 @@ Ability: Swarm
 - Stone Edge
 - Shadow Claw
 - Close Combat
-|Pinsir @ Life Orb
+|Pinsir#1
+Pinsir @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Hyper Cutter
@@ -694,7 +781,8 @@ Ability: Hyper Cutter
 - Protect
 - Bulldoze
 - X-Scissor
-|Armaldo @ Quick Claw
+|Armaldo#1
+Armaldo @ Quick Claw
 Level: 50
 Hardy Nature
 Ability: Battle Armor
@@ -702,7 +790,8 @@ Ability: Battle Armor
 - X-Scissor
 - Stone Edge
 - Earthquake
-|Yanmega @ Focus Sash
+|Yanmega#1
+Yanmega @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Speed Boost
@@ -710,7 +799,8 @@ Ability: Speed Boost
 - Giga Drain
 - Bug Buzz
 - Air Slash
-|Miltank @ Lum Berry
+|Miltank#1
+Miltank @ Lum Berry
 Level: 50
 Hardy Nature
 Ability: Thick Fat
@@ -718,7 +808,8 @@ Ability: Thick Fat
 - Brick Break
 - Return
 - Milk Drink
-|Blissey @ Leftovers
+|Blissey#1
+Blissey @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Serene Grace
@@ -726,7 +817,8 @@ Ability: Serene Grace
 - Soft-Boiled
 - Toxic
 - Grass Knot
-|Tauros @ Life Orb
+|Tauros#1
+Tauros @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -734,7 +826,8 @@ Ability: Intimidate
 - Earthquake
 - Return
 - Rock Slide
-|Ambipom @ Focus Sash
+|Ambipom#1
+Ambipom @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Technician
@@ -742,7 +835,8 @@ Ability: Technician
 - Fake Out
 - Ice Punch
 - Low Sweep
-|Ursaring @ Toxic Orb
+|Ursaring#1
+Ursaring @ Toxic Orb
 Level: 50
 Hardy Nature
 Ability: Guts
@@ -750,7 +844,8 @@ Ability: Guts
 - Facade
 - Rock Slide
 - Crunch
-|Lopunny @ Chople Berry
+|Lopunny#1
+Lopunny @ Chople Berry
 Level: 50
 Hardy Nature
 Ability: Cute Charm
@@ -758,7 +853,8 @@ Ability: Cute Charm
 - Encore
 - Low Kick
 - Return
-|Gengar @ Wide Lens
+|Gengar#3
+Gengar @ Wide Lens
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -766,7 +862,8 @@ Ability: Levitate
 - Focus Blast
 - Giga Drain
 - Thunderbolt
-|Mismagius @ Sitrus Berry
+|Mismagius#1
+Mismagius @ Sitrus Berry
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -774,7 +871,8 @@ Ability: Levitate
 - Will-O-Wisp
 - Perish Song
 - Mean Look
-|Banette @ Ghost Gem
+|Banette#1
+Banette @ Ghost Gem
 Level: 50
 Hardy Nature
 Ability: Insomnia
@@ -782,7 +880,8 @@ Ability: Insomnia
 - Sucker Punch
 - Destiny Bond
 - Gunk Shot
-|Dusknoir @ Leftovers
+|Dusknoir#1
+Dusknoir @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Pressure
@@ -790,7 +889,8 @@ Ability: Pressure
 - Will-O-Wisp
 - Fire Punch
 - Protect
-|Chandelure @ Life Orb
+|Chandelure#1
+Chandelure @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Flame Body
@@ -798,7 +898,8 @@ Ability: Flame Body
 - Shadow Ball
 - Energy Ball
 - Psychic
-|Froslass @ Focus Sash
+|Froslass#1
+Froslass @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Snow Cloak
@@ -806,7 +907,8 @@ Ability: Snow Cloak
 - Thunder Wave
 - Ice Beam
 - Shadow Ball
-|Poliwrath @ Sitrus Berry
+|Poliwrath#1
+Poliwrath @ Sitrus Berry
 Level: 50
 Hardy Nature
 Ability: Water Absorb
@@ -814,7 +916,8 @@ Ability: Water Absorb
 - Hypnosis
 - Rock Slide
 - Waterfall
-|Machamp @ Choice Band
+|Machamp#3
+Machamp @ Choice Band
 Level: 50
 Hardy Nature
 Ability: No Guard
@@ -822,7 +925,8 @@ Ability: No Guard
 - Stone Edge
 - Dynamic Punch
 - Earthquake
-|Conkeldurr @ Fighting Gem
+|Conkeldurr#1
+Conkeldurr @ Fighting Gem
 Level: 50
 Hardy Nature
 Ability: Sheer Force
@@ -830,7 +934,8 @@ Ability: Sheer Force
 - Mach Punch
 - Rock Slide
 - Earthquake
-|Hitmontop @ Wide Lens
+|Hitmontop#2
+Hitmontop @ Wide Lens
 Level: 50
 Hardy Nature
 Ability: Technician
@@ -838,7 +943,8 @@ Ability: Technician
 - Feint
 - Mach Punch
 - Bullet Punch
-|Hitmonchan @ Leftovers
+|Hitmonchan#2
+Hitmonchan @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Iron Fist
@@ -846,7 +952,8 @@ Ability: Iron Fist
 - Ice Punch
 - Thunder Punch
 - Drain Punch
-|Hitmonlee @ Life Orb
+|Hitmonlee#2
+Hitmonlee @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Reckless
@@ -854,7 +961,8 @@ Ability: Reckless
 - High Jump Kick
 - Fake Out
 - Stone Edge
-|Steelix @ Rocky Helmet
+|Steelix#1
+Steelix @ Rocky Helmet
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -862,7 +970,8 @@ Ability: Sturdy
 - Stealth Rock
 - Earthquake
 - Gyro Ball
-|Magnezone @ Quick Claw
+|Magnezone#1
+Magnezone @ Quick Claw
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -870,7 +979,8 @@ Ability: Sturdy
 - Flash Cannon
 - Mirror Coat
 - Magnet Rise
-|Forretress @ Iron Ball
+|Forretress#1
+Forretress @ Iron Ball
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -878,7 +988,8 @@ Ability: Sturdy
 - Explosion
 - Toxic
 - Gyro Ball
-|Skarmory @ Leftovers
+|Skarmory#1
+Skarmory @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -886,7 +997,8 @@ Ability: Sturdy
 - Stealth Rock
 - Roost
 - Aerial Ace
-|Metagross @ Air Balloon
+|Metagross#2
+Metagross @ Air Balloon
 Level: 50
 Hardy Nature
 Ability: Clear Body
@@ -894,7 +1006,8 @@ Ability: Clear Body
 - Explosion
 - Meteor Mash
 - Bullet Punch
-|Lucario @ Life Orb
+|Lucario#2
+Lucario @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Steadfast
@@ -902,7 +1015,8 @@ Ability: Steadfast
 - Extreme Speed
 - Stone Edge
 - Crunch
-|Mamoswine @ Focus Sash
+|Mamoswine#1
+Mamoswine @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Oblivious
@@ -910,7 +1024,8 @@ Ability: Oblivious
 - Ice Shard
 - Earthquake
 - Endeavor
-|Jynx @ Psychic Gem
+|Jynx#2
+Jynx @ Psychic Gem
 Level: 50
 Hardy Nature
 Ability: Oblivious
@@ -918,7 +1033,8 @@ Ability: Oblivious
 - Blizzard
 - Psyshock
 - Lovely Kiss
-|Dewgong @ Lum Berry
+|Dewgong#2
+Dewgong @ Lum Berry
 Level: 50
 Hardy Nature
 Ability: Thick Fat
@@ -926,7 +1042,8 @@ Ability: Thick Fat
 - Sheer Cold
 - Rest
 - Sleep Talk
-|Cloyster @ King's Rock
+|Cloyster#2
+Cloyster @ King's Rock
 Level: 50
 Hardy Nature
 Ability: Skill Link
@@ -934,7 +1051,8 @@ Ability: Skill Link
 - Explosion
 - Rock Blast
 - Icicle Spear
-|Lapras @ Chesto Berry
+|Lapras#3
+Lapras @ Chesto Berry
 Level: 50
 Hardy Nature
 Ability: Shell Armor
@@ -942,7 +1060,8 @@ Ability: Shell Armor
 - Surf
 - Ice Beam
 - Thunderbolt
-|Weavile @ Ice Gem
+|Weavile#1
+Weavile @ Ice Gem
 Level: 50
 Hardy Nature
 Ability: Pressure
@@ -950,7 +1069,8 @@ Ability: Pressure
 - Night Slash
 - Ice Punch
 - Fake Out
-|Kingdra @ Chesto Berry
+|Kingdra#2
+Kingdra @ Chesto Berry
 Level: 50
 Hardy Nature
 Ability: Sniper
@@ -958,7 +1078,8 @@ Ability: Sniper
 - Waterfall
 - Dragon Dance
 - Outrage
-|Dragonite @ Yache Berry
+|Dragonite#2
+Dragonite @ Yache Berry
 Level: 50
 Hardy Nature
 Ability: Inner Focus
@@ -966,7 +1087,8 @@ Ability: Inner Focus
 - Earthquake
 - Extreme Speed
 - Outrage
-|Altaria @ Leftovers
+|Altaria#1
+Altaria @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Natural Cure
@@ -974,7 +1096,8 @@ Ability: Natural Cure
 - Fire Blast
 - Double Team
 - Cotton Guard
-|Salamence @ Dragon Gem
+|Salamence#2
+Salamence @ Dragon Gem
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -982,7 +1105,8 @@ Ability: Intimidate
 - Rock Slide
 - Earthquake
 - Outrage
-|Druddigon @ Rocky Helmet
+|Druddigon#1
+Druddigon @ Rocky Helmet
 Level: 50
 Hardy Nature
 Ability: Rough Skin
@@ -990,7 +1114,8 @@ Ability: Rough Skin
 - Sucker Punch
 - Dragon Claw
 - Revenge
-|Garchomp @ Focus Sash
+|Garchomp#1
+Garchomp @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Sand Veil
@@ -998,7 +1123,8 @@ Ability: Sand Veil
 - Earthquake
 - Fire Fang
 - Swords Dance
-|Bronzong
+|Bronzong#1
+Bronzong
 Level: 58
 Hardy Nature
 Ability: Heatproof
@@ -1006,7 +1132,8 @@ Ability: Heatproof
 - Reflect
 - Payback
 - Psychic
-|Jynx
+|Jynx#3
+Jynx
 Level: 60
 Hardy Nature
 Ability: Forewarn
@@ -1014,7 +1141,8 @@ Ability: Forewarn
 - Lovely Kiss
 - Dream Eater
 - Blizzard
-|Grumpig
+|Grumpig#1
+Grumpig
 Level: 59
 Hardy Nature
 Ability: Own Tempo
@@ -1022,7 +1150,8 @@ Ability: Own Tempo
 - Signal Beam
 - Power Gem
 - Psychic
-|Slowbro
+|Slowbro#3
+Slowbro
 Level: 60
 Hardy Nature
 Ability: Own Tempo
@@ -1030,7 +1159,8 @@ Ability: Own Tempo
 - Body Slam
 - Amnesia
 - Psychic
-|Gardevoir
+|Gardevoir#1
+Gardevoir
 Level: 61
 Hardy Nature
 Ability: Trace
@@ -1038,7 +1168,8 @@ Ability: Trace
 - Focus Blast
 - Charge Beam
 - Psychic
-|Xatu @ Sitrus Berry
+|Xatu#2
+Xatu @ Sitrus Berry
 Level: 62
 Hardy Nature
 Ability: Synchronize
@@ -1046,7 +1177,8 @@ Ability: Synchronize
 - Shadow Ball
 - Psychic
 - Quick Attack
-|Weavile
+|Weavile#2
+Weavile
 Level: 62
 Hardy Nature
 Ability: Pressure
@@ -1054,7 +1186,8 @@ Ability: Pressure
 - Night Slash
 - Ice Shard
 - Low Kick
-|Absol
+|Absol#1
+Absol
 Level: 62
 Hardy Nature
 Ability: Super Luck
@@ -1062,7 +1195,8 @@ Ability: Super Luck
 - Perish Song
 - Night Slash
 - Psycho Cut
-|Spiritomb
+|Spiritomb#1
+Spiritomb
 Level: 62
 Hardy Nature
 Ability: Pressure
@@ -1070,7 +1204,8 @@ Ability: Pressure
 - Pain Split
 - Confuse Ray
 - Sucker Punch
-|Houndoom
+|Houndoom#1
+Houndoom
 Level: 63
 Hardy Nature
 Ability: Flash Fire
@@ -1078,7 +1213,8 @@ Ability: Flash Fire
 - Dark Pulse
 - Flamethrower
 - Sludge Bomb
-|Honchkrow
+|Honchkrow#2
+Honchkrow
 Level: 64
 Hardy Nature
 Ability: Super Luck
@@ -1086,7 +1222,8 @@ Ability: Super Luck
 - Whirlwind
 - Drill Peck
 - Sucker Punch
-|Umbreon @ Sitrus Berry
+|Umbreon#1
+Umbreon @ Sitrus Berry
 Level: 64
 Hardy Nature
 Ability: Synchronize
@@ -1094,7 +1231,8 @@ Ability: Synchronize
 - Payback
 - Sucker Punch
 - Curse
-|Venomoth @ Wide Lens
+|Venomoth#2
+Venomoth @ Wide Lens
 Level: 50
 Hardy Nature
 Ability: Tinted Lens
@@ -1102,7 +1240,8 @@ Ability: Tinted Lens
 - Bug Buzz
 - Sleep Powder
 - Psychic
-|Weezing @ Rocky Helmet
+|Weezing#2
+Weezing @ Rocky Helmet
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -1110,7 +1249,8 @@ Ability: Levitate
 - Flamethrower
 - Will-O-Wisp
 - Sludge Bomb
-|Tentacruel @ Chesto Berry
+|Tentacruel#1
+Tentacruel @ Chesto Berry
 Level: 50
 Hardy Nature
 Ability: Clear Body
@@ -1118,7 +1258,8 @@ Ability: Clear Body
 - Sludge Bomb
 - Rest
 - Ice Beam
-|Roserade @ Leftovers
+|Roserade#1
+Roserade @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Poison Point
@@ -1126,7 +1267,8 @@ Ability: Poison Point
 - Sleep Powder
 - Substitute
 - Leech Seed
-|Nidoqueen @ Life Orb
+|Nidoqueen#2
+Nidoqueen @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Poison Point
@@ -1134,7 +1276,8 @@ Ability: Poison Point
 - Ice Beam
 - Earth Power
 - Thunderbolt
-|Crobat @ Black Sludge
+|Crobat#3
+Crobat @ Black Sludge
 Level: 100
 Hardy Nature
 Ability: Inner Focus
@@ -1142,7 +1285,8 @@ Ability: Inner Focus
 - Brave Bird
 - Hypnosis
 - Protect
-|Pikachu @ Light Ball
+|Pikachu#1
+Pikachu @ Light Ball
 Level: 50
 Hardy Nature
 Ability: Static
@@ -1150,7 +1294,8 @@ Ability: Static
 - Iron Tail
 - Brick Break
 - Fake Out
-|Venusaur @ White Herb
+|Venusaur#2
+Venusaur @ White Herb
 Level: 50
 Hardy Nature
 Ability: Overgrow
@@ -1158,7 +1303,8 @@ Ability: Overgrow
 - Sludge Bomb
 - Earthquake
 - Sleep Powder
-|Charizard @ Focus Sash
+|Charizard#2
+Charizard @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Blaze
@@ -1166,7 +1312,8 @@ Ability: Blaze
 - Air Slash
 - Focus Blast
 - Dragon Pulse
-|Blastoise @ Choice Scarf
+|Blastoise#2
+Blastoise @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Torrent
@@ -1174,7 +1321,8 @@ Ability: Torrent
 - Hydro Pump
 - Blizzard
 - Focus Blast
-|Snorlax @ Quick Claw
+|Snorlax#1
+Snorlax @ Quick Claw
 Level: 50
 Hardy Nature
 Ability: Thick Fat
@@ -1182,7 +1330,8 @@ Ability: Thick Fat
 - Earthquake
 - Crunch
 - Seed Bomb
-|Lapras @ Sitrus Berry
+|Lapras#4
+Lapras @ Sitrus Berry
 Level: 50
 Hardy Nature
 Ability: Shell Armor
@@ -1190,7 +1339,8 @@ Ability: Shell Armor
 - Ice Shard
 - Hydro Pump
 - Thunderbolt
-|Probopass @ Air Balloon
+|Probopass#1
+Probopass @ Air Balloon
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -1198,7 +1348,8 @@ Ability: Sturdy
 - Power Gem
 - Earth Power
 - Thunderbolt
-|Armaldo @ Lum Berry
+|Armaldo#2
+Armaldo @ Lum Berry
 Level: 50
 Hardy Nature
 Ability: Battle Armor
@@ -1206,7 +1357,8 @@ Ability: Battle Armor
 - Earthquake
 - X-Scissor
 - Rock Slide
-|Cradily @ Leftovers
+|Cradily#2
+Cradily @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Suction Cups
@@ -1214,7 +1366,8 @@ Ability: Suction Cups
 - Giga Drain
 - Amnesia
 - Toxic
-|Aggron @ Focus Sash
+|Aggron#1
+Aggron @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Rock Head
@@ -1222,7 +1375,8 @@ Ability: Rock Head
 - Avalanche
 - Iron Head
 - Head Smash
-|Carracosta @ Water Gem
+|Carracosta#1
+Carracosta @ Water Gem
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -1230,7 +1384,8 @@ Ability: Sturdy
 - Rock Slide
 - Aqua Jet
 - Waterfall
-|Golem @ Ground Gem
+|Golem#2
+Golem @ Ground Gem
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -1238,7 +1393,8 @@ Ability: Sturdy
 - Focus Punch
 - Fire Punch
 - Protect
-|Hariyama @ Chesto Berry
+|Hariyama#2
+Hariyama @ Chesto Berry
 Level: 50
 Hardy Nature
 Ability: Thick Fat
@@ -1246,7 +1402,8 @@ Ability: Thick Fat
 - Rest
 - Revenge
 - Stone Edge
-|Scrafty @ Leftovers
+|Scrafty#1
+Scrafty @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Moxie
@@ -1254,7 +1411,8 @@ Ability: Moxie
 - Drain Punch
 - Dragon Tail
 - Amnesia
-|Breloom @ Focus Sash
+|Breloom#1
+Breloom @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Effect Spore
@@ -1262,7 +1420,8 @@ Ability: Effect Spore
 - Focus Punch
 - Seed Bomb
 - Stone Edge
-|Machamp @ Choice Band
+|Machamp#4
+Machamp @ Choice Band
 Level: 50
 Hardy Nature
 Ability: No Guard
@@ -1270,7 +1429,8 @@ Ability: No Guard
 - Stone Edge
 - Fire Punch
 - Earthquake
-|Mienshao @ Life Orb
+|Mienshao#1
+Mienshao @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Regenerator
@@ -1278,7 +1438,8 @@ Ability: Regenerator
 - Fake Out
 - Aerial Ace
 - Drain Punch
-|Heracross @ Choice Scarf
+|Heracross#2
+Heracross @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Swarm
@@ -1286,7 +1447,8 @@ Ability: Swarm
 - Stone Edge
 - Aerial Ace
 - Close Combat
-|Manectric @ Life Orb
+|Manectric#1
+Manectric @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Static
@@ -1294,7 +1456,8 @@ Ability: Static
 - Thunder Wave
 - Thunderbolt
 - Flamethrower
-|Magnezone @ Leftovers
+|Magnezone#2
+Magnezone @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -1302,7 +1465,8 @@ Ability: Sturdy
 - Toxic
 - Flash Cannon
 - Protect
-|Electrode @ Air Balloon
+|Electrode#3
+Electrode @ Air Balloon
 Level: 50
 Hardy Nature
 Ability: Static
@@ -1310,7 +1474,8 @@ Ability: Static
 - Thunder Wave
 - Thunder
 - Signal Beam
-|Rotom-Wash @ Wide Lens
+|Rotom-Wash#1
+Rotom-Wash @ Wide Lens
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -1318,7 +1483,8 @@ Ability: Levitate
 - Hydro Pump
 - Thunder Cage
 - Hex
-|Ampharos @ Expert Belt
+|Ampharos#1
+Ampharos @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Static
@@ -1326,7 +1492,8 @@ Ability: Static
 - Thunder Punch
 - Bulldoze
 - Brick Break
-|Raichu @ Focus Sash
+|Raichu#2
+Raichu @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Static
@@ -1334,7 +1501,8 @@ Ability: Static
 - Swagger
 - Thunder
 - Focus Blast
-|Torkoal @ Leftovers
+|Torkoal#1
+Torkoal @ Leftovers
 Level: 50
 Hardy Nature
 Ability: White Smoke
@@ -1342,7 +1510,8 @@ Ability: White Smoke
 - Stone Edge
 - Earthquake
 - Yawn
-|Camerupt @ Passho Berry
+|Camerupt#1
+Camerupt @ Passho Berry
 Level: 50
 Hardy Nature
 Ability: Solid Rock
@@ -1350,7 +1519,8 @@ Ability: Solid Rock
 - Flamethrower
 - Earth Power
 - Fissure
-|Chandelure @ Focus Sash
+|Chandelure#2
+Chandelure @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Flame Body
@@ -1358,7 +1528,8 @@ Ability: Flame Body
 - Shadow Ball
 - Flamethrower
 - Calm Mind
-|Blaziken @ Air Balloon
+|Blaziken#1
+Blaziken @ Air Balloon
 Level: 50
 Hardy Nature
 Ability: Blaze
@@ -1366,7 +1537,8 @@ Ability: Blaze
 - Stone Edge
 - Flame Charge
 - High Jump Kick
-|Houndoom @ Life Orb
+|Houndoom#2
+Houndoom @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Flash Fire
@@ -1374,7 +1546,8 @@ Ability: Flash Fire
 - Sucker Punch
 - Overheat
 - Flame Charge
-|Magmortar @ Shuca Berry
+|Magmortar#2
+Magmortar @ Shuca Berry
 Level: 50
 Hardy Nature
 Ability: Flame Body
@@ -1382,7 +1555,8 @@ Ability: Flame Body
 - Flame Charge
 - Thunderbolt
 - Fire Blast
-|Slaking @ Eject Button
+|Slaking#1
+Slaking @ Eject Button
 Level: 50
 Hardy Nature
 Ability: Truant
@@ -1390,7 +1564,8 @@ Ability: Truant
 - Hammer Arm
 - Earthquake
 - Night Slash
-|Ambipom @ Normal Gem
+|Ambipom#2
+Ambipom @ Normal Gem
 Level: 50
 Hardy Nature
 Ability: Technician
@@ -1398,7 +1573,8 @@ Ability: Technician
 - Acrobatics
 - Fake Out
 - Fire Punch
-|Bouffalant @ Life Orb
+|Bouffalant#1
+Bouffalant @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Reckless
@@ -1406,7 +1582,8 @@ Ability: Reckless
 - Stone Edge
 - Megahorn
 - Revenge
-|Staraptor @ Choice Band
+|Staraptor#1
+Staraptor @ Choice Band
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -1414,7 +1591,8 @@ Ability: Intimidate
 - Close Combat
 - Quick Attack
 - Final Gambit
-|Exploud @ Expert Belt
+|Exploud#1
+Exploud @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Soundproof
@@ -1422,7 +1600,8 @@ Ability: Soundproof
 - Focus Blast
 - Hyper Voice
 - Blizzard
-|Sawsbuck @ Chesto Berry
+|Sawsbuck#1
+Sawsbuck @ Chesto Berry
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -1430,7 +1609,8 @@ Ability: Chlorophyll
 - Swords Dance
 - Horn Leech
 - Rest
-|Altaria @ Power Herb
+|Altaria#2
+Altaria @ Power Herb
 Level: 50
 Hardy Nature
 Ability: Natural Cure
@@ -1438,7 +1618,8 @@ Ability: Natural Cure
 - Dragon Dance
 - Sky Attack
 - Earthquake
-|Sigilyph @ Life Orb
+|Sigilyph#2
+Sigilyph @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Wonder Skin
@@ -1446,7 +1627,8 @@ Ability: Wonder Skin
 - Psychic
 - Air Slash
 - Ancient Power
-|Gyarados @ Leftovers
+|Gyarados#2
+Gyarados @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -1454,7 +1636,8 @@ Ability: Intimidate
 - Waterfall
 - Ice Fang
 - Substitute
-|Skarmory @ Rocky Helmet
+|Skarmory#2
+Skarmory @ Rocky Helmet
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -1462,7 +1645,8 @@ Ability: Sturdy
 - Steel Wing
 - Whirlwind
 - Spikes
-|Tropius @ Yache Berry
+|Tropius#1
+Tropius @ Yache Berry
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -1470,7 +1654,8 @@ Ability: Chlorophyll
 - Attract
 - Air Slash
 - Solar Beam
-|Honchkrow @ Dark Gem
+|Honchkrow#3
+Honchkrow @ Dark Gem
 Level: 50
 Hardy Nature
 Ability: Super Luck
@@ -1478,7 +1663,8 @@ Ability: Super Luck
 - Sucker Punch
 - Icy Wind
 - Tailwind
-|Solrock @ Passho Berry
+|Solrock#1
+Solrock @ Passho Berry
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -1486,7 +1672,8 @@ Ability: Levitate
 - Rock Slide
 - Earthquake
 - Trick Room
-|Xatu @ Focus Sash
+|Xatu#3
+Xatu @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Synchronize
@@ -1494,7 +1681,8 @@ Ability: Synchronize
 - Shadow Ball
 - Light Screen
 - Trick Room
-|Bronzong @ Lum Berry
+|Bronzong#2
+Bronzong @ Lum Berry
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -1502,7 +1690,8 @@ Ability: Levitate
 - Earthquake
 - Gyro Ball
 - Trick Room
-|Reuniclus @ Life Orb
+|Reuniclus#1
+Reuniclus @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Overcoat
@@ -1510,7 +1699,8 @@ Ability: Overcoat
 - Shadow Ball
 - Focus Blast
 - Trick Room
-|Gallade @ Scope Lens
+|Gallade#1
+Gallade @ Scope Lens
 Level: 50
 Hardy Nature
 Ability: Steadfast
@@ -1518,7 +1708,8 @@ Ability: Steadfast
 - Night Slash
 - Ice Punch
 - Close Combat
-|Claydol @ Kasib Berry
+|Claydol#1
+Claydol @ Kasib Berry
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -1526,7 +1717,8 @@ Ability: Levitate
 - Explosion
 - Light Screen
 - Trick Room
-|Lunatone @ Expert Belt
+|Lunatone#1
+Lunatone @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -1534,7 +1726,8 @@ Ability: Levitate
 - Signal Beam
 - Trick Room
 - Cosmic Power
-|Xatu @ Focus Sash
+|Xatu#4
+Xatu @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Synchronize
@@ -1542,7 +1735,8 @@ Ability: Synchronize
 - U-turn
 - Pain Split
 - Trick Room
-|Bronzong @ Rocky Helmet
+|Bronzong#3
+Bronzong @ Rocky Helmet
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -1550,7 +1744,8 @@ Ability: Levitate
 - Iron Head
 - Earthquake
 - Trick Room
-|Gothitelle @ Leftovers
+|Gothitelle#1
+Gothitelle @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Frisk
@@ -1558,7 +1753,8 @@ Ability: Frisk
 - Shadow Ball
 - Calm Mind
 - Trick Room
-|Gardevoir @ Lum Berry
+|Gardevoir#2
+Gardevoir @ Lum Berry
 Level: 50
 Hardy Nature
 Ability: Synchronize
@@ -1566,7 +1762,8 @@ Ability: Synchronize
 - Disable
 - Thunderbolt
 - Will-O-Wisp
-|Claydol @ Sitrus Berry
+|Claydol#2
+Claydol @ Sitrus Berry
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -1574,7 +1771,8 @@ Ability: Levitate
 - Earth Power
 - Trick Room
 - Ice Beam
-|Kingdra @ Haban Berry
+|Kingdra#3
+Kingdra @ Haban Berry
 Level: 50
 Hardy Nature
 Ability: Swift Swim
@@ -1582,7 +1780,8 @@ Ability: Swift Swim
 - Hydro Pump
 - Ice Beam
 - Dragon Pulse
-|Walrein @ Leftovers
+|Walrein#1
+Walrein @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Thick Fat
@@ -1590,7 +1789,8 @@ Ability: Thick Fat
 - Sheer Cold
 - Super Fang
 - Surf
-|Crawdaunt @ Life Orb
+|Crawdaunt#1
+Crawdaunt @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Hyper Cutter
@@ -1598,7 +1798,8 @@ Ability: Hyper Cutter
 - Guillotine
 - Crabhammer
 - Night Slash
-|Whiscash @ Chesto Berry
+|Whiscash#1
+Whiscash @ Chesto Berry
 Level: 50
 Hardy Nature
 Ability: Oblivious
@@ -1606,7 +1807,8 @@ Ability: Oblivious
 - Waterfall
 - Earthquake
 - Spark
-|Relicanth @ Damp Rock
+|Relicanth#1
+Relicanth @ Damp Rock
 Level: 50
 Hardy Nature
 Ability: Swift Swim
@@ -1614,7 +1816,8 @@ Ability: Swift Swim
 - Earthquake
 - Waterfall
 - Rock Slide
-|Politoed @ Wide Lens
+|Politoed#1
+Politoed @ Wide Lens
 Level: 50
 Hardy Nature
 Ability: Water Absorb
@@ -1622,7 +1825,8 @@ Ability: Water Absorb
 - Focus Blast
 - Ice Beam
 - Scald
-|Scrafty
+|Scrafty#2
+Scrafty
 Level: 70
 Hardy Nature
 Ability: Intimidate
@@ -1630,7 +1834,8 @@ Ability: Intimidate
 - Brick Break
 - Poison Jab
 - Dragon Claw
-|Shiftry
+|Shiftry#1
+Shiftry
 Level: 70
 Hardy Nature
 Ability: Chlorophyll
@@ -1638,7 +1843,8 @@ Ability: Chlorophyll
 - Feint Attack
 - Extrasensory
 - Leaf Blade
-|Zoroark
+|Zoroark#1
+Zoroark
 Level: 70
 Hardy Nature
 Ability: Illusion
@@ -1646,7 +1852,8 @@ Ability: Illusion
 - Shadow Claw
 - Flamethrower
 - Dark Pulse
-|Sharpedo
+|Sharpedo#1
+Sharpedo
 Level: 70
 Hardy Nature
 Ability: Rough Skin
@@ -1654,7 +1861,8 @@ Ability: Rough Skin
 - Poison Fang
 - Aqua Jet
 - Slash
-|Mandibuzz
+|Mandibuzz#1
+Mandibuzz
 Level: 70
 Hardy Nature
 Ability: Overcoat
@@ -1662,7 +1870,8 @@ Ability: Overcoat
 - Bone Rush
 - Feint Attack
 - Tailwind
-|Absol
+|Absol#2
+Absol
 Level: 72
 Hardy Nature
 Ability: Super Luck
@@ -1670,7 +1879,8 @@ Ability: Super Luck
 - Night Slash
 - Psycho Cut
 - Slash
-|Banette
+|Banette#2
+Banette
 Level: 71
 Hardy Nature
 Ability: Insomnia
@@ -1678,7 +1888,8 @@ Ability: Insomnia
 - Grudge
 - Toxic
 - Psychic
-|Mismagius
+|Mismagius#2
+Mismagius
 Level: 71
 Hardy Nature
 Ability: Levitate
@@ -1686,7 +1897,8 @@ Ability: Levitate
 - Power Gem
 - Pain Split
 - Thunderbolt
-|Drifblim
+|Drifblim#1
+Drifblim
 Level: 71
 Hardy Nature
 Ability: Aftermath
@@ -1694,7 +1906,8 @@ Ability: Aftermath
 - Psychic
 - Icy Wind
 - Acrobatics
-|Chandelure
+|Chandelure#3
+Chandelure
 Level: 71
 Hardy Nature
 Ability: Flame Body
@@ -1702,7 +1915,8 @@ Ability: Flame Body
 - Flamethrower
 - Energy Ball
 - Dark Pulse
-|Dusknoir
+|Dusknoir#2
+Dusknoir
 Level: 71
 Hardy Nature
 Ability: Pressure
@@ -1710,7 +1924,8 @@ Ability: Pressure
 - Fire Punch
 - Ice Punch
 - Thunder Punch
-|Sableye
+|Sableye#1
+Sableye
 Level: 73
 Hardy Nature
 Ability: Prankster
@@ -1718,7 +1933,8 @@ Ability: Prankster
 - Foul Play
 - Power Gem
 - Fake Out
-|Abomasnow
+|Abomasnow#2
+Abomasnow
 Level: 72
 Hardy Nature
 Ability: Snow Warning
@@ -1726,7 +1942,8 @@ Ability: Snow Warning
 - Wood Hammer
 - Ice Shard
 - Earthquake
-|Beartic
+|Beartic#1
+Beartic
 Level: 72
 Hardy Nature
 Ability: Snow Cloak
@@ -1734,7 +1951,8 @@ Ability: Snow Cloak
 - Slash
 - Shadow Claw
 - Brick Break
-|Froslass
+|Froslass#2
+Froslass
 Level: 72
 Hardy Nature
 Ability: Snow Cloak
@@ -1742,7 +1960,8 @@ Ability: Snow Cloak
 - Blizzard
 - Hail
 - Shadow Ball
-|Vanilluxe
+|Vanilluxe#1
+Vanilluxe
 Level: 72
 Hardy Nature
 Ability: Ice Body
@@ -1750,7 +1969,8 @@ Ability: Ice Body
 - Freeze-Dry
 - Mirror Coat
 - Signal Beam
-|Walrein
+|Walrein#2
+Walrein
 Level: 72
 Hardy Nature
 Ability: Thick Fat
@@ -1758,7 +1978,8 @@ Ability: Thick Fat
 - Body Slam
 - Blizzard
 - Sheer Cold
-|Glalie
+|Glalie#1
+Glalie
 Level: 74
 Hardy Nature
 Ability: Inner Focus
@@ -1766,7 +1987,8 @@ Ability: Inner Focus
 - Ice Shard
 - Hail
 - Freeze-Dry
-|Altaria
+|Altaria#3
+Altaria
 Level: 73
 Hardy Nature
 Ability: Natural Cure
@@ -1774,7 +1996,8 @@ Ability: Natural Cure
 - Aerial Ace
 - Dragon Pulse
 - Moonblast
-|Dragalge
+|Dragalge#1
+Dragalge
 Level: 73
 Hardy Nature
 Ability: Poison Point
@@ -1782,7 +2005,8 @@ Ability: Poison Point
 - Hydro Pump
 - Sludge Wave
 - Thunderbolt
-|Kingdra
+|Kingdra#4
+Kingdra
 Level: 73
 Hardy Nature
 Ability: Sniper
@@ -1790,7 +2014,8 @@ Ability: Sniper
 - Surf
 - Yawn
 - Ice Beam
-|Flygon
+|Flygon#2
+Flygon
 Level: 73
 Hardy Nature
 Ability: Levitate
@@ -1798,7 +2023,8 @@ Ability: Levitate
 - Boomburst
 - Dragon Pulse
 - Screech
-|Haxorus
+|Haxorus#2
+Haxorus
 Level: 73
 Hardy Nature
 Ability: Rivalry
@@ -1806,7 +2032,8 @@ Ability: Rivalry
 - Earthquake
 - X-Scissor
 - Shadow Claw
-|Salamence
+|Salamence#3
+Salamence
 Level: 75
 Hardy Nature
 Ability: Intimidate
@@ -1814,7 +2041,8 @@ Ability: Intimidate
 - Zen Headbutt
 - Crunch
 - Thunder Fang
-|Metagross @ Occa Berry
+|Metagross#3
+Metagross @ Occa Berry
 Level: 50
 Hardy Nature
 Ability: Clear Body
@@ -1822,7 +2050,8 @@ Ability: Clear Body
 - Hammer Arm
 - Earthquake
 - Bullet Punch
-|Aggron @ Air Balloon
+|Aggron#2
+Aggron @ Air Balloon
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -1830,7 +2059,8 @@ Ability: Sturdy
 - Avalanche
 - Earthquake
 - Metal Burst
-|Excadrill @ Focus Sash
+|Excadrill#1
+Excadrill @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Sand Rush
@@ -1838,7 +2068,8 @@ Ability: Sand Rush
 - Rock Slide
 - X-Scissor
 - Sandstorm
-|Archeops @ Sitrus Berry
+|Archeops#1
+Archeops @ Sitrus Berry
 Level: 50
 Hardy Nature
 Ability: Defeatist
@@ -1846,7 +2077,8 @@ Ability: Defeatist
 - Acrobatics
 - Earthquake
 - Quick Attack
-|Cradily @ Expert Belt
+|Cradily#3
+Cradily @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Suction Cups
@@ -1854,7 +2086,8 @@ Ability: Suction Cups
 - Seed Bomb
 - Earthquake
 - Sandstorm
-|Armaldo @ White Herb
+|Armaldo#3
+Armaldo @ White Herb
 Level: 50
 Hardy Nature
 Ability: Battle Armor
@@ -1862,7 +2095,8 @@ Ability: Battle Armor
 - Rock Blast
 - Earthquake
 - Superpower
-|Milotic @ Rocky Helmet
+|Milotic#1
+Milotic @ Rocky Helmet
 Level: 50
 Hardy Nature
 Ability: Marvel Scale
@@ -1870,7 +2104,8 @@ Ability: Marvel Scale
 - Icy Wind
 - Rest
 - Sleep Talk
-|Sharpedo @ Focus Sash
+|Sharpedo#2
+Sharpedo @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Rough Skin
@@ -1878,7 +2113,8 @@ Ability: Rough Skin
 - Crunch
 - Zen Headbutt
 - Aqua Jet
-|Walrein @ Leftovers
+|Walrein#3
+Walrein @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Thick Fat
@@ -1886,7 +2122,8 @@ Ability: Thick Fat
 - Yawn
 - Blizzard
 - Sheer Cold
-|Ludicolo @ Life Orb
+|Ludicolo#1
+Ludicolo @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Swift Swim
@@ -1894,7 +2131,8 @@ Ability: Swift Swim
 - Focus Blast
 - Giga Drain
 - Rain Dance
-|Swampert @ Rindo Berry
+|Swampert#1
+Swampert @ Rindo Berry
 Level: 50
 Hardy Nature
 Ability: Torrent
@@ -1902,7 +2140,8 @@ Ability: Torrent
 - Ice Beam
 - Earth Power
 - Focus Blast
-|Starmie @ Expert Belt
+|Starmie#2
+Starmie @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Natural Cure
@@ -1910,7 +2149,8 @@ Ability: Natural Cure
 - Psychic
 - Thunderbolt
 - Signal Beam
-|Umbreon @ Chesto Berry
+|Umbreon#2
+Umbreon @ Chesto Berry
 Level: 50
 Calm Nature
 Ability: Synchronize
@@ -1919,7 +2159,8 @@ EVs: 252 HP / 252 SpA / 6 SpD
 - Confuse Ray
 - Rest
 - Psychic
-|Gengar @ Leftovers
+|Gengar#4
+Gengar @ Leftovers
 Level: 50
 Modest Nature
 Ability: Levitate
@@ -1928,7 +2169,8 @@ EVs: 252 HP / 252 Def / 6 SpA
 - Hypnosis
 - Dream Eater
 - Destiny Bond
-|Breloom @ Lum Berry
+|Breloom#2
+Breloom @ Lum Berry
 Level: 50
 Brave Nature
 Ability: Effect Spore
@@ -1937,7 +2179,8 @@ EVs: 6 HP / 252 Atk / 252 Spe
 - Focus Punch
 - Giga Drain
 - Headbutt
-|Swampert @ Leftovers
+|Swampert#2
+Swampert @ Leftovers
 Level: 50
 Brave Nature
 Ability: Torrent
@@ -1946,7 +2189,8 @@ EVs: 252 HP / 252 Atk / 6 Def
 - Earthquake
 - Ice Beam
 - Mirror Coat
-|Metagross @ Quick Claw
+|Metagross#4
+Metagross @ Quick Claw
 Level: 50
 Brave Nature
 Ability: Clear Body
@@ -1955,7 +2199,8 @@ EVs: 252 HP / 252 Atk / 6 Def
 - Meteor Mash
 - Earthquake
 - Protect
-|Latias @ Chesto Berry
+|Latias#1
+Latias @ Chesto Berry
 Level: 50
 Modest Nature
 Ability: Levitate
@@ -1964,7 +2209,8 @@ EVs: 252 HP / 252 Def / 6 Spe
 - Psychic
 - Calm Mind
 - Rest
-|Seviper @ Focus Band
+|Seviper#1
+Seviper @ Focus Band
 Level: 50
 Bold Nature
 Ability: Shed Skin
@@ -1973,7 +2219,8 @@ EVs: 252 HP / 252 SpA / 6 SpD
 - Crunch
 - Giga Drain
 - Sludge Bomb
-|Steelix @ Bright Powder
+|Steelix#2
+Steelix @ Bright Powder
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -1982,7 +2229,8 @@ EVs: 252 HP / 6 Atk / 252 SpD
 - Explosion
 - Rock Slide
 - Screech
-|Gyarados @ Chesto Berry
+|Gyarados#3
+Gyarados @ Chesto Berry
 Level: 50
 Adamant Nature
 Ability: Intimidate
@@ -1991,7 +2239,8 @@ EVs: 252 HP / 6 Atk / 252 SpD
 - Return
 - Rest
 - Roar
-|Arcanine @ White Herb
+|Arcanine#3
+Arcanine @ White Herb
 Level: 50
 Hasty Nature
 Ability: Intimidate
@@ -2000,7 +2249,8 @@ EVs: 6 HP / 252 Atk / 252 Def
 - Extreme Speed
 - Roar
 - Protect
-|Slaking @ Scope Lens
+|Slaking#2
+Slaking @ Scope Lens
 Level: 50
 Hardy Nature
 Ability: Truant
@@ -2009,7 +2259,8 @@ EVs: 6 HP / 252 Atk / 252 Spe
 - Earthquake
 - Shadow Ball
 - Yawn
-|Suicune @ King's Rock
+|Suicune#1
+Suicune @ King's Rock
 Level: 50
 Hasty Nature
 Ability: Pressure
@@ -2018,7 +2269,8 @@ EVs: 252 HP / 252 Def / 6 Spe
 - Surf
 - Calm Mind
 - Bite
-|Regirock @ Quick Claw
+|Regirock#1
+Regirock @ Quick Claw
 Level: 50
 Adamant Nature
 Ability: Clear Body
@@ -2027,7 +2279,8 @@ EVs: 152 HP / 152 Atk / 106 SpA / 100 SpD
 - Superpower
 - Earthquake
 - Ancient Power
-|Registeel @ Leftovers
+|Registeel#1
+Registeel @ Leftovers
 Level: 50
 Adamant Nature
 Ability: Clear Body
@@ -2036,7 +2289,8 @@ EVs: 152 HP / 152 Atk / 6 SpA / 200 SpD
 - Metal Claw
 - Toxic
 - Iron Defense
-|Regice @ Chesto Berry
+|Regice#1
+Regice @ Chesto Berry
 Level: 50
 Modest Nature
 Ability: Clear Body
@@ -2045,7 +2299,8 @@ EVs: 106 HP / 152 Def / 100 SpA / 152 SpD
 - Amnesia
 - Thunder
 - Rest
-|Raikou @ Lum Berry
+|Raikou#1
+Raikou @ Lum Berry
 Level: 50
 Modest Nature
 Ability: Pressure
@@ -2054,7 +2309,8 @@ EVs: 158 HP / 252 Def / 100 Spe
 - Calm Mind
 - Reflect
 - Rest
-|Latios @ Bright Powder
+|Latios#1
+Latios @ Bright Powder
 Level: 50
 Modest Nature
 Ability: Levitate
@@ -2063,7 +2319,8 @@ EVs: 252 HP / 252 Def / 6 Spe
 - Calm Mind
 - Psychic
 - Recover
-|Snorlax @ Chesto Berry
+|Snorlax#2
+Snorlax @ Chesto Berry
 Level: 50
 Adamant Nature
 Ability: Thick Fat
@@ -2072,7 +2329,8 @@ EVs: 252 HP / 252 Atk / 6 SpA
 - Rest
 - Shadow Ball
 - Curse
-|Rampardos @ Focus Sash
+|Rampardos#1
+Rampardos @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Mold Breaker
@@ -2080,7 +2338,8 @@ Ability: Mold Breaker
 - Superpower
 - Earthquake
 - Avalanche
-|Probopass @ Air Balloon
+|Probopass#2
+Probopass @ Air Balloon
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -2088,7 +2347,8 @@ Ability: Sturdy
 - Earth Power
 - Discharge
 - Pain Split
-|Archeops @ Life Orb
+|Archeops#2
+Archeops @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Defeatist
@@ -2096,7 +2356,8 @@ Ability: Defeatist
 - Earthquake
 - Focus Blast
 - Quick Attack
-|Crustle @ Power Herb
+|Crustle#1
+Crustle @ Power Herb
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -2104,7 +2365,8 @@ Ability: Sturdy
 - X-Scissor
 - Solar Beam
 - Shell Smash
-|Golem @ Choice Band
+|Golem#3
+Golem @ Choice Band
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -2112,7 +2374,8 @@ Ability: Sturdy
 - Earthquake
 - Sucker Punch
 - Explosion
-|Relicanth @ Liechi Berry
+|Relicanth#2
+Relicanth @ Liechi Berry
 Level: 50
 Hardy Nature
 Ability: Swift Swim
@@ -2120,7 +2383,8 @@ Ability: Swift Swim
 - Waterfall
 - Rock Polish
 - Yawn
-|Roserade @ Choice Scarf
+|Roserade#2
+Roserade @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Poison Point
@@ -2128,7 +2392,8 @@ Ability: Poison Point
 - Weather Ball
 - Shadow Ball
 - Sludge Bomb
-|Tropius @ Heat Rock
+|Tropius#2
+Tropius @ Heat Rock
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -2136,7 +2401,8 @@ Ability: Chlorophyll
 - Air Slash
 - Synthesis
 - Sunny Day
-|Breloom @ Focus Sash
+|Breloom#3
+Breloom @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Effect Spore
@@ -2144,7 +2410,8 @@ Ability: Effect Spore
 - Stone Edge
 - Drain Punch
 - Mach Punch
-|Tangrowth @ Salac Berry
+|Tangrowth#2
+Tangrowth @ Salac Berry
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -2152,7 +2419,8 @@ Ability: Chlorophyll
 - Earthquake
 - Sludge Bomb
 - Focus Blast
-|Leafeon @ Yache Berry
+|Leafeon#1
+Leafeon @ Yache Berry
 Level: 50
 Hardy Nature
 Ability: Leaf Guard
@@ -2160,7 +2428,8 @@ Ability: Leaf Guard
 - X-Scissor
 - Quick Attack
 - Swords Dance
-|Torterra @ Choice Band
+|Torterra#1
+Torterra @ Choice Band
 Level: 50
 Hardy Nature
 Ability: Overgrow
@@ -2168,7 +2437,8 @@ Ability: Overgrow
 - Earthquake
 - Outrage
 - Stone Edge
-|Lucario @ Focus Sash
+|Lucario#3
+Lucario @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Steadfast
@@ -2176,7 +2446,8 @@ Ability: Steadfast
 - Ice Punch
 - Extreme Speed
 - Swords Dance
-|Infernape @ Fire Gem
+|Infernape#1
+Infernape @ Fire Gem
 Level: 50
 Hardy Nature
 Ability: Blaze
@@ -2184,7 +2455,8 @@ Ability: Blaze
 - Mach Punch
 - Flare Blitz
 - Bulk Up
-|Toxicroak @ Payapa Berry
+|Toxicroak#2
+Toxicroak @ Payapa Berry
 Level: 50
 Hardy Nature
 Ability: Anticipation
@@ -2192,7 +2464,8 @@ Ability: Anticipation
 - Drain Punch
 - Substitute
 - Bulk Up
-|Gallade @ Coba Berry
+|Gallade#2
+Gallade @ Coba Berry
 Level: 50
 Hardy Nature
 Ability: Steadfast
@@ -2200,7 +2473,8 @@ Ability: Steadfast
 - Psycho Cut
 - Close Combat
 - Bulk Up
-|Medicham @ Choice Scarf
+|Medicham#1
+Medicham @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Pure Power
@@ -2208,7 +2482,8 @@ Ability: Pure Power
 - Zen Headbutt
 - Thunder Punch
 - High Jump Kick
-|Machamp @ Scope Lens
+|Machamp#5
+Machamp @ Scope Lens
 Level: 50
 Hardy Nature
 Ability: No Guard
@@ -2216,7 +2491,8 @@ Ability: No Guard
 - Stone Edge
 - Ice Punch
 - Bullet Punch
-|Floatzel @ Life Orb
+|Floatzel#1
+Floatzel @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Swift Swim
@@ -2224,7 +2500,8 @@ Ability: Swift Swim
 - Ice Punch
 - Focus Blast
 - Bulk Up
-|Empoleon @ Petaya Berry
+|Empoleon#1
+Empoleon @ Petaya Berry
 Level: 50
 Hardy Nature
 Ability: Torrent
@@ -2232,7 +2509,8 @@ Ability: Torrent
 - Blizzard
 - Grass Knot
 - Feather Dance
-|Ludicolo @ Leftovers
+|Ludicolo#2
+Ludicolo @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Swift Swim
@@ -2240,7 +2518,8 @@ Ability: Swift Swim
 - Rain Dance
 - Hydro Pump
 - Focus Energy
-|Gastrodon @ Rindo Berry
+|Gastrodon#1
+Gastrodon @ Rindo Berry
 Level: 50
 Hardy Nature
 Ability: Storm Drain
@@ -2248,7 +2527,8 @@ Ability: Storm Drain
 - Earth Power
 - Blizzard
 - Counter
-|Poliwrath @ Salac Berry
+|Poliwrath#2
+Poliwrath @ Salac Berry
 Level: 50
 Hardy Nature
 Ability: Water Absorb
@@ -2256,7 +2536,8 @@ Ability: Water Absorb
 - Waterfall
 - Focus Punch
 - Hypnosis
-|Gyarados @ Wacan Berry
+|Gyarados#4
+Gyarados @ Wacan Berry
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -2264,7 +2545,8 @@ Ability: Intimidate
 - Aqua Tail
 - Dragon Dance
 - Outrage
-|Drifblim @ Flame Orb
+|Drifblim#2
+Drifblim @ Flame Orb
 Level: 68
 Hardy Nature
 Ability: Flare Boost
@@ -2272,7 +2554,8 @@ Ability: Flare Boost
 - Thunderbolt
 - Psychic
 - Strength Sap
-|Banette @ Iron Ball
+|Banette#3
+Banette @ Iron Ball
 Level: 65
 Hardy Nature
 Ability: Cursed Body
@@ -2280,7 +2563,8 @@ Ability: Cursed Body
 - Shadow Sneak
 - Sucker Punch
 - Payback
-|Dusknoir @ Sitrus Berry
+|Dusknoir#3
+Dusknoir @ Sitrus Berry
 Level: 70
 Hardy Nature
 Ability: Pressure
@@ -2288,7 +2572,8 @@ Ability: Pressure
 - Will-O-Wisp
 - Earthquake
 - Confuse Ray
-|Mismagius @ Expert Belt
+|Mismagius#3
+Mismagius @ Expert Belt
 Level: 70
 Hardy Nature
 Ability: Levitate
@@ -2296,7 +2581,8 @@ Ability: Levitate
 - Energy Ball
 - Mystical Fire
 - Dazzling Gleam
-|Froslass
+|Froslass#3
+Froslass
 Level: 72
 Hardy Nature
 Ability: Cursed Body
@@ -2304,7 +2590,8 @@ Ability: Cursed Body
 - Frost Breath
 - Will-O-Wisp
 - Destiny Bond
-|Gengar @ Life Orb
+|Gengar#5
+Gengar @ Life Orb
 Level: 72
 Hardy Nature
 Ability: Cursed Body
@@ -2312,7 +2599,8 @@ Ability: Cursed Body
 - Sludge Bomb
 - Focus Blast
 - Toxic
-|Bastiodon @ Air Balloon
+|Bastiodon#1
+Bastiodon @ Air Balloon
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -2320,7 +2608,8 @@ Ability: Sturdy
 - Fire Blast
 - Iron Defense
 - Stealth Rock
-|Excadrill @ Life Orb
+|Excadrill#2
+Excadrill @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Sand Rush
@@ -2328,7 +2617,8 @@ Ability: Sand Rush
 - Earthquake
 - Submission
 - Rock Slide
-|Bronzong @ Iron Ball
+|Bronzong#4
+Bronzong @ Iron Ball
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -2336,7 +2626,8 @@ Ability: Levitate
 - Zen Headbutt
 - Earthquake
 - Trick Room
-|Magnezone @ Shuca Berry
+|Magnezone#3
+Magnezone @ Shuca Berry
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -2344,7 +2635,8 @@ Ability: Sturdy
 - Protect
 - Reflect
 - Mirror Coat
-|Aggron @ Choice Band
+|Aggron#3
+Aggron @ Choice Band
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -2352,7 +2644,8 @@ Ability: Sturdy
 - Fire Punch
 - Head Smash
 - Dragon Rush
-|Forretress @ Light Clay
+|Forretress#2
+Forretress @ Light Clay
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -2360,7 +2653,8 @@ Ability: Sturdy
 - Earthquake
 - Reflect
 - Stealth Rock
-|Froslass @ Petaya Berry
+|Froslass#4
+Froslass @ Petaya Berry
 Level: 50
 Hardy Nature
 Ability: Snow Cloak
@@ -2368,7 +2662,8 @@ Ability: Snow Cloak
 - Shadow Ball
 - Psychic
 - Hail
-|Abomasnow @ Occa Berry
+|Abomasnow#3
+Abomasnow @ Occa Berry
 Level: 50
 Hardy Nature
 Ability: Snow Warning
@@ -2376,7 +2671,8 @@ Ability: Snow Warning
 - Wood Hammer
 - Earthquake
 - Ingrain
-|Weavile @ Chople Berry
+|Weavile#3
+Weavile @ Chople Berry
 Level: 50
 Hardy Nature
 Ability: Pressure
@@ -2384,7 +2680,8 @@ Ability: Pressure
 - Brick Break
 - Night Slash
 - Torment
-|Glaceon @ Life Orb
+|Glaceon#1
+Glaceon @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Snow Cloak
@@ -2392,7 +2689,8 @@ Ability: Snow Cloak
 - Shadow Ball
 - Signal Beam
 - Ice Shard
-|Mamoswine @ Salac Berry
+|Mamoswine#2
+Mamoswine @ Salac Berry
 Level: 50
 Hardy Nature
 Ability: Snow Cloak
@@ -2400,7 +2698,8 @@ Ability: Snow Cloak
 - Bulldoze
 - Superpower
 - Rock Tomb
-|Glalie @ Rock Gem
+|Glalie#2
+Glalie @ Rock Gem
 Level: 50
 Hardy Nature
 Ability: Ice Body
@@ -2408,7 +2707,8 @@ Ability: Ice Body
 - Crunch
 - Rollout
 - Hail
-|Pelipper @ Damp Rock
+|Pelipper#1
+Pelipper @ Damp Rock
 Level: 70
 Hardy Nature
 Ability: Drizzle
@@ -2416,7 +2716,8 @@ Ability: Drizzle
 - Hurricane
 - Ice Beam
 - U-turn
-|Raichu @ Choice Scarf
+|Raichu#3
+Raichu @ Choice Scarf
 Level: 70
 Hardy Nature
 Ability: Static
@@ -2424,7 +2725,8 @@ Ability: Static
 - Surf
 - Focus Blast
 - Volt Switch
-|Luxray @ Focus Sash
+|Luxray#1
+Luxray @ Focus Sash
 Level: 70
 Hardy Nature
 Ability: Intimidate
@@ -2432,7 +2734,8 @@ Ability: Intimidate
 - Play Rough
 - Volt Switch
 - Electric Terrain
-|Lanturn @ Expert Belt
+|Lanturn#2
+Lanturn @ Expert Belt
 Level: 66
 Hardy Nature
 Ability: Volt Absorb
@@ -2440,7 +2743,8 @@ Ability: Volt Absorb
 - Surf
 - Ice Beam
 - Volt Switch
-|Jolteon @ Toxic Orb
+|Jolteon#2
+Jolteon @ Toxic Orb
 Level: 68
 Hardy Nature
 Ability: Quick Feet
@@ -2448,7 +2752,8 @@ Ability: Quick Feet
 - Shadow Ball
 - Reflect
 - Volt Switch
-|Electivire @ Life Orb
+|Electivire#2
+Electivire @ Life Orb
 Level: 75
 Hardy Nature
 Ability: Motor Drive
@@ -2456,7 +2761,8 @@ Ability: Motor Drive
 - Flamethrower
 - Cross Chop
 - Earthquake
-|Yanmega @ Wise Glasses
+|Yanmega#2
+Yanmega @ Wise Glasses
 Level: 75
 Hardy Nature
 Ability: Speed Boost
@@ -2464,7 +2770,8 @@ Ability: Speed Boost
 - Air Slash
 - Detect
 - Ancient Power
-|Scizor @ Occa Berry
+|Scizor#2
+Scizor @ Occa Berry
 Level: 75
 Hardy Nature
 Ability: Technician
@@ -2472,7 +2779,8 @@ Ability: Technician
 - X-Scissor
 - Night Slash
 - Swords Dance
-|Vespiquen @ Sitrus Berry
+|Vespiquen#1
+Vespiquen @ Sitrus Berry
 Level: 77
 Hardy Nature
 Ability: Unnerve
@@ -2480,7 +2788,8 @@ Ability: Unnerve
 - Aerial Ace
 - Attack Order
 - Defend Order
-|Heracross @ Flame Orb
+|Heracross#3
+Heracross @ Flame Orb
 Level: 77
 Hardy Nature
 Ability: Guts
@@ -2488,7 +2797,8 @@ Ability: Guts
 - Rock Slide
 - Facade
 - Close Combat
-|Flygon @ Wise Glasses
+|Flygon#3
+Flygon @ Wise Glasses
 Level: 75
 Hardy Nature
 Ability: Levitate
@@ -2496,7 +2806,8 @@ Ability: Levitate
 - Earth Power
 - Boomburst
 - Bug Buzz
-|Drapion @ Scope Lens
+|Drapion#1
+Drapion @ Scope Lens
 Level: 79
 Hardy Nature
 Ability: Sniper
@@ -2504,7 +2815,8 @@ Ability: Sniper
 - Night Slash
 - Earthquake
 - X-Scissor
-|Whiscash @ Rindo Berry
+|Whiscash#2
+Whiscash @ Rindo Berry
 Level: 76
 Hardy Nature
 Ability: Hydration
@@ -2512,7 +2824,8 @@ Ability: Hydration
 - Ice Beam
 - Scald
 - Zen Headbutt
-|Gliscor @ Sitrus Berry
+|Gliscor#1
+Gliscor @ Sitrus Berry
 Level: 79
 Hardy Nature
 Ability: Hyper Cutter
@@ -2520,7 +2833,8 @@ Ability: Hyper Cutter
 - Thunder Fang
 - Guillotine
 - X-Scissor
-|Nidoking @ Liechi Berry
+|Nidoking#2
+Nidoking @ Liechi Berry
 Level: 78
 Hardy Nature
 Ability: Sheer Force
@@ -2528,7 +2842,8 @@ Ability: Sheer Force
 - Earth Power
 - Thunderbolt
 - Ice Beam
-|Hippowdon @ Chesto Berry
+|Hippowdon#1
+Hippowdon @ Chesto Berry
 Level: 78
 Hardy Nature
 Ability: Sand Stream
@@ -2536,7 +2851,8 @@ Ability: Sand Stream
 - Earthquake
 - Crunch
 - Rest
-|Mamoswine @ Never-Melt Ice
+|Mamoswine#3
+Mamoswine @ Never-Melt Ice
 Level: 78
 Hardy Nature
 Ability: Thick Fat
@@ -2544,7 +2860,8 @@ Ability: Thick Fat
 - Icicle Spear
 - Ice Shard
 - Double-Edge
-|Rhyperior @ Muscle Band
+|Rhyperior#3
+Rhyperior @ Muscle Band
 Level: 81
 Hardy Nature
 Ability: Solid Rock
@@ -2552,7 +2869,8 @@ Ability: Solid Rock
 - Rock Wrecker
 - Megahorn
 - Thunder Fang
-|Ninetales @ Heat Rock
+|Ninetales#2
+Ninetales @ Heat Rock
 Level: 78
 Hardy Nature
 Ability: Drought
@@ -2560,7 +2878,8 @@ Ability: Drought
 - Solar Beam
 - Hypnosis
 - Nasty Plot
-|Houndoom @ Wise Glasses
+|Houndoom#3
+Houndoom @ Wise Glasses
 Level: 78
 Hardy Nature
 Ability: Unnerve
@@ -2568,7 +2887,8 @@ Ability: Unnerve
 - Dark Pulse
 - Destiny Bond
 - Nasty Plot
-|Rapidash @ Wide Lens
+|Rapidash#1
+Rapidash @ Wide Lens
 Level: 79
 Hardy Nature
 Ability: Flame Body
@@ -2576,7 +2896,8 @@ Ability: Flame Body
 - Poison Jab
 - Iron Tail
 - Hypnosis
-|Infernape @ Focus Sash
+|Infernape#2
+Infernape @ Focus Sash
 Level: 81
 Hardy Nature
 Ability: Iron Fist
@@ -2584,7 +2905,8 @@ Ability: Iron Fist
 - Thunder Punch
 - Close Combat
 - Mach Punch
-|Arcanine @ Shuca Berry
+|Arcanine#4
+Arcanine @ Shuca Berry
 Level: 81
 Hardy Nature
 Ability: Intimidate
@@ -2592,7 +2914,8 @@ Ability: Intimidate
 - Play Rough
 - Close Combat
 - Extreme Speed
-|Magmortar @ Sitrus Berry
+|Magmortar#3
+Magmortar @ Sitrus Berry
 Level: 83
 Hardy Nature
 Ability: Flame Body
@@ -2600,7 +2923,8 @@ Ability: Flame Body
 - Thunderbolt
 - Focus Blast
 - Psychic
-|Mr. Mime @ Light Clay
+|Mr. Mime#1
+Mr. Mime @ Light Clay
 Level: 79
 Hardy Nature
 Ability: Filter
@@ -2608,7 +2932,8 @@ Ability: Filter
 - Reflect
 - Psychic
 - Dazzling Gleam
-|Espeon @ Mental Herb
+|Espeon#2
+Espeon @ Mental Herb
 Level: 81
 Hardy Nature
 Ability: Magic Bounce
@@ -2616,7 +2941,8 @@ Ability: Magic Bounce
 - Dazzling Gleam
 - Shadow Ball
 - Light Screen
-|Bronzong @ Muscle Band
+|Bronzong#5
+Bronzong @ Muscle Band
 Level: 80
 Hardy Nature
 Ability: Levitate
@@ -2624,7 +2950,8 @@ Ability: Levitate
 - Earthquake
 - Payback
 - Rock Slide
-|Alakazam @ Life Orb
+|Alakazam#3
+Alakazam @ Life Orb
 Level: 82
 Hardy Nature
 Ability: Magic Guard
@@ -2632,7 +2959,8 @@ Ability: Magic Guard
 - Shock Wave
 - Psychic
 - Dazzling Gleam
-|Slowbro @ Leftovers
+|Slowbro#4
+Slowbro @ Leftovers
 Level: 82
 Hardy Nature
 Ability: Regenerator
@@ -2640,7 +2968,8 @@ Ability: Regenerator
 - Psychic
 - Flamethrower
 - Slack Off
-|Gallade @ Sitrus Berry
+|Gallade#3
+Gallade @ Sitrus Berry
 Level: 85
 Hardy Nature
 Ability: Justified
@@ -2648,7 +2977,8 @@ Ability: Justified
 - Psycho Cut
 - Shadow Sneak
 - Poison Jab
-|Spiritomb @ Sitrus Berry
+|Spiritomb#2
+Spiritomb @ Sitrus Berry
 Level: 84
 Hardy Nature
 Ability: Pressure
@@ -2656,7 +2986,8 @@ Ability: Pressure
 - Dark Pulse
 - Will-O-Wisp
 - Sucker Punch
-|Porygon-Z @ Eviolite
+|Porygon-Z#1
+Porygon-Z @ Eviolite
 Level: 85
 Hardy Nature
 Ability: Adaptability
@@ -2664,7 +2995,8 @@ Ability: Adaptability
 - Shadow Ball
 - Ice Beam
 - Thunderbolt
-|Togekiss @ Leftovers
+|Togekiss#1
+Togekiss @ Leftovers
 Level: 86
 Hardy Nature
 Ability: Serene Grace
@@ -2672,7 +3004,8 @@ Ability: Serene Grace
 - Dazzling Gleam
 - Aura Sphere
 - Thunder Wave
-|Lucario @ Focus Sash
+|Lucario#4
+Lucario @ Focus Sash
 Level: 86
 Hardy Nature
 Ability: Inner Focus
@@ -2680,7 +3013,8 @@ Ability: Inner Focus
 - Meteor Mash
 - Earthquake
 - Extreme Speed
-|Milotic @ Flame Orb
+|Milotic#2
+Milotic @ Flame Orb
 Level: 84
 Hardy Nature
 Ability: Marvel Scale
@@ -2688,7 +3022,8 @@ Ability: Marvel Scale
 - Mirror Coat
 - Ice Beam
 - Scald
-|Garchomp @ Yache Berry
+|Garchomp#2
+Garchomp @ Yache Berry
 Level: 100
 Hardy Nature
 Ability: Rough Skin
@@ -2696,7 +3031,8 @@ Ability: Rough Skin
 - Swords Dance
 - Poison Jab
 - Earthquake
-|Zapdos @ Bright Powder
+|Zapdos#1
+Zapdos @ Bright Powder
 Level: 50
 Modest Nature
 Ability: Pressure
@@ -2705,7 +3041,8 @@ EVs: 252 SpA / 252 Spe
 - Air Cutter
 - Heat Wave
 - Signal Beam
-|Blaziken @ White Herb
+|Blaziken#2
+Blaziken @ White Herb
 Level: 50
 Adamant Nature
 Ability: Blaze
@@ -2714,7 +3051,8 @@ EVs: 252 Atk / 252 Spe
 - Superpower
 - Thunder Punch
 - Night Slash
-|Togekiss @ Expert Belt
+|Togekiss#2
+Togekiss @ Expert Belt
 Level: 50
 Modest Nature
 Ability: Serene Grace
@@ -2723,7 +3061,8 @@ EVs: 252 SpA / 52 Spe
 - Aura Sphere
 - Psychic
 - Hyper Beam
-|Entei @ Shuca Berry
+|Entei#1
+Entei @ Shuca Berry
 Level: 50
 Modest Nature
 Ability: Pressure
@@ -2732,7 +3071,8 @@ EVs: 252 SpA / 252 Spe
 - Extrasensory
 - Shadow Ball
 - Calm Mind
-|Empoleon @ Quick Claw
+|Empoleon#2
+Empoleon @ Quick Claw
 Level: 50
 Hardy Nature
 Ability: Torrent
@@ -2741,7 +3081,8 @@ EVs: 252 Atk / 252 SpA
 - Earthquake
 - Blizzard
 - Signal Beam
-|Gallade @ Scope Lens
+|Gallade#4
+Gallade @ Scope Lens
 Level: 50
 Adamant Nature
 Ability: Steadfast
@@ -2750,7 +3091,8 @@ EVs: 252 Atk / 252 SpD
 - Close Combat
 - Leaf Blade
 - Night Slash
-|Regigigas @ Bright Powder
+|Regigigas#1
+Regigigas @ Bright Powder
 Level: 50
 Hardy Nature
 Ability: Slow Start
@@ -2759,7 +3101,8 @@ EVs: 252 HP / 252 Atk
 - Earthquake
 - Stone Edge
 - Drain Punch
-|Heatran @ Focus Sash
+|Heatran#1
+Heatran @ Focus Sash
 Level: 50
 Quiet Nature
 Ability: Flash Fire
@@ -2768,7 +3111,8 @@ EVs: 252 Atk / 252 SpA
 - Flash Cannon
 - Earth Power
 - Explosion
-|Cresselia @ Leftovers
+|Cresselia#1
+Cresselia @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -2777,7 +3121,8 @@ EVs: 170 HP / 170 Def / 170 SpD
 - Ice Beam
 - Signal Beam
 - Moonlight
-|Simisage @ Grass Gem
+|Simisage#1
+Simisage @ Grass Gem
 Level: 50
 Hardy Nature
 Ability: Gluttony
@@ -2785,7 +3130,8 @@ Ability: Gluttony
 - Low Kick
 - Acrobatics
 - Crunch
-|Ferrothorn @ Choice Band
+|Ferrothorn#1
+Ferrothorn @ Choice Band
 Level: 50
 Hardy Nature
 Ability: Iron Barbs
@@ -2793,7 +3139,8 @@ Ability: Iron Barbs
 - Gyro Ball
 - Bulldoze
 - Explosion
-|Serperior @ Leftovers
+|Serperior#1
+Serperior @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Overgrow
@@ -2801,7 +3148,8 @@ Ability: Overgrow
 - Protect
 - Aerial Ace
 - Leaf Blade
-|Jumpluff @ Focus Sash
+|Jumpluff#1
+Jumpluff @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -2809,7 +3157,8 @@ Ability: Chlorophyll
 - Cotton Guard
 - Giga Drain
 - Sleep Powder
-|Whimsicott @ Mental Herb
+|Whimsicott#1
+Whimsicott @ Mental Herb
 Level: 50
 Hardy Nature
 Ability: Prankster
@@ -2817,7 +3166,8 @@ Ability: Prankster
 - Substitute
 - Hurricane
 - Leech Seed
-|Lilligant @ Miracle Seed
+|Lilligant#1
+Lilligant @ Miracle Seed
 Level: 50
 Hardy Nature
 Ability: Own Tempo
@@ -2825,7 +3175,8 @@ Ability: Own Tempo
 - Sleep Powder
 - Quiver Dance
 - Dream Eater
-|Simisear @ Fire Gem
+|Simisear#1
+Simisear @ Fire Gem
 Level: 50
 Hardy Nature
 Ability: Gluttony
@@ -2833,7 +3184,8 @@ Ability: Gluttony
 - Low Kick
 - Acrobatics
 - Crunch
-|Heatmor @ Focus Sash
+|Heatmor#1
+Heatmor @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Gluttony
@@ -2841,7 +3193,8 @@ Ability: Gluttony
 - Sucker Punch
 - Focus Blast
 - Sunny Day
-|Darmanitan @ Life Orb
+|Darmanitan#1
+Darmanitan @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Sheer Force
@@ -2849,7 +3202,8 @@ Ability: Sheer Force
 - Hammer Arm
 - Stone Edge
 - U-turn
-|Arcanine @ Power Herb
+|Arcanine#5
+Arcanine @ Power Herb
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -2857,7 +3211,8 @@ Ability: Intimidate
 - Solar Beam
 - Dragon Pulse
 - Extreme Speed
-|Camerupt @ Shuca Berry
+|Camerupt#2
+Camerupt @ Shuca Berry
 Level: 50
 Hardy Nature
 Ability: Solid Rock
@@ -2865,7 +3220,8 @@ Ability: Solid Rock
 - Earth Power
 - Stone Edge
 - Explosion
-|Emboar @ Expert Belt
+|Emboar#1
+Emboar @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Blaze
@@ -2873,7 +3229,8 @@ Ability: Blaze
 - Wild Charge
 - Head Smash
 - Hammer Arm
-|Simipour @ Water Gem
+|Simipour#1
+Simipour @ Water Gem
 Level: 50
 Hardy Nature
 Ability: Gluttony
@@ -2881,7 +3238,8 @@ Ability: Gluttony
 - Low Kick
 - Acrobatics
 - Crunch
-|Simipour @ Water Gem
+|Simipour#2
+Simipour @ Water Gem
 Level: 50
 Hardy Nature
 Ability: Gluttony
@@ -2889,7 +3247,8 @@ Ability: Gluttony
 - Low Kick
 - Acrobatics
 - Crunch
-|Samurott @ Leftovers
+|Samurott#1
+Samurott @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Torrent
@@ -2897,7 +3256,8 @@ Ability: Torrent
 - Megahorn
 - Aqua Jet
 - Revenge
-|Azumarill
+|Azumarill#1
+Azumarill
 Level: 50
 Hardy Nature
 Ability: Huge Power
@@ -2905,7 +3265,8 @@ Ability: Huge Power
 - Aqua Jet
 - Superpower
 - Giga Impact
-|Slowking @ Expert Belt
+|Slowking#2
+Slowking @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Oblivious
@@ -2913,7 +3274,8 @@ Ability: Oblivious
 - Psychic
 - Fire Blast
 - Nasty Plot
-|Seismitoad @ Rindo Berry
+|Seismitoad#1
+Seismitoad @ Rindo Berry
 Level: 50
 Hardy Nature
 Ability: Swift Swim
@@ -2921,7 +3283,8 @@ Ability: Swift Swim
 - Poison Jab
 - Earth Power
 - Rain Dance
-|Watchog @ Focus Sash
+|Watchog#1
+Watchog @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Keen Eye
@@ -2929,7 +3292,8 @@ Ability: Keen Eye
 - Confuse Ray
 - Super Fang
 - Flail
-|Braviary @ Power Herb
+|Braviary#1
+Braviary @ Power Herb
 Level: 50
 Hardy Nature
 Ability: Sheer Force
@@ -2937,7 +3301,8 @@ Ability: Sheer Force
 - U-turn
 - Tailwind
 - Sky Attack
-|Cinccino @ Life Orb
+|Cinccino#1
+Cinccino @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Technician
@@ -2945,7 +3310,8 @@ Ability: Technician
 - Swift
 - Thunderbolt
 - Grass Knot
-|Kangaskhan @ Chople Berry
+|Kangaskhan#1
+Kangaskhan @ Chople Berry
 Level: 50
 Hardy Nature
 Ability: Scrappy
@@ -2953,7 +3319,8 @@ Ability: Scrappy
 - Hammer Arm
 - Sucker Punch
 - Ice Punch
-|Sawsbuck @ Choice Scarf
+|Sawsbuck#2
+Sawsbuck @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Chlorophyll
@@ -2961,7 +3328,8 @@ Ability: Chlorophyll
 - Jump Kick
 - Horn Leech
 - Megahorn
-|Lickilicky @ Expert Belt
+|Lickilicky#1
+Lickilicky @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Own Tempo
@@ -2969,7 +3337,8 @@ Ability: Own Tempo
 - Ice Beam
 - Thunderbolt
 - Flamethrower
-|Leavanny @ Focus Sash
+|Leavanny#1
+Leavanny @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Swarm
@@ -2977,7 +3346,8 @@ Ability: Swarm
 - Aerial Ace
 - Leaf Blade
 - X-Scissor
-|Vespiquen @ Leftovers
+|Vespiquen#2
+Vespiquen @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Pressure
@@ -2985,7 +3355,8 @@ Ability: Pressure
 - Toxic
 - Defend Order
 - Attack Order
-|Crustle @ Salac Berry
+|Crustle#2
+Crustle @ Salac Berry
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -2993,7 +3364,8 @@ Ability: Sturdy
 - Shell Smash
 - Rock Blast
 - X-Scissor
-|Heracross @ Choice Scarf
+|Heracross#4
+Heracross @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Swarm
@@ -3001,7 +3373,8 @@ Ability: Swarm
 - Shadow Claw
 - Megahorn
 - Close Combat
-|Accelgor @ Bright Powder
+|Accelgor#1
+Accelgor @ Bright Powder
 Level: 50
 Hardy Nature
 Ability: Hydration
@@ -3009,7 +3382,8 @@ Ability: Hydration
 - Focus Blast
 - Bug Buzz
 - Giga Drain
-|Durant @ Wide Lens
+|Durant#1
+Durant @ Wide Lens
 Level: 50
 Hardy Nature
 Ability: Swarm
@@ -3017,7 +3391,8 @@ Ability: Swarm
 - Stone Edge
 - Iron Head
 - X-Scissor
-|Zebstrika @ Life Orb
+|Zebstrika#1
+Zebstrika @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Motor Drive
@@ -3025,7 +3400,8 @@ Ability: Motor Drive
 - Overheat
 - Return
 - Quick Attack
-|Ampharos @ Shuca Berry
+|Ampharos#2
+Ampharos @ Shuca Berry
 Level: 50
 Hardy Nature
 Ability: Static
@@ -3033,7 +3409,8 @@ Ability: Static
 - Power Gem
 - Signal Beam
 - Discharge
-|Luxray @ Expert Belt
+|Luxray#2
+Luxray @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -3041,7 +3418,8 @@ Ability: Intimidate
 - Wild Charge
 - Ice Fang
 - Quick Attack
-|Emolga @ Flying Gem
+|Emolga#1
+Emolga @ Flying Gem
 Level: 50
 Hardy Nature
 Ability: Static
@@ -3049,7 +3427,8 @@ Ability: Static
 - U-turn
 - Acrobatics
 - Charm
-|Eelektross @ Choice Band
+|Eelektross#1
+Eelektross @ Choice Band
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -3057,7 +3436,8 @@ Ability: Levitate
 - Thunder Punch
 - Fire Punch
 - Dragon Claw
-|Stunfisk @ Sitrus Berry
+|Stunfisk#1
+Stunfisk @ Sitrus Berry
 Level: 50
 Hardy Nature
 Ability: Static
@@ -3065,7 +3445,8 @@ Ability: Static
 - Foul Play
 - Scald
 - Discharge
-|Excadrill @ Focus Sash
+|Excadrill#3
+Excadrill @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Sand Rush
@@ -3073,7 +3454,8 @@ Ability: Sand Rush
 - Rock Slide
 - Submission
 - Swords Dance
-|Flygon @ Liechi Berry
+|Flygon#4
+Flygon @ Liechi Berry
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -3081,7 +3463,8 @@ Ability: Levitate
 - Fire Blast
 - Outrage
 - Stone Edge
-|Krokorok @ Choice Band
+|Krokorok#1
+Krokorok @ Choice Band
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -3089,7 +3472,8 @@ Ability: Intimidate
 - Aqua Tail
 - Rock Slide
 - Fire Fang
-|Seismitoad @ Life Orb
+|Seismitoad#2
+Seismitoad @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Poison Point
@@ -3097,7 +3481,8 @@ Ability: Poison Point
 - Focus Blast
 - Earth Power
 - Hydro Pump
-|Mamoswine @ Ice Gem
+|Mamoswine#4
+Mamoswine @ Ice Gem
 Level: 50
 Hardy Nature
 Ability: Oblivious
@@ -3105,7 +3490,8 @@ Ability: Oblivious
 - Stone Edge
 - Ice Shard
 - Earthquake
-|Golurk @ Leftovers
+|Golurk#1
+Golurk @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Iron Fist
@@ -3113,7 +3499,8 @@ Ability: Iron Fist
 - Substitute
 - Focus Punch
 - Earthquake
-|Swanna @ Focus Sash
+|Swanna#1
+Swanna @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Big Pecks
@@ -3121,7 +3508,8 @@ Ability: Big Pecks
 - Tailwind
 - Scald
 - Ice Beam
-|Jumpluff @ Flying Gem
+|Jumpluff#2
+Jumpluff @ Flying Gem
 Level: 50
 Hardy Nature
 Ability: Leaf Guard
@@ -3129,7 +3517,8 @@ Ability: Leaf Guard
 - Acrobatics
 - Bullet Seed
 - Sleep Powder
-|Drifblim @ Expert Belt
+|Drifblim#3
+Drifblim @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Unburden
@@ -3137,7 +3526,8 @@ Ability: Unburden
 - Thunderbolt
 - Psychic
 - Icy Wind
-|Archeops @ Sitrus Berry
+|Archeops#3
+Archeops @ Sitrus Berry
 Level: 50
 Hardy Nature
 Ability: Defeatist
@@ -3145,7 +3535,8 @@ Ability: Defeatist
 - Stone Edge
 - Earthquake
 - Dragon Claw
-|Braviary @ Whipped Dream
+|Braviary#2
+Braviary @ Whipped Dream
 Level: 50
 Hardy Nature
 Ability: Sheer Force
@@ -3153,7 +3544,8 @@ Ability: Sheer Force
 - Rock Slide
 - U-turn
 - Superpower
-|Mandibuzz @ Salac Berry
+|Mandibuzz#2
+Mandibuzz @ Salac Berry
 Level: 50
 Hardy Nature
 Ability: Big Pecks
@@ -3161,7 +3553,8 @@ Ability: Big Pecks
 - Nasty Plot
 - Air Slash
 - Roost
-|Cryogonal @ Wide Lens
+|Cryogonal#1
+Cryogonal @ Wide Lens
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -3169,7 +3562,8 @@ Ability: Levitate
 - Sheer Cold
 - Flash Cannon
 - Blizzard
-|Beartic @ Bright Powder
+|Beartic#2
+Beartic @ Bright Powder
 Level: 50
 Hardy Nature
 Ability: Snow Cloak
@@ -3177,7 +3571,8 @@ Ability: Snow Cloak
 - Substitute
 - Focus Punch
 - Icicle Crash
-|Vanilluxe @ Leftovers
+|Vanilluxe#2
+Vanilluxe @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Ice Body
@@ -3185,7 +3580,8 @@ Ability: Ice Body
 - Weather Ball
 - Protect
 - Petal Blizzard
-|Weavile @ Focus Sash
+|Weavile#4
+Weavile @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Pressure
@@ -3193,7 +3589,8 @@ Ability: Pressure
 - Fake Out
 - Brick Break
 - Ice Shard
-|Dewgong @ Life Orb
+|Dewgong#3
+Dewgong @ Life Orb
 Level: 50
 Hardy Nature
 Ability: Thick Fat
@@ -3201,7 +3598,8 @@ Ability: Thick Fat
 - Drill Run
 - Aqua Jet
 - Frost Breath
-|Walrein @ Expert Belt
+|Walrein#4
+Walrein @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Thick Fat
@@ -3209,7 +3607,8 @@ Ability: Thick Fat
 - Super Fang
 - Aqua Tail
 - Avalanche
-|Haxorus @ Focus Sash
+|Haxorus#3
+Haxorus @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Rivalry
@@ -3217,7 +3616,8 @@ Ability: Rivalry
 - Dragon Dance
 - Earthquake
 - Brick Break
-|Druddigon @ Rocky Helmet
+|Druddigon#2
+Druddigon @ Rocky Helmet
 Level: 50
 Hardy Nature
 Ability: Rough Skin
@@ -3225,7 +3625,8 @@ Ability: Rough Skin
 - Fire Fang
 - Rest
 - Glare
-|Hydreigon @ Choice Specs
+|Hydreigon#2
+Hydreigon @ Choice Specs
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -3233,7 +3634,8 @@ Ability: Levitate
 - Dark Pulse
 - Fire Blast
 - Focus Blast
-|Flygon @ Wide Lens
+|Flygon#5
+Flygon @ Wide Lens
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -3241,7 +3643,8 @@ Ability: Levitate
 - Earth Power
 - U-turn
 - Fire Blast
-|Altaria @ Yache Berry
+|Altaria#4
+Altaria @ Yache Berry
 Level: 50
 Hardy Nature
 Ability: Natural Cure
@@ -3249,7 +3652,8 @@ Ability: Natural Cure
 - Perish Song
 - Cotton Guard
 - Roost
-|Salamence @ White Herb
+|Salamence#4
+Salamence @ White Herb
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -3257,7 +3661,8 @@ Ability: Intimidate
 - Hydro Pump
 - Fire Blast
 - Tailwind
-|Liepard @ Sitrus Berry
+|Liepard#1
+Liepard @ Sitrus Berry
 Level: 65
 Hardy Nature
 Ability: Unburden
@@ -3265,7 +3670,8 @@ Ability: Unburden
 - Aerial Ace
 - Shadow Claw
 - Night Slash
-|Simisear @ Charcoal
+|Simisear#2
+Simisear @ Charcoal
 Level: 65
 Hardy Nature
 Ability: Gluttony
@@ -3273,7 +3679,8 @@ Ability: Gluttony
 - Rock Slide
 - Brick Break
 - Payback
-|Unfezant @ Scope Lens
+|Unfezant#1
+Unfezant @ Scope Lens
 Level: 65
 Hardy Nature
 Ability: Super Luck
@@ -3281,7 +3688,8 @@ Ability: Super Luck
 - Quick Attack
 - Air Slash
 - Facade
-|Gigalith @ Leftovers
+|Gigalith#1
+Gigalith @ Leftovers
 Level: 65
 Hardy Nature
 Ability: Sturdy
@@ -3289,7 +3697,8 @@ Ability: Sturdy
 - Stone Edge
 - Earthquake
 - Stealth Rock
-|Haxorus @ Dragon Gem
+|Haxorus#4
+Haxorus @ Dragon Gem
 Level: 65
 Hardy Nature
 Ability: Rivalry
@@ -3297,7 +3706,8 @@ Ability: Rivalry
 - X-Scissor
 - Rock Slide
 - Surf
-|Serperior @ Focus Sash
+|Serperior#2
+Serperior @ Focus Sash
 Level: 67
 Hardy Nature
 Ability: Overgrow
@@ -3305,7 +3715,8 @@ Ability: Overgrow
 - Dragon Tail
 - Leaf Blade
 - Leaf Storm
-|Scolipede @ Choice Scarf
+|Scolipede#1
+Scolipede @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Swarm
@@ -3313,7 +3724,8 @@ Ability: Swarm
 - Megahorn
 - Earthquake
 - Rock Slide
-|Toxicroak @ Focus Sash
+|Toxicroak#3
+Toxicroak @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Anticipation
@@ -3321,7 +3733,8 @@ Ability: Anticipation
 - Drain Punch
 - Poison Jab
 - Swords Dance
-|Garbodor @ Expert Belt
+|Garbodor#1
+Garbodor @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Weak Armor
@@ -3329,7 +3742,8 @@ Ability: Weak Armor
 - Thunderbolt
 - Focus Blast
 - Protect
-|Crobat @ Psychic Gem
+|Crobat#4
+Crobat @ Psychic Gem
 Level: 50
 Hardy Nature
 Ability: Inner Focus
@@ -3337,7 +3751,8 @@ Ability: Inner Focus
 - Brave Bird
 - Zen Headbutt
 - Tailwind
-|Drapion @ Scope Lens
+|Drapion#2
+Drapion @ Scope Lens
 Level: 50
 Hardy Nature
 Ability: Battle Armor
@@ -3345,7 +3760,8 @@ Ability: Battle Armor
 - Night Slash
 - Ice Fang
 - Protect
-|Amoonguss @ Black Sludge
+|Amoonguss#1
+Amoonguss @ Black Sludge
 Level: 50
 Hardy Nature
 Ability: Effect Spore
@@ -3353,7 +3769,8 @@ Ability: Effect Spore
 - Spore
 - Giga Drain
 - Protect
-|Jellicent @ Expert Belt
+|Jellicent#1
+Jellicent @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Cursed Body
@@ -3361,7 +3778,8 @@ Ability: Cursed Body
 - Energy Ball
 - Shadow Ball
 - Psychic
-|Carracosta @ Lum Berry
+|Carracosta#2
+Carracosta @ Lum Berry
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -3369,7 +3787,8 @@ Ability: Sturdy
 - Shell Smash
 - Aqua Jet
 - Waterfall
-|Starmie @ Focus Sash
+|Starmie#3
+Starmie @ Focus Sash
 Level: 50
 Hardy Nature
 Ability: Natural Cure
@@ -3377,7 +3796,8 @@ Ability: Natural Cure
 - Reflect
 - Light Screen
 - Scald
-|Quagsire @ Ribbon Sweet
+|Quagsire#1
+Quagsire @ Ribbon Sweet
 Level: 50
 Hardy Nature
 Ability: Water Absorb
@@ -3385,7 +3805,8 @@ Ability: Water Absorb
 - Earthquake
 - Waterfall
 - Counter
-|Cloyster @ King's Rock
+|Cloyster#3
+Cloyster @ King's Rock
 Level: 50
 Hardy Nature
 Ability: Skill Link
@@ -3393,7 +3814,8 @@ Ability: Skill Link
 - Icicle Spear
 - Rock Blast
 - Shell Smash
-|Wailord @ Choice Scarf
+|Wailord#1
+Wailord @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Water Veil
@@ -3401,7 +3823,8 @@ Ability: Water Veil
 - Blizzard
 - Bounce
 - Fissure
-|Cofagrigus @ Leftovers
+|Cofagrigus#1
+Cofagrigus @ Leftovers
 Level: 77
 Hardy Nature
 Ability: Mummy
@@ -3409,7 +3832,8 @@ Ability: Mummy
 - Will-O-Wisp
 - Energy Ball
 - Psychic
-|Gengar @ Expert Belt
+|Gengar#6
+Gengar @ Expert Belt
 Level: 77
 Hardy Nature
 Ability: Levitate
@@ -3417,7 +3841,8 @@ Ability: Levitate
 - Focus Blast
 - Sludge Bomb
 - Dark Pulse
-|Froslass @ Wise Glasses
+|Froslass#5
+Froslass @ Wise Glasses
 Level: 77
 Hardy Nature
 Ability: Snow Cloak
@@ -3425,7 +3850,8 @@ Ability: Snow Cloak
 - Shadow Ball
 - Blizzard
 - Ice Shard
-|Drifblim @ Flying Gem
+|Drifblim#4
+Drifblim @ Flying Gem
 Level: 77
 Hardy Nature
 Ability: Unburden
@@ -3433,7 +3859,8 @@ Ability: Unburden
 - Psychic
 - Acrobatics
 - Thunder
-|Golurk @ Muscle Band
+|Golurk#2
+Golurk @ Muscle Band
 Level: 77
 Hardy Nature
 Ability: Iron Fist
@@ -3441,7 +3868,8 @@ Ability: Iron Fist
 - Earthquake
 - Hammer Arm
 - Stone Edge
-|Chandelure @ Choice Scarf
+|Chandelure#4
+Chandelure @ Choice Scarf
 Level: 79
 Hardy Nature
 Ability: Flame Body
@@ -3449,7 +3877,8 @@ Ability: Flame Body
 - Shadow Ball
 - Energy Ball
 - Psychic
-|Throh @ Focus Band
+|Throh#1
+Throh @ Focus Band
 Level: 77
 Hardy Nature
 Ability: Guts
@@ -3457,7 +3886,8 @@ Ability: Guts
 - Stone Edge
 - Earthquake
 - Payback
-|Sawk @ Muscle Band
+|Sawk#1
+Sawk @ Muscle Band
 Level: 77
 Hardy Nature
 Ability: Sturdy
@@ -3465,7 +3895,8 @@ Ability: Sturdy
 - Stone Edge
 - Retaliate
 - Poison Jab
-|Lucario @ Wise Glasses
+|Lucario#5
+Lucario @ Wise Glasses
 Level: 77
 Hardy Nature
 Ability: Steadfast
@@ -3473,7 +3904,8 @@ Ability: Steadfast
 - Dragon Pulse
 - Extreme Speed
 - Shadow Ball
-|Mienshao @ Eject Button
+|Mienshao#2
+Mienshao @ Eject Button
 Level: 77
 Hardy Nature
 Ability: Regenerator
@@ -3481,7 +3913,8 @@ Ability: Regenerator
 - Fake Out
 - Acrobatics
 - U-turn
-|Machamp @ Expert Belt
+|Machamp#6
+Machamp @ Expert Belt
 Level: 77
 Hardy Nature
 Ability: No Guard
@@ -3489,7 +3922,8 @@ Ability: No Guard
 - Stone Edge
 - Dual Chop
 - Thunder Punch
-|Conkeldurr @ Flame Orb
+|Conkeldurr#2
+Conkeldurr @ Flame Orb
 Level: 79
 Hardy Nature
 Ability: Sheer Force
@@ -3497,7 +3931,8 @@ Ability: Sheer Force
 - Bulk Up
 - Stone Edge
 - Earthquake
-|Honchkrow @ Scope Lens
+|Honchkrow#4
+Honchkrow @ Scope Lens
 Level: 77
 Hardy Nature
 Ability: Super Luck
@@ -3505,7 +3940,8 @@ Ability: Super Luck
 - Psychic
 - Aerial Ace
 - Crunch
-|Scrafty @ Leftovers
+|Scrafty#3
+Scrafty @ Leftovers
 Level: 77
 Hardy Nature
 Ability: Moxie
@@ -3513,7 +3949,8 @@ Ability: Moxie
 - Head Smash
 - Crunch
 - Poison Jab
-|Krookodile @ Muscle Band
+|Krookodile#1
+Krookodile @ Muscle Band
 Level: 77
 Hardy Nature
 Ability: Intimidate
@@ -3521,7 +3958,8 @@ Ability: Intimidate
 - Earthquake
 - Crunch
 - Outrage
-|Bisharp @ Quick Claw
+|Bisharp#1
+Bisharp @ Quick Claw
 Level: 79
 Hardy Nature
 Ability: Defiant
@@ -3529,7 +3967,8 @@ Ability: Defiant
 - Night Slash
 - X-Scissor
 - Aerial Ace
-|Tyranitar @ Focus Band
+|Tyranitar#2
+Tyranitar @ Focus Band
 Level: 77
 Hardy Nature
 Ability: Sand Stream
@@ -3537,7 +3976,8 @@ Ability: Sand Stream
 - Stone Edge
 - Fire Blast
 - Earthquake
-|Bisharp @ Quick Claw
+|Bisharp#2
+Bisharp @ Quick Claw
 Level: 79
 Hardy Nature
 Ability: Defiant
@@ -3545,7 +3985,8 @@ Ability: Defiant
 - Night Slash
 - X-Scissor
 - Aerial Ace
-|Musharna @ Zoom Lens
+|Musharna#1
+Musharna @ Zoom Lens
 Level: 77
 Hardy Nature
 Ability: Synchronize
@@ -3553,7 +3994,8 @@ Ability: Synchronize
 - Charge Beam
 - Dream Eater
 - Hypnosis
-|Alakazam @ Expert Belt
+|Alakazam#4
+Alakazam @ Expert Belt
 Level: 77
 Hardy Nature
 Ability: Synchronize
@@ -3561,7 +4003,8 @@ Ability: Synchronize
 - Focus Blast
 - Psychic
 - Charge Beam
-|Gothitelle @ Wise Glasses
+|Gothitelle#2
+Gothitelle @ Wise Glasses
 Level: 77
 Hardy Nature
 Ability: Frisk
@@ -3569,7 +4012,8 @@ Ability: Frisk
 - Flatter
 - Shadow Ball
 - Thunderbolt
-|Gallade @ Muscle Band
+|Gallade#5
+Gallade @ Muscle Band
 Level: 77
 Hardy Nature
 Ability: Steadfast
@@ -3577,7 +4021,8 @@ Ability: Steadfast
 - Night Slash
 - Leaf Blade
 - Psycho Cut
-|Reuniclus @ Leftovers
+|Reuniclus#2
+Reuniclus @ Leftovers
 Level: 77
 Hardy Nature
 Ability: Magic Guard
@@ -3585,7 +4030,8 @@ Ability: Magic Guard
 - Thunder
 - Recover
 - Focus Blast
-|Metagross @ Life Orb
+|Metagross#5
+Metagross @ Life Orb
 Level: 79
 Hardy Nature
 Ability: Clear Body
@@ -3593,7 +4039,8 @@ Ability: Clear Body
 - Bullet Punch
 - Earthquake
 - Hammer Arm
-|Zekrom
+|Zekrom#1
+Zekrom
 Level: 52
 Hardy Nature
 Ability: Teravolt
@@ -3601,7 +4048,8 @@ Ability: Teravolt
 - Zen Headbutt
 - Giga Impact
 - Light Screen
-|Carracosta
+|Carracosta#3
+Carracosta
 Level: 50
 Hardy Nature
 Ability: Sturdy
@@ -3609,7 +4057,8 @@ Ability: Sturdy
 - Aqua Jet
 - Crunch
 - Waterfall
-|Vanilluxe
+|Vanilluxe#3
+Vanilluxe
 Level: 50
 Hardy Nature
 Ability: Ice Body
@@ -3617,7 +4066,8 @@ Ability: Ice Body
 - Hail
 - Flash Cannon
 - Frost Breath
-|Archeops
+|Archeops#4
+Archeops
 Level: 50
 Hardy Nature
 Ability: Defeatist
@@ -3625,7 +4075,8 @@ Ability: Defeatist
 - Acrobatics
 - Dragon Claw
 - Crunch
-|Zoroark
+|Zoroark#2
+Zoroark
 Level: 50
 Hardy Nature
 Ability: Illusion
@@ -3633,7 +4084,8 @@ Ability: Illusion
 - Focus Blast
 - Night Slash
 - Retaliate
-|Klinklang
+|Klinklang#1
+Klinklang
 Level: 50
 Hardy Nature
 Ability: Plus
@@ -3641,7 +4093,8 @@ Ability: Plus
 - Metal Sound
 - Hyper Beam
 - Thunderbolt
-|Volcarona @ Charti Berry
+|Volcarona#1
+Volcarona @ Charti Berry
 Level: 50
 Hardy Nature
 Ability: Flame Body
@@ -3649,7 +4102,8 @@ Ability: Flame Body
 - Heat Wave
 - Bug Buzz
 - Psychic
-|Conkeldurr @ Life Orb
+|Conkeldurr#3
+Conkeldurr @ Life Orb
 Level: 50
 Hardy Nature
 Ability: No Guard
@@ -3657,7 +4111,8 @@ Ability: No Guard
 - Mach Punch
 - Payback
 - Stone Edge
-|Reuniclus @ Leftovers
+|Reuniclus#3
+Reuniclus @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Overcoat
@@ -3665,7 +4120,8 @@ Ability: Overcoat
 - Reflect
 - Toxic
 - Psychic
-|Krookodile @ Expert Belt
+|Krookodile#2
+Krookodile @ Expert Belt
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -3673,7 +4129,8 @@ Ability: Intimidate
 - Crunch
 - Stone Edge
 - Outrage
-|Chandelure @ Choice Scarf
+|Chandelure#5
+Chandelure @ Choice Scarf
 Level: 50
 Hardy Nature
 Ability: Flame Body
@@ -3681,7 +4138,8 @@ Ability: Flame Body
 - Shadow Ball
 - Energy Ball
 - Psychic
-|Braviary @ Choice Band
+|Braviary#3
+Braviary @ Choice Band
 Level: 50
 Hardy Nature
 Ability: Sheer Force
@@ -3689,7 +4147,8 @@ Ability: Sheer Force
 - Superpower
 - Rock Slide
 - U-turn
-|Hydreigon @ Wise Glasses
+|Hydreigon#3
+Hydreigon @ Wise Glasses
 Level: 81
 Hardy Nature
 Ability: Levitate
@@ -3697,7 +4156,8 @@ Ability: Levitate
 - Focus Blast
 - Dragon Pulse
 - Surf
-|Salamence @ Life Orb
+|Salamence#5
+Salamence @ Life Orb
 Level: 81
 Hardy Nature
 Ability: Intimidate
@@ -3705,7 +4165,8 @@ Ability: Intimidate
 - Earthquake
 - Draco Meteor
 - Crunch
-|Archeops @ Flying Gem
+|Archeops#5
+Archeops @ Flying Gem
 Level: 81
 Hardy Nature
 Ability: Defeatist
@@ -3713,7 +4174,8 @@ Ability: Defeatist
 - Dragon Claw
 - Endeavor
 - Stone Edge
-|Aggron @ Muscle Band
+|Aggron#4
+Aggron @ Muscle Band
 Level: 81
 Hardy Nature
 Ability: Rock Head
@@ -3721,7 +4183,8 @@ Ability: Rock Head
 - Double-Edge
 - Head Smash
 - Autotomize
-|Lapras @ Zoom Lens
+|Lapras#5
+Lapras @ Zoom Lens
 Level: 81
 Hardy Nature
 Ability: Water Absorb
@@ -3729,7 +4192,8 @@ Ability: Water Absorb
 - Blizzard
 - Thunder
 - Sing
-|Haxorus @ Focus Sash
+|Haxorus#5
+Haxorus @ Focus Sash
 Level: 83
 Hardy Nature
 Ability: Mold Breaker
@@ -3737,7 +4201,8 @@ Ability: Mold Breaker
 - Guillotine
 - Outrage
 - Dragon Dance
-|Cofagrigus @ Leftovers
+|Cofagrigus#2
+Cofagrigus @ Leftovers
 Level: 50
 Hardy Nature
 Ability: Mummy
@@ -3745,7 +4210,8 @@ Ability: Mummy
 - Psychic
 - Protect
 - Toxic
-|Seismitoad
+|Seismitoad#3
+Seismitoad
 Level: 50
 Hardy Nature
 Ability: Poison Touch
@@ -3753,7 +4219,8 @@ Ability: Poison Touch
 - Earthquake
 - Drain Punch
 - Sludge Wave
-|Eelektross
+|Eelektross#2
+Eelektross
 Level: 50
 Hardy Nature
 Ability: Levitate
@@ -3761,7 +4228,8 @@ Ability: Levitate
 - Acrobatics
 - Flamethrower
 - Crunch
-|Drapion
+|Drapion#3
+Drapion
 Level: 50
 Hardy Nature
 Ability: Sniper
@@ -3769,7 +4237,8 @@ Ability: Sniper
 - Earthquake
 - Poison Fang
 - X-Scissor
-|Toxicroak
+|Toxicroak#4
+Toxicroak
 Level: 50
 Hardy Nature
 Ability: Anticipation
@@ -3777,7 +4246,8 @@ Ability: Anticipation
 - Shadow Ball
 - Sucker Punch
 - Poison Jab
-|Hydreigon @ Life Orb
+|Hydreigon#4
+Hydreigon @ Life Orb
 Level: 52
 Hardy Nature
 Ability: Levitate
@@ -3785,7 +4255,8 @@ Ability: Levitate
 - Crunch
 - Rock Slide
 - Frustration
-|Masquerain
+|Masquerain#1
+Masquerain
 Level: 70
 Hardy Nature
 Ability: Intimidate
@@ -3793,7 +4264,8 @@ Ability: Intimidate
 - Whirlwind
 - Bug Buzz
 - Quiver Dance
-|Vivillon
+|Vivillon#1
+Vivillon
 Level: 70
 Hardy Nature
 Ability: Unaware
@@ -3801,7 +4273,8 @@ Ability: Unaware
 - Quiver Dance
 - Hurricane
 - Powder
-|Aurorus
+|Aurorus#1
+Aurorus
 Level: 70
 Hardy Nature
 Ability: Refrigerate
@@ -3809,7 +4282,8 @@ Ability: Refrigerate
 - Light Screen
 - Ice Beam
 - Hyper Beam
-|Tyrantrum
+|Tyrantrum#1
+Tyrantrum
 Level: 70
 Hardy Nature
 Ability: Strong Jaw
@@ -3817,7 +4291,8 @@ Ability: Strong Jaw
 - Head Smash
 - Horn Drill
 - Rock Slide
-|Hawlucha
+|Hawlucha#1
+Hawlucha
 Level: 70
 Hardy Nature
 Ability: Unburden
@@ -3825,7 +4300,8 @@ Ability: Unburden
 - Sky Attack
 - Sky Drop
 - Swords Dance
-|Lucario
+|Lucario#6
+Lucario
 Level: 70
 Hardy Nature
 Ability: Steadfast
@@ -3833,7 +4309,8 @@ Ability: Steadfast
 - Close Combat
 - Dragon Pulse
 - Extreme Speed
-|Victreebel
+|Victreebel#1
+Victreebel
 Level: 70
 Hardy Nature
 Ability: Chlorophyll
@@ -3841,7 +4318,8 @@ Ability: Chlorophyll
 - Leaf Tornado
 - Leaf Storm
 - Leaf Blade
-|Gogoat
+|Gogoat#1
+Gogoat
 Level: 70
 Hardy Nature
 Ability: Sap Sipper
@@ -3849,7 +4327,8 @@ Ability: Sap Sipper
 - Milk Drink
 - Earthquake
 - Aerial Ace
-|Magnezone
+|Magnezone#4
+Magnezone
 Level: 70
 Hardy Nature
 Ability: Sturdy
@@ -3857,7 +4336,8 @@ Ability: Sturdy
 - Lock-On
 - Magnet Rise
 - Gyro Ball
-|Heliolisk
+|Heliolisk#1
+Heliolisk
 Level: 70
 Hardy Nature
 Ability: Sand Veil
@@ -3865,7 +4345,8 @@ Ability: Sand Veil
 - Thunder
 - Charge
 - Parabolic Charge
-|Mawile
+|Mawile#1
+Mawile
 Level: 70
 Hardy Nature
 Ability: Hyper Cutter
@@ -3873,7 +4354,8 @@ Ability: Hyper Cutter
 - Spit Up
 - Iron Head
 - Play Rough
-|Sylveon
+|Sylveon#1
+Sylveon
 Level: 70
 Hardy Nature
 Ability: Cute Charm
@@ -3881,7 +4363,8 @@ Ability: Cute Charm
 - Moonblast
 - Last Resort
 - Psych Up
-|Sigilyph
+|Sigilyph#3
+Sigilyph
 Level: 44
 Hardy Nature
 Ability: Magic Guard
@@ -3889,7 +4372,8 @@ Ability: Magic Guard
 - Air Slash
 - Reflect
 - Light Screen
-|Slowking
+|Slowking#3
+Slowking
 Level: 45
 Hardy Nature
 Ability: Oblivious
@@ -3897,7 +4381,8 @@ Ability: Oblivious
 - Calm Mind
 - Power Gem
 - Yawn
-|Meowstic-F
+|Meowstic-F#1
+Meowstic-F
 Level: 48
 Hardy Nature
 Ability: Infiltrator
@@ -3905,14 +4390,16 @@ Ability: Infiltrator
 - Fake Out
 - Calm Mind
 - Shadow Ball
-|Abomasnow
+|Abomasnow#4
+Abomasnow
 Level: 56
 Hardy Nature
 Ability: Snow Warning
 - Ice Beam
 - Energy Ball
 - Ice Shard
-|Cryogonal
+|Cryogonal#2
+Cryogonal
 Level: 55
 Hardy Nature
 Ability: Levitate
@@ -3920,7 +4407,8 @@ Ability: Levitate
 - Hail
 - Flash Cannon
 - Confuse Ray
-|Avalugg
+|Avalugg#1
+Avalugg
 Level: 59
 Hardy Nature
 Ability: Ice Body
@@ -3928,7 +4416,8 @@ Ability: Ice Body
 - Curse
 - Crunch
 - Gyro Ball
-|Pyroar
+|Pyroar#1
+Pyroar
 Level: 63
 Hardy Nature
 Ability: Rivalry
@@ -3936,7 +4425,8 @@ Ability: Rivalry
 - Flamethrower
 - Wild Charge
 - Noble Roar
-|Torkoal
+|Torkoal#2
+Torkoal
 Level: 63
 Hardy Nature
 Ability: White Smoke
@@ -3944,7 +4434,8 @@ Ability: White Smoke
 - Earthquake
 - Stone Edge
 - Flame Wheel
-|Chandelure
+|Chandelure#6
+Chandelure
 Level: 63
 Hardy Nature
 Ability: Flame Body
@@ -3952,7 +4443,8 @@ Ability: Flame Body
 - Shadow Ball
 - Confuse Ray
 - Confide
-|Talonflame
+|Talonflame#1
+Talonflame
 Level: 65
 Hardy Nature
 Ability: Flame Body
@@ -3960,7 +4452,8 @@ Ability: Flame Body
 - Quick Attack
 - Flare Blitz
 - Flail
-|Clawitzer
+|Clawitzer#1
+Clawitzer
 Level: 63
 Hardy Nature
 Ability: Mega Launcher
@@ -3968,7 +4461,8 @@ Ability: Mega Launcher
 - Dark Pulse
 - Dragon Pulse
 - Aura Sphere
-|Gyarados
+|Gyarados#5
+Gyarados
 Level: 63
 Hardy Nature
 Ability: Intimidate
@@ -3976,7 +4470,8 @@ Ability: Intimidate
 - Ice Fang
 - Earthquake
 - Dragon Dance
-|Starmie
+|Starmie#4
+Starmie
 Level: 63
 Hardy Nature
 Ability: Illuminate
@@ -3984,7 +4479,8 @@ Ability: Illuminate
 - Psychic
 - Surf
 - Light Screen
-|Barbaracle
+|Barbaracle#1
+Barbaracle
 Level: 65
 Hardy Nature
 Ability: Tough Claws
@@ -3992,7 +4488,8 @@ Ability: Tough Claws
 - Stone Edge
 - Razor Shell
 - X-Scissor
-|Klefki
+|Klefki#1
+Klefki
 Level: 63
 Hardy Nature
 Ability: Prankster
@@ -4000,7 +4497,8 @@ Ability: Prankster
 - Flash Cannon
 - Torment
 - Spikes
-|Probopass
+|Probopass#3
+Probopass
 Level: 63
 Hardy Nature
 Ability: Sturdy
@@ -4008,7 +4506,8 @@ Ability: Sturdy
 - Power Gem
 - Discharge
 - Flash Cannon
-|Scizor
+|Scizor#3
+Scizor
 Level: 63
 Hardy Nature
 Ability: Technician
@@ -4016,7 +4515,8 @@ Ability: Technician
 - X-Scissor
 - Iron Head
 - Night Slash
-|Aegislash-Shield
+|Aegislash-Shield#1
+Aegislash-Shield
 Level: 65
 Hardy Nature
 Ability: Stance Change
@@ -4024,7 +4524,8 @@ Ability: Stance Change
 - Sacred Sword
 - Shadow Claw
 - Iron Head
-|Dragalge
+|Dragalge#2
+Dragalge
 Level: 63
 Hardy Nature
 Ability: Poison Point
@@ -4032,7 +4533,8 @@ Ability: Poison Point
 - Surf
 - Sludge Bomb
 - Thunderbolt
-|Druddigon
+|Druddigon#3
+Druddigon
 Level: 63
 Hardy Nature
 Ability: Rough Skin
@@ -4040,7 +4542,8 @@ Ability: Rough Skin
 - Revenge
 - Retaliate
 - Chip Away
-|Altaria
+|Altaria#5
+Altaria
 Level: 63
 Hardy Nature
 Ability: Natural Cure
@@ -4048,7 +4551,8 @@ Ability: Natural Cure
 - Dragon Pulse
 - Cotton Guard
 - Sing
-|Noivern
+|Noivern#1
+Noivern
 Level: 65
 Hardy Nature
 Ability: Frisk
@@ -4056,7 +4560,8 @@ Ability: Frisk
 - Dragon Pulse
 - Flamethrower
 - Super Fang
-|Hawlucha
+|Hawlucha#2
+Hawlucha
 Level: 64
 Hardy Nature
 Ability: Limber
@@ -4064,7 +4569,8 @@ Ability: Limber
 - Flying Press
 - X-Scissor
 - Poison Jab
-|Tyrantrum
+|Tyrantrum#2
+Tyrantrum
 Level: 65
 Hardy Nature
 Ability: Strong Jaw
@@ -4072,7 +4578,8 @@ Ability: Strong Jaw
 - Earthquake
 - Dragon Claw
 - Crunch
-|Aurorus
+|Aurorus#2
+Aurorus
 Level: 65
 Hardy Nature
 Ability: Refrigerate
@@ -4080,7 +4587,8 @@ Ability: Refrigerate
 - Blizzard
 - Light Screen
 - Reflect
-|Gourgeist
+|Gourgeist#1
+Gourgeist
 Level: 65
 Hardy Nature
 Ability: Pickup
@@ -4088,7 +4596,8 @@ Ability: Pickup
 - Phantom Force
 - Seed Bomb
 - Shadow Sneak
-|Goodra
+|Goodra#1
+Goodra
 Level: 66
 Hardy Nature
 Ability: Sap Sipper
@@ -4096,7 +4605,8 @@ Ability: Sap Sipper
 - Muddy Water
 - Fire Blast
 - Focus Blast
-|Gardevoir
+|Gardevoir#3
+Gardevoir
 Level: 68
 Hardy Nature
 Ability: Trace
@@ -4104,7 +4614,8 @@ Ability: Trace
 - Psychic
 - Shadow Ball
 - Thunderbolt
-|Hariyama
+|Hariyama#3
+Hariyama
 Level: 63
 Hardy Nature
 Ability: Thick Fat
@@ -4112,7 +4623,8 @@ Ability: Thick Fat
 - Close Combat
 - Knock Off
 - Heavy Slam
-|Machamp
+|Machamp#7
+Machamp
 Level: 63
 Hardy Nature
 Ability: Guts
@@ -4120,7 +4632,8 @@ Ability: Guts
 - Thunder Punch
 - Ice Punch
 - Fire Punch
-|Bewear
+|Bewear#1
+Bewear
 Level: 63
 Hardy Nature
 Ability: Fluffy
@@ -4128,7 +4641,8 @@ Ability: Fluffy
 - Brutal Swing
 - Dragon Claw
 - Shadow Claw
-|Poliwrath
+|Poliwrath#3
+Poliwrath
 Level: 63
 Hardy Nature
 Ability: Water Absorb
@@ -4136,7 +4650,8 @@ Ability: Water Absorb
 - Brick Break
 - Poison Jab
 - Payback
-|Crabominable
+|Crabominable#1
+Crabominable
 Level: 63
 Hardy Nature
 Ability: Iron Fist
@@ -4144,7 +4659,8 @@ Ability: Iron Fist
 - Close Combat
 - Stone Edge
 - Earthquake
-|Armaldo
+|Armaldo#4
+Armaldo
 Level: 66
 Hardy Nature
 Ability: Battle Armor
@@ -4152,7 +4668,8 @@ Ability: Battle Armor
 - X-Scissor
 - Stone Edge
 - Liquidation
-|Cradily
+|Cradily#4
+Cradily
 Level: 66
 Hardy Nature
 Ability: Suction Cups
@@ -4160,7 +4677,8 @@ Ability: Suction Cups
 - Seed Bomb
 - Sludge Wave
 - Earth Power
-|Gigalith
+|Gigalith#2
+Gigalith
 Level: 66
 Hardy Nature
 Ability: Sturdy
@@ -4168,7 +4686,8 @@ Ability: Sturdy
 - Iron Head
 - Earthquake
 - Throat Chop
-|Probopass
+|Probopass#4
+Probopass
 Level: 66
 Hardy Nature
 Ability: Sturdy
@@ -4176,7 +4695,8 @@ Ability: Sturdy
 - Dazzling Gleam
 - Power Gem
 - Flash Cannon
-|Lycanroc-Midnight
+|Lycanroc-Midnight#1
+Lycanroc-Midnight
 Level: 66
 Hardy Nature
 Ability: Keen Eye
@@ -4184,7 +4704,8 @@ Ability: Keen Eye
 - Fire Punch
 - Stone Edge
 - Rock Climb
-|Sableye
+|Sableye#2
+Sableye
 Level: 63
 Hardy Nature
 Ability: Keen Eye
@@ -4192,7 +4713,8 @@ Ability: Keen Eye
 - Shadow Ball
 - Dark Pulse
 - Toxic
-|Krookodile
+|Krookodile#3
+Krookodile
 Level: 63
 Hardy Nature
 Ability: Intimidate
@@ -4200,7 +4722,8 @@ Ability: Intimidate
 - Aerial Ace
 - Dragon Claw
 - Earthquake
-|Honchkrow
+|Honchkrow#5
+Honchkrow
 Level: 63
 Hardy Nature
 Ability: Insomnia
@@ -4208,7 +4731,8 @@ Ability: Insomnia
 - Sucker Punch
 - Psychic
 - Snarl
-|Absol
+|Absol#3
+Absol
 Level: 63
 Hardy Nature
 Ability: Super Luck
@@ -4216,7 +4740,8 @@ Ability: Super Luck
 - Sucker Punch
 - Aerial Ace
 - Night Slash
-|Persian-Alola
+|Persian-Alola#1
+Persian-Alola
 Level: 63
 Hardy Nature
 Ability: Fur Coat
@@ -4224,7 +4749,8 @@ Ability: Fur Coat
 - Fake Out
 - Dark Pulse
 - Thunderbolt
-|Golurk
+|Golurk#3
+Golurk
 Level: 68
 Hardy Nature
 Ability: No Guard
@@ -4232,7 +4758,8 @@ Ability: No Guard
 - Earthquake
 - Phantom Force
 - Stone Edge
-|Gastrodon
+|Gastrodon#2
+Gastrodon
 Level: 68
 Hardy Nature
 Ability: Sticky Hold
@@ -4240,7 +4767,8 @@ Ability: Sticky Hold
 - Mud Bomb
 - Sludge Wave
 - Ice Beam
-|Krookodile
+|Krookodile#4
+Krookodile
 Level: 68
 Hardy Nature
 Ability: Intimidate
@@ -4248,7 +4776,8 @@ Ability: Intimidate
 - Crunch
 - Dragon Claw
 - Aerial Ace
-|Flygon
+|Flygon#6
+Flygon
 Level: 68
 Hardy Nature
 Ability: Levitate
@@ -4256,7 +4785,8 @@ Ability: Levitate
 - Earthquake
 - Stone Edge
 - Steel Wing
-|Mudsdale
+|Mudsdale#1
+Mudsdale
 Level: 69
 Hardy Nature
 Ability: Own Tempo
@@ -4264,14 +4794,16 @@ Ability: Own Tempo
 - Earthquake
 - Payback
 - Rock Slide
-|Gumshoos
+|Gumshoos#1
+Gumshoos
 Level: 60
 Hardy Nature
 Ability: Stakeout
 - Crunch
 - Hyper Fang
 - Super Fang
-|Smeargle
+|Smeargle#1
+Smeargle
 Level: 60
 Hardy Nature
 Ability: Technician
@@ -4279,7 +4811,8 @@ Ability: Technician
 - Fire Blast
 - Hydro Pump
 - Power Whip
-|Komala
+|Komala#1
+Komala
 Level: 60
 Hardy Nature
 Ability: Comatose
@@ -4287,7 +4820,8 @@ Ability: Comatose
 - Wood Hammer
 - Slam
 - Zen Headbutt
-|Lanturn
+|Lanturn#3
+Lanturn
 Level: 60
 Hardy Nature
 Ability: Volt Absorb
@@ -4295,7 +4829,8 @@ Ability: Volt Absorb
 - Hydro Pump
 - Thunder Wave
 - Icy Wind
-|Cloyster
+|Cloyster#4
+Cloyster
 Level: 60
 Hardy Nature
 Ability: Skill Link
@@ -4303,7 +4838,8 @@ Ability: Skill Link
 - Icicle Crash
 - Smart Strike
 - Spikes
-|Araquanid
+|Araquanid#1
+Araquanid
 Level: 60
 Hardy Nature
 Ability: Water Bubble
@@ -4311,35 +4847,40 @@ Ability: Water Bubble
 - Crunch
 - Leech Life
 - Frost Breath
-|Arcanine
+|Arcanine#6
+Arcanine
 Level: 60
 Hardy Nature
 Ability: Intimidate
 - Crunch
 - Flare Blitz
 - Extreme Speed
-|Talonflame
+|Talonflame#2
+Talonflame
 Level: 60
 Hardy Nature
 Ability: Flame Body
 - Quick Attack
 - Flare Blitz
 - Brave Bird
-|Marowak-Alola
+|Marowak-Alola#2
+Marowak-Alola
 Level: 60
 Hardy Nature
 Ability: Cursed Body
 - Flare Blitz
 - Shadow Bone
 - Bone Rush
-|Trevenant
+|Trevenant#1
+Trevenant
 Level: 60
 Hardy Nature
 Ability: Natural Cure
 - Horn Leech
 - Shadow Claw
 - Leech Seed
-|Shiinotic
+|Shiinotic#1
+Shiinotic
 Level: 60
 Hardy Nature
 Ability: Effect Spore
@@ -4347,7 +4888,8 @@ Ability: Effect Spore
 - Giga Drain
 - Spore
 - Ingrain
-|Tsareena
+|Tsareena#1
+Tsareena
 Level: 60
 Hardy Nature
 Ability: Leaf Guard
@@ -4355,7 +4897,8 @@ Ability: Leaf Guard
 - Zen Headbutt
 - High Jump Kick
 - U-turn
-|Togedemaru
+|Togedemaru#1
+Togedemaru
 Level: 67
 Hardy Nature
 Ability: Iron Barbs
@@ -4363,7 +4906,8 @@ Ability: Iron Barbs
 - Zing Zap
 - Spiky Shield
 - Fell Stinger
-|Magnezone
+|Magnezone#5
+Magnezone
 Level: 67
 Hardy Nature
 Ability: Analytic
@@ -4371,7 +4915,8 @@ Ability: Analytic
 - Discharge
 - Reflect
 - Tri Attack
-|Electivire
+|Electivire#3
+Electivire
 Level: 67
 Hardy Nature
 Ability: Motor Drive
@@ -4379,7 +4924,8 @@ Ability: Motor Drive
 - Giga Impact
 - Fire Punch
 - Quick Attack
-|Vikavolt
+|Vikavolt#1
+Vikavolt
 Level: 67
 Hardy Nature
 Ability: Levitate
@@ -4387,7 +4933,8 @@ Ability: Levitate
 - Thunderbolt
 - Air Slash
 - Guillotine
-|Golem-Alola
+|Golem-Alola#1
+Golem-Alola
 Level: 67
 Hardy Nature
 Ability: Sturdy
@@ -4395,7 +4942,8 @@ Ability: Sturdy
 - Steamroller
 - Thunder Punch
 - Heavy Slam
-|Klefki
+|Klefki#2
+Klefki
 Level: 61
 Hardy Nature
 Ability: Prankster
@@ -4403,7 +4951,8 @@ Ability: Prankster
 - Reflect
 - Light Screen
 - Flash Cannon
-|Granbull
+|Granbull#1
+Granbull
 Level: 61
 Hardy Nature
 Ability: Intimidate
@@ -4411,7 +4960,8 @@ Ability: Intimidate
 - Play Rough
 - Earthquake
 - Stone Edge
-|Shiinotic
+|Shiinotic#2
+Shiinotic
 Level: 61
 Hardy Nature
 Ability: Effect Spore
@@ -4419,7 +4969,8 @@ Ability: Effect Spore
 - Dream Eater
 - Moonblast
 - Giga Drain
-|Wigglytuff
+|Wigglytuff#1
+Wigglytuff
 Level: 61
 Hardy Nature
 Ability: Competitive
@@ -4427,7 +4978,8 @@ Ability: Competitive
 - Hyper Voice
 - Flamethrower
 - Ice Beam
-|Ribombee
+|Ribombee#1
+Ribombee
 Level: 61
 Hardy Nature
 Ability: Shield Dust
@@ -4435,7 +4987,8 @@ Ability: Shield Dust
 - Dazzling Gleam
 - Psychic
 - Energy Ball
-|Klefki
+|Klefki#3
+Klefki
 Level: 66
 Hardy Nature
 Ability: Prankster
@@ -4443,7 +4996,8 @@ Ability: Prankster
 - Thunder Wave
 - Flash Cannon
 - Reflect
-|Bisharp
+|Bisharp#3
+Bisharp
 Level: 66
 Hardy Nature
 Ability: Defiant
@@ -4451,7 +5005,8 @@ Ability: Defiant
 - Iron Head
 - X-Scissor
 - Poison Jab
-|Magnezone
+|Magnezone#6
+Magnezone
 Level: 66
 Hardy Nature
 Ability: Sturdy
@@ -4459,7 +5014,8 @@ Ability: Sturdy
 - Thunderbolt
 - Tri Attack
 - Signal Beam
-|Metagross
+|Metagross#6
+Metagross
 Level: 66
 Hardy Nature
 Ability: Clear Body
@@ -4467,7 +5023,8 @@ Ability: Clear Body
 - Bullet Punch
 - Meteor Mash
 - Zen Headbutt
-|Dugtrio-Alola
+|Dugtrio-Alola#1
+Dugtrio-Alola
 Level: 66
 Hardy Nature
 Ability: Tangling Hair
@@ -4475,7 +5032,8 @@ Ability: Tangling Hair
 - Sucker Punch
 - Iron Head
 - Stone Edge
-|Banette
+|Banette#4
+Banette
 Level: 66
 Hardy Nature
 Ability: Insomnia
@@ -4483,7 +5041,8 @@ Ability: Insomnia
 - Sucker Punch
 - Infestation
 - Shadow Sneak
-|Drifblim
+|Drifblim#5
+Drifblim
 Level: 66
 Hardy Nature
 Ability: Aftermath
@@ -4491,7 +5050,8 @@ Ability: Aftermath
 - Thunderbolt
 - Psychic
 - Will-O-Wisp
-|Dhelmise
+|Dhelmise#1
+Dhelmise
 Level: 66
 Hardy Nature
 Ability: Steelworker
@@ -4499,7 +5059,8 @@ Ability: Steelworker
 - Heavy Slam
 - Earthquake
 - Power Whip
-|Froslass
+|Froslass#6
+Froslass
 Level: 66
 Hardy Nature
 Ability: Snow Cloak
@@ -4507,7 +5068,8 @@ Ability: Snow Cloak
 - Shadow Ball
 - Thunderbolt
 - Ice Shard
-|Palossand
+|Palossand#1
+Palossand
 Level: 66
 Hardy Nature
 Ability: Water Compaction
@@ -4515,7 +5077,8 @@ Ability: Water Compaction
 - Sludge Bomb
 - Earth Power
 - Giga Drain
-|Braviary
+|Braviary#4
+Braviary
 Level: 66
 Hardy Nature
 Ability: Sheer Force
@@ -4523,7 +5086,8 @@ Ability: Sheer Force
 - Brave Bird
 - Superpower
 - Scary Face
-|Hawlucha
+|Hawlucha#3
+Hawlucha
 Level: 66
 Hardy Nature
 Ability: Mold Breaker
@@ -4531,7 +5095,8 @@ Ability: Mold Breaker
 - Throat Chop
 - Dual Chop
 - Poison Jab
-|Oricorio
+|Oricorio#1
+Oricorio
 Level: 66
 Hardy Nature
 Ability: Dancer
@@ -4539,7 +5104,8 @@ Ability: Dancer
 - Air Slash
 - Feather Dance
 - Teeter Dance
-|Mandibuzz
+|Mandibuzz#3
+Mandibuzz
 Level: 66
 Hardy Nature
 Ability: Big Pecks
@@ -4547,7 +5113,8 @@ Ability: Big Pecks
 - Air Slash
 - Roost
 - Toxic
-|Toucannon
+|Toucannon#1
+Toucannon
 Level: 66
 Hardy Nature
 Ability: Skill Link
@@ -4555,7 +5122,8 @@ Ability: Skill Link
 - Rock Blast
 - Beak Blast
 - Brick Break
-|Lycanroc
+|Lycanroc#1
+Lycanroc
 Level: 69
 Hardy Nature
 Ability: Keen Eye
@@ -4563,7 +5131,8 @@ Ability: Keen Eye
 - Accelerock
 - Crunch
 - Stealth Rock
-|Ninetales-Alola
+|Ninetales-Alola#1
+Ninetales-Alola
 Level: 68
 Hardy Nature
 Ability: Snow Cloak
@@ -4571,7 +5140,8 @@ Ability: Snow Cloak
 - Blizzard
 - Ice Shard
 - Safeguard
-|Braviary
+|Braviary#5
+Braviary
 Level: 68
 Hardy Nature
 Ability: Keen Eye
@@ -4579,7 +5149,8 @@ Ability: Keen Eye
 - Brave Bird
 - Tailwind
 - Whirlwind
-|Magnezone
+|Magnezone#7
+Magnezone
 Level: 68
 Hardy Nature
 Ability: Sturdy
@@ -4587,7 +5158,8 @@ Ability: Sturdy
 - Flash Cannon
 - Thunder Wave
 - Mirror Coat
-|Snorlax
+|Snorlax#3
+Snorlax
 Level: 68
 Hardy Nature
 Ability: Thick Fat
@@ -4595,7 +5167,8 @@ Ability: Thick Fat
 - Crunch
 - Heavy Slam
 - High Horsepower
-|Decidueye
+|Decidueye#1
+Decidueye
 Level: 68
 Hardy Nature
 Ability: Overgrow
@@ -4603,7 +5176,8 @@ Ability: Overgrow
 - Spirit Shackle
 - Brave Bird
 - Sucker Punch
-|Ludicolo
+|Ludicolo#3
+Ludicolo
 Level: 72
 Hardy Nature
 Ability: Rain Dish
@@ -4611,7 +5185,8 @@ Ability: Rain Dish
 - Waterfall
 - Body Slam
 - Fake Out
-|Eldegoss
+|Eldegoss#1
+Eldegoss
 Level: 72
 Hardy Nature
 Ability: Regenerator
@@ -4619,7 +5194,8 @@ Ability: Regenerator
 - Cotton Guard
 - Protect
 - Hyper Voice
-|Tsareena
+|Tsareena#2
+Tsareena
 Level: 73
 Hardy Nature
 Ability: Queenly Majesty
@@ -4627,7 +5203,8 @@ Ability: Queenly Majesty
 - High Jump Kick
 - Trop Kick
 - Zen Headbutt
-|Cherrim
+|Cherrim#1
+Cherrim
 Level: 73
 Hardy Nature
 Ability: Flower Gift
@@ -4635,7 +5212,8 @@ Ability: Flower Gift
 - Dazzling Gleam
 - Solar Beam
 - Weather Ball
-|Appletun
+|Appletun#1
+Appletun
 Level: 74
 Hardy Nature
 Ability: Thick Fat
@@ -4643,7 +5221,8 @@ Ability: Thick Fat
 - Iron Defense
 - Recover
 - Dragon Pulse
-|Golisopod
+|Golisopod#1
+Golisopod
 Level: 72
 Hardy Nature
 Ability: Emergency Exit
@@ -4651,7 +5230,8 @@ Ability: Emergency Exit
 - Liquidation
 - Swords Dance
 - Shadow Claw
-|Pelipper
+|Pelipper#2
+Pelipper
 Level: 72
 Hardy Nature
 Ability: Drizzle
@@ -4659,7 +5239,8 @@ Ability: Drizzle
 - Water Pulse
 - Hurricane
 - Tailwind
-|Quagsire
+|Quagsire#2
+Quagsire
 Level: 73
 Hardy Nature
 Ability: Damp
@@ -4667,7 +5248,8 @@ Ability: Damp
 - Scald
 - Ice Punch
 - Toxic
-|Toxapex
+|Toxapex#1
+Toxapex
 Level: 73
 Hardy Nature
 Ability: Merciless
@@ -4675,7 +5257,8 @@ Ability: Merciless
 - Recover
 - Venoshock
 - Liquidation
-|Drednaw
+|Drednaw#1
+Drednaw
 Level: 74
 Hardy Nature
 Ability: Shell Armor
@@ -4683,7 +5266,8 @@ Ability: Shell Armor
 - Jaw Lock
 - Rock Tomb
 - Crunch
-|Torkoal
+|Torkoal#3
+Torkoal
 Level: 72
 Hardy Nature
 Ability: Drought
@@ -4691,7 +5275,8 @@ Ability: Drought
 - Stealth Rock
 - Body Press
 - Earthquake
-|Ninetales
+|Ninetales#3
+Ninetales
 Level: 72
 Hardy Nature
 Ability: Flash Fire
@@ -4699,7 +5284,8 @@ Ability: Flash Fire
 - Fire Blast
 - Solar Beam
 - Quick Attack
-|Arcanine
+|Arcanine#7
+Arcanine
 Level: 73
 Hardy Nature
 Ability: Intimidate
@@ -4707,7 +5293,8 @@ Ability: Intimidate
 - Flare Blitz
 - Play Rough
 - Iron Head
-|Salazzle
+|Salazzle#1
+Salazzle
 Level: 73
 Hardy Nature
 Ability: Corrosion
@@ -4715,7 +5302,8 @@ Ability: Corrosion
 - Sludge Wave
 - Dragon Pulse
 - Foul Play
-|Centiskorch
+|Centiskorch#1
+Centiskorch
 Level: 74
 Hardy Nature
 Ability: Flash Fire
@@ -4723,7 +5311,8 @@ Ability: Flash Fire
 - Lunge
 - Crunch
 - Power Whip
-|Hawlucha
+|Hawlucha#4
+Hawlucha
 Level: 72
 Hardy Nature
 Ability: Limber
@@ -4731,7 +5320,8 @@ Ability: Limber
 - Swords Dance
 - High Jump Kick
 - Poison Jab
-|Grapploct
+|Grapploct#1
+Grapploct
 Level: 72
 Hardy Nature
 Ability: Limber
@@ -4739,7 +5329,8 @@ Ability: Limber
 - Detect
 - Liquidation
 - Close Combat
-|Sirfetch’d
+|Sirfetch’d#1
+Sirfetch’d
 Level: 73
 Hardy Nature
 Ability: Steadfast
@@ -4747,7 +5338,8 @@ Ability: Steadfast
 - Meteor Assault
 - Knock Off
 - First Impression
-|Falinks
+|Falinks#1
+Falinks
 Level: 73
 Hardy Nature
 Ability: Battle Armor
@@ -4755,7 +5347,8 @@ Ability: Battle Armor
 - Megahorn
 - Close Combat
 - Throat Chop
-|Machamp
+|Machamp#8
+Machamp
 Level: 74
 Hardy Nature
 Ability: Guts
@@ -4763,7 +5356,8 @@ Ability: Guts
 - Cross Chop
 - Knock Off
 - Ice Punch
-|Dusknoir
+|Dusknoir#4
+Dusknoir
 Level: 72
 Hardy Nature
 Ability: Pressure
@@ -4771,7 +5365,8 @@ Ability: Pressure
 - Fire Punch
 - Ice Punch
 - Disable
-|Chandelure
+|Chandelure#7
+Chandelure
 Level: 72
 Hardy Nature
 Ability: Flash Fire
@@ -4779,7 +5374,8 @@ Ability: Flash Fire
 - Heat Wave
 - Energy Ball
 - Will-O-Wisp
-|Cursola
+|Cursola#1
+Cursola
 Level: 73
 Hardy Nature
 Ability: Weak Armor
@@ -4787,7 +5383,8 @@ Ability: Weak Armor
 - Strength Sap
 - Ancient Power
 - Amnesia
-|Runerigus
+|Runerigus#1
+Runerigus
 Level: 73
 Hardy Nature
 Ability: Wandering Spirit
@@ -4795,7 +5392,8 @@ Ability: Wandering Spirit
 - Shadow Claw
 - Disable
 - Rock Tomb
-|Gengar
+|Gengar#7
+Gengar
 Level: 74
 Hardy Nature
 Ability: Cursed Body
@@ -4803,7 +5401,8 @@ Ability: Cursed Body
 - Dark Pulse
 - Sludge Bomb
 - Hypnosis
-|Weezing-Galar
+|Weezing-Galar#1
+Weezing-Galar
 Level: 68
 Hardy Nature
 Ability: Levitate
@@ -4811,7 +5410,8 @@ Ability: Levitate
 - Protect
 - Strange Steam
 - Toxic
-|Togekiss
+|Togekiss#3
+Togekiss
 Level: 69
 Hardy Nature
 Ability: Hustle
@@ -4819,7 +5419,8 @@ Ability: Hustle
 - Dazzling Gleam
 - Reflect
 - Mystical Fire
-|Alcremie
+|Alcremie#1
+Alcremie
 Level: 70
 Hardy Nature
 Ability: Sweet Veil
@@ -4827,7 +5428,8 @@ Ability: Sweet Veil
 - Psychic
 - Acid Armor
 - Decorate
-|Barbaracle
+|Barbaracle#2
+Barbaracle
 Level: 72
 Hardy Nature
 Ability: Tough Claws
@@ -4835,7 +5437,8 @@ Ability: Tough Claws
 - Stone Edge
 - Earthquake
 - Liquidation
-|Shuckle
+|Shuckle#2
+Shuckle
 Level: 72
 Hardy Nature
 Ability: Contrary
@@ -4843,7 +5446,8 @@ Ability: Contrary
 - Stealth Rock
 - Gastro Acid
 - Rock Tomb
-|Stonjourner
+|Stonjourner#1
+Stonjourner
 Level: 73
 Hardy Nature
 Ability: Power Spot
@@ -4851,7 +5455,8 @@ Ability: Power Spot
 - Rock Tomb
 - Body Press
 - Wonder Room
-|Tyranitar
+|Tyranitar#3
+Tyranitar
 Level: 73
 Hardy Nature
 Ability: Sand Stream
@@ -4859,7 +5464,8 @@ Ability: Sand Stream
 - Body Press
 - Stone Edge
 - Ice Punch
-|Coalossal
+|Coalossal#1
+Coalossal
 Level: 74
 Hardy Nature
 Ability: Steam Engine
@@ -4867,7 +5473,8 @@ Ability: Steam Engine
 - Earthquake
 - Fusion Flare
 - Stone Edge
-|Frosmoth
+|Frosmoth#1
+Frosmoth
 Level: 72
 Hardy Nature
 Ability: Shield Dust
@@ -4875,7 +5482,8 @@ Ability: Shield Dust
 - Blizzard
 - Tailwind
 - Hail
-|Mr. Rime
+|Mr. Rime#1
+Mr. Rime
 Level: 72
 Hardy Nature
 Ability: Screen Cleaner
@@ -4883,7 +5491,8 @@ Ability: Screen Cleaner
 - Psychic
 - Energy Ball
 - Nasty Plot
-|Eiscue
+|Eiscue#1
+Eiscue
 Level: 73
 Hardy Nature
 Ability: Ice Face
@@ -4891,7 +5500,8 @@ Ability: Ice Face
 - Freeze-Dry
 - Surf
 - Rest
-|Darmanitan-Galar
+|Darmanitan-Galar#1
+Darmanitan-Galar
 Level: 73
 Hardy Nature
 Ability: Zen Mode
@@ -4899,7 +5509,8 @@ Ability: Zen Mode
 - Icicle Crash
 - Stone Edge
 - Earthquake
-|Lapras
+|Lapras#6
+Lapras
 Level: 74
 Hardy Nature
 Ability: Shell Armor
@@ -4907,7 +5518,8 @@ Ability: Shell Armor
 - Hydro Pump
 - Thunder
 - Life Dew
-|Scrafty
+|Scrafty#4
+Scrafty
 Level: 72
 Hardy Nature
 Ability: Moxie
@@ -4915,7 +5527,8 @@ Ability: Moxie
 - Sand Attack
 - Brick Break
 - Payback
-|Malamar
+|Malamar#1
+Malamar
 Level: 72
 Hardy Nature
 Ability: Contrary
@@ -4923,7 +5536,8 @@ Ability: Contrary
 - Psycho Cut
 - Foul Play
 - Payback
-|Skuntank
+|Skuntank#2
+Skuntank
 Level: 73
 Hardy Nature
 Ability: Aftermath
@@ -4931,7 +5545,8 @@ Ability: Aftermath
 - Screech
 - Toxic
 - Snarl
-|Toxtricity
+|Toxtricity#1
+Toxtricity
 Level: 73
 Hardy Nature
 Ability: Punk Rock
@@ -4939,7 +5554,8 @@ Ability: Punk Rock
 - Sludge Bomb
 - Taunt
 - Venom Drench
-|Obstagoon
+|Obstagoon#1
+Obstagoon
 Level: 74
 Hardy Nature
 Ability: Reckless
@@ -4947,7 +5563,8 @@ Ability: Reckless
 - Throat Chop
 - Counter
 - Shadow Claw
-|Torkoal
+|Torkoal#4
+Torkoal
 Level: 74
 Hardy Nature
 Ability: Drought
@@ -4955,7 +5572,8 @@ Ability: Drought
 - Body Press
 - Solar Beam
 - Gyro Ball
-|Goodra
+|Goodra#2
+Goodra
 Level: 74
 Hardy Nature
 Ability: Sap Sipper
@@ -4963,7 +5581,8 @@ Ability: Sap Sipper
 - Thunder
 - Hydro Pump
 - Sludge Bomb
-|Turtonator
+|Turtonator#1
+Turtonator
 Level: 75
 Hardy Nature
 Ability: Shell Armor
@@ -4971,7 +5590,8 @@ Ability: Shell Armor
 - Dragon Pulse
 - Fire Blast
 - Shell Trap
-|Flygon
+|Flygon#7
+Flygon
 Level: 75
 Hardy Nature
 Ability: Levitate
@@ -4979,7 +5599,8 @@ Ability: Levitate
 - Dragon Claw
 - Earthquake
 - Crunch
-|Duraludon
+|Duraludon#1
+Duraludon
 Level: 76
 Hardy Nature
 Ability: Light Metal
@@ -4987,7 +5608,8 @@ Ability: Light Metal
 - Iron Head
 - Stone Edge
 - Body Press
-|Liepard
+|Liepard#2
+Liepard
 Level: 73
 Hardy Nature
 Ability: Prankster
@@ -4995,7 +5617,8 @@ Ability: Prankster
 - Torment
 - Nasty Plot
 - Snarl
-|Toxicroak
+|Toxicroak#5
+Toxicroak
 Level: 72
 Hardy Nature
 Ability: Dry Skin
@@ -5003,7 +5626,8 @@ Ability: Dry Skin
 - Gunk Shot
 - Earthquake
 - Poison Jab
-|Scrafty
+|Scrafty#5
+Scrafty
 Level: 72
 Hardy Nature
 Ability: Shed Skin
@@ -5011,7 +5635,8 @@ Ability: Shed Skin
 - Thunder Punch
 - Drain Punch
 - Crunch
-|Morpeko
+|Morpeko#1
+Morpeko
 Level: 73
 Hardy Nature
 Ability: Hunger Switch
@@ -5019,7 +5644,8 @@ Ability: Hunger Switch
 - Seed Bomb
 - Torment
 - Quick Attack
-|Grimmsnarl
+|Grimmsnarl#1
+Grimmsnarl
 Level: 74
 Hardy Nature
 Ability: Prankster
@@ -5027,7 +5653,8 @@ Ability: Prankster
 - Darkest Lariat
 - Bulk Up
 - Play Rough
-|Dubwool
+|Dubwool#1
+Dubwool
 Level: 69
 Hardy Nature
 Ability: Fluffy
@@ -5035,7 +5662,8 @@ Ability: Fluffy
 - Double Kick
 - Double-Edge
 - Headbutt
-|Snorlax
+|Snorlax#4
+Snorlax
 Level: 68
 Hardy Nature
 Ability: Thick Fat
@@ -5043,7 +5671,8 @@ Ability: Thick Fat
 - Earthquake
 - Heavy Slam
 - Crunch
-|Pincurchin
+|Pincurchin#1
+Pincurchin
 Level: 68
 Hardy Nature
 Ability: Lightning Rod
@@ -5051,7 +5680,8 @@ Ability: Lightning Rod
 - Poison Jab
 - Liquidation
 - Recover
-|Corviknight
+|Corviknight#1
+Corviknight
 Level: 69
 Hardy Nature
 Ability: Unnerve
@@ -5059,7 +5689,8 @@ Ability: Unnerve
 - Drill Peck
 - Swagger
 - Light Screen
-|Cinderace
+|Cinderace#1
+Cinderace
 Level: 70
 Hardy Nature
 Ability: Blaze
@@ -5067,7 +5698,8 @@ Ability: Blaze
 - Iron Head
 - Pyro Ball
 - Zen Headbutt
-|Zacian @ Rusted Sword
+|Zacian#1
+Zacian @ Rusted Sword
 Level: 70
 Hardy Nature
 Ability: Intrepid Sword
@@ -5075,7 +5707,8 @@ Ability: Intrepid Sword
 - Behemoth Blade
 - Wild Charge
 - Close Combat
-|Dubwool
+|Dubwool#2
+Dubwool
 Level: 69
 Hardy Nature
 Ability: Fluffy
@@ -5083,7 +5716,8 @@ Ability: Fluffy
 - Double Kick
 - Double-Edge
 - Headbutt
-|Snorlax
+|Snorlax#5
+Snorlax
 Level: 68
 Hardy Nature
 Ability: Thick Fat
@@ -5091,7 +5725,8 @@ Ability: Thick Fat
 - Earthquake
 - Heavy Slam
 - Crunch
-|Pincurchin
+|Pincurchin#2
+Pincurchin
 Level: 68
 Hardy Nature
 Ability: Lightning Rod
@@ -5099,7 +5734,8 @@ Ability: Lightning Rod
 - Poison Jab
 - Liquidation
 - Recover
-|Corviknight
+|Corviknight#2
+Corviknight
 Level: 69
 Hardy Nature
 Ability: Unnerve
@@ -5107,7 +5743,8 @@ Ability: Unnerve
 - Drill Peck
 - Swagger
 - Light Screen
-|Cinderace
+|Cinderace#2
+Cinderace
 Level: 70
 Hardy Nature
 Ability: Blaze
@@ -5115,7 +5752,8 @@ Ability: Blaze
 - Iron Head
 - Pyro Ball
 - Zen Headbutt
-|Zamazenta @ Rusted Shield
+|Zamazenta#1
+Zamazenta @ Rusted Shield
 Level: 70
 Hardy Nature
 Ability: Dauntless Shield
@@ -5123,7 +5761,8 @@ Ability: Dauntless Shield
 - Psychic
 - Behemoth Bash
 - Play Rough
-|Mawile
+|Mawile#2
+Mawile
 Level: 72
 Hardy Nature
 Ability: Hyper Cutter
@@ -5131,7 +5770,8 @@ Ability: Hyper Cutter
 - Fake Tears
 - Crunch
 - Play Rough
-|Gardevoir
+|Gardevoir#4
+Gardevoir
 Level: 72
 Hardy Nature
 Ability: Synchronize
@@ -5139,7 +5779,8 @@ Ability: Synchronize
 - Energy Ball
 - Psychic
 - Dazzling Gleam
-|Rapidash-Galar
+|Rapidash-Galar#1
+Rapidash-Galar
 Level: 73
 Hardy Nature
 Ability: Pastel Veil
@@ -5147,7 +5788,8 @@ Ability: Pastel Veil
 - Smart Strike
 - Dazzling Gleam
 - Drill Run
-|Sylveon
+|Sylveon#2
+Sylveon
 Level: 73
 Hardy Nature
 Ability: Cute Charm
@@ -5155,7 +5797,8 @@ Ability: Cute Charm
 - Light Screen
 - Shadow Ball
 - Psyshock
-|Hatterene
+|Hatterene#1
+Hatterene
 Level: 74
 Hardy Nature
 Ability: Healer
@@ -5163,7 +5806,8 @@ Ability: Healer
 - Dazzling Gleam
 - Dark Pulse
 - Mystical Fire
-|Spidops
+|Spidops#1
+Spidops
 Level: 80
 Hardy Nature
 Ability: Insomnia
@@ -5171,7 +5815,8 @@ Ability: Insomnia
 - Toxic Spikes
 - Circle Throw
 - Silk Trap
-|Heracross
+|Heracross#5
+Heracross
 Level: 80
 Hardy Nature
 Ability: Swarm
@@ -5179,7 +5824,8 @@ Ability: Swarm
 - Rock Blast
 - Bullet Seed
 - Arm Thrust
-|Forretress
+|Forretress#3
+Forretress
 Level: 80
 Hardy Nature
 Ability: Sturdy
@@ -5187,7 +5833,8 @@ Ability: Sturdy
 - Gyro Ball
 - Curse
 - Stone Edge
-|Lokix
+|Lokix#1
+Lokix
 Level: 80
 Hardy Nature
 Ability: Swarm
@@ -5195,7 +5842,8 @@ Ability: Swarm
 - Sucker Punch
 - Lunge
 - Taunt
-|Araquanid
+|Araquanid#2
+Araquanid
 Level: 81
 Hardy Nature
 Ability: Water Bubble
@@ -5203,7 +5851,8 @@ Ability: Water Bubble
 - Leech Life
 - Poison Jab
 - Mirror Coat
-|Ursaring
+|Ursaring#2
+Ursaring
 Level: 81
 Hardy Nature
 Ability: Guts
@@ -5211,7 +5860,8 @@ Ability: Guts
 - Play Rough
 - High Horsepower
 - Crunch
-|Breloom
+|Breloom#4
+Breloom
 Level: 80
 Hardy Nature
 Ability: Effect Spore
@@ -5219,7 +5869,8 @@ Ability: Effect Spore
 - Seed Bomb
 - Spore
 - Rock Tomb
-|Arboliva
+|Arboliva#1
+Arboliva
 Level: 80
 Hardy Nature
 Ability: Seed Sower
@@ -5227,7 +5878,8 @@ Ability: Seed Sower
 - Giga Drain
 - Dazzling Gleam
 - Strength Sap
-|Vileplume
+|Vileplume#2
+Vileplume
 Level: 80
 Hardy Nature
 Ability: Chlorophyll
@@ -5235,7 +5887,8 @@ Ability: Chlorophyll
 - Moonblast
 - Stun Spore
 - Sludge Bomb
-|Tsareena
+|Tsareena#3
+Tsareena
 Level: 80
 Hardy Nature
 Ability: Queenly Majesty
@@ -5243,7 +5896,8 @@ Ability: Queenly Majesty
 - Trailblaze
 - Stomp
 - Triple Axel
-|Lilligant
+|Lilligant#2
+Lilligant
 Level: 80
 Hardy Nature
 Ability: Chlorophyll
@@ -5251,7 +5905,8 @@ Ability: Chlorophyll
 - Pollen Puff
 - Quiver Dance
 - Energy Ball
-|Sudowoodo
+|Sudowoodo#1
+Sudowoodo
 Level: 81
 Hardy Nature
 Ability: Sturdy
@@ -5259,7 +5914,8 @@ Ability: Sturdy
 - Wood Hammer
 - Head Smash
 - Low Kick
-|Kilowattrel
+|Kilowattrel#1
+Kilowattrel
 Level: 80
 Hardy Nature
 Ability: Wind Power
@@ -5267,7 +5923,8 @@ Ability: Wind Power
 - Endeavor
 - Discharge
 - Tailwind
-|Electrode
+|Electrode#4
+Electrode
 Level: 80
 Hardy Nature
 Ability: Static
@@ -5275,7 +5932,8 @@ Ability: Static
 - Rain Dance
 - Thunder
 - Electric Terrain
-|Bellibolt
+|Bellibolt#1
+Bellibolt
 Level: 80
 Hardy Nature
 Ability: Electromorphosis
@@ -5283,7 +5941,8 @@ Ability: Electromorphosis
 - Thunder
 - Reflect
 - Acid Spray
-|Luxray
+|Luxray#3
+Luxray
 Level: 80
 Hardy Nature
 Ability: Intimidate
@@ -5291,7 +5950,8 @@ Ability: Intimidate
 - Wild Charge
 - Psychic Fangs
 - Ice Fang
-|Electivire
+|Electivire#4
+Electivire
 Level: 80
 Hardy Nature
 Ability: Motor Drive
@@ -5299,7 +5959,8 @@ Ability: Motor Drive
 - Trailblaze
 - Ice Punch
 - Supercell Slam
-|Mismagius
+|Mismagius#4
+Mismagius
 Level: 81
 Hardy Nature
 Ability: Levitate
@@ -5307,7 +5968,8 @@ Ability: Levitate
 - Shadow Ball
 - Mystical Fire
 - Dazzling Gleam
-|Pelipper
+|Pelipper#3
+Pelipper
 Level: 80
 Hardy Nature
 Ability: Drizzle
@@ -5315,7 +5977,8 @@ Ability: Drizzle
 - Blizzard
 - Surf
 - Quick Attack
-|Veluza
+|Veluza#1
+Veluza
 Level: 80
 Hardy Nature
 Ability: Mold Breaker
@@ -5323,7 +5986,8 @@ Ability: Mold Breaker
 - Liquidation
 - Psycho Cut
 - Night Slash
-|Feraligatr
+|Feraligatr#1
+Feraligatr
 Level: 80
 Hardy Nature
 Ability: Sheer Force
@@ -5331,7 +5995,8 @@ Ability: Sheer Force
 - Crunch
 - Ice Punch
 - Earthquake
-|Wugtrio
+|Wugtrio#1
+Wugtrio
 Level: 80
 Hardy Nature
 Ability: Gooey
@@ -5339,7 +6004,8 @@ Ability: Gooey
 - Throat Chop
 - Sucker Punch
 - Stomping Tantrum
-|Clawitzer
+|Clawitzer#2
+Clawitzer
 Level: 80
 Hardy Nature
 Ability: Mega Launcher
@@ -5347,7 +6013,8 @@ Ability: Mega Launcher
 - Dark Pulse
 - Blizzard
 - Aura Sphere
-|Crabominable
+|Crabominable#2
+Crabominable
 Level: 81
 Hardy Nature
 Ability: Iron Fist
@@ -5355,7 +6022,8 @@ Ability: Iron Fist
 - Ice Hammer
 - Zen Headbutt
 - Close Combat
-|Oinkologne
+|Oinkologne#1
+Oinkologne
 Level: 82
 Hardy Nature
 Ability: Gluttony
@@ -5363,7 +6031,8 @@ Ability: Gluttony
 - Trailblaze
 - Play Rough
 - Iron Head
-|Tauros
+|Tauros#2
+Tauros
 Level: 82
 Hardy Nature
 Ability: Intimidate
@@ -5371,7 +6040,8 @@ Ability: Intimidate
 - Earthquake
 - Stone Edge
 - Zen Headbutt
-|Dudunsparce
+|Dudunsparce#1
+Dudunsparce
 Level: 82
 Hardy Nature
 Ability: Serene Grace
@@ -5379,7 +6049,8 @@ Ability: Serene Grace
 - Earthquake
 - Stone Edge
 - Glare
-|Altaria
+|Altaria#6
+Altaria
 Level: 82
 Hardy Nature
 Ability: Natural Cure
@@ -5387,7 +6058,8 @@ Ability: Natural Cure
 - Flamethrower
 - Ice Beam
 - Dual Wingbeat
-|Flamigo
+|Flamigo#1
+Flamigo
 Level: 82
 Hardy Nature
 Ability: Scrappy
@@ -5395,7 +6067,8 @@ Ability: Scrappy
 - Close Combat
 - Throat Chop
 - Liquidation
-|Staraptor
+|Staraptor#2
+Staraptor
 Level: 83
 Hardy Nature
 Ability: Intimidate
@@ -5403,7 +6076,8 @@ Ability: Intimidate
 - Brave Bird
 - Close Combat
 - Thief
-|Banette
+|Banette#5
+Banette
 Level: 80
 Hardy Nature
 Ability: Insomnia
@@ -5411,7 +6085,8 @@ Ability: Insomnia
 - Sucker Punch
 - Shadow Sneak
 - Skitter Smack
-|Mimikyu
+|Mimikyu#1
+Mimikyu
 Level: 80
 Hardy Nature
 Ability: Disguise
@@ -5419,7 +6094,8 @@ Ability: Disguise
 - Shadow Sneak
 - Drain Punch
 - Play Rough
-|Golurk
+|Golurk#4
+Golurk
 Level: 80
 Hardy Nature
 Ability: No Guard
@@ -5427,7 +6103,8 @@ Ability: No Guard
 - Stomping Tantrum
 - Stone Edge
 - Phantom Force
-|Spiritomb
+|Spiritomb#3
+Spiritomb
 Level: 80
 Hardy Nature
 Ability: Pressure
@@ -5435,7 +6112,8 @@ Ability: Pressure
 - Sucker Punch
 - Pain Split
 - Will-O-Wisp
-|Houndstone
+|Houndstone#1
+Houndstone
 Level: 80
 Hardy Nature
 Ability: Sand Rush
@@ -5443,7 +6121,8 @@ Ability: Sand Rush
 - Crunch
 - Phantom Force
 - Ice Fang
-|Toxtricity
+|Toxtricity#2
+Toxtricity
 Level: 81
 Hardy Nature
 Ability: Punk Rock
@@ -5451,7 +6130,8 @@ Ability: Punk Rock
 - Hex
 - Boomburst
 - Sludge Bomb
-|Farigiraf
+|Farigiraf#1
+Farigiraf
 Level: 80
 Hardy Nature
 Ability: Armor Tail
@@ -5459,7 +6139,8 @@ Ability: Armor Tail
 - Expanding Force
 - Psychic Terrain
 - Thunderbolt
-|Gardevoir
+|Gardevoir#5
+Gardevoir
 Level: 80
 Hardy Nature
 Ability: Synchronize
@@ -5467,7 +6148,8 @@ Ability: Synchronize
 - Dazzling Gleam
 - Energy Ball
 - Mystical Fire
-|Espathra
+|Espathra#1
+Espathra
 Level: 80
 Hardy Nature
 Ability: Opportunist
@@ -5475,7 +6157,8 @@ Ability: Opportunist
 - Flash Cannon
 - Shadow Ball
 - Dazzling Gleam
-|Gallade
+|Gallade#6
+Gallade
 Level: 80
 Hardy Nature
 Ability: Steadfast
@@ -5483,7 +6166,8 @@ Ability: Steadfast
 - Leaf Blade
 - X-Scissor
 - Close Combat
-|Delphox
+|Delphox#1
+Delphox
 Level: 80
 Hardy Nature
 Ability: Blaze
@@ -5491,7 +6175,8 @@ Ability: Blaze
 - Psychic
 - Shadow Ball
 - Scorching Sands
-|Florges
+|Florges#1
+Florges
 Level: 81
 Hardy Nature
 Ability: Flower Veil
@@ -5499,7 +6184,8 @@ Ability: Flower Veil
 - Moonblast
 - Giga Drain
 - Calm Mind
-|Ninetales-Alola
+|Ninetales-Alola#2
+Ninetales-Alola
 Level: 80
 Hardy Nature
 Ability: Snow Warning
@@ -5507,7 +6193,8 @@ Ability: Snow Warning
 - Freeze-Dry
 - Blizzard
 - Dazzling Gleam
-|Beartic
+|Beartic#3
+Beartic
 Level: 80
 Hardy Nature
 Ability: Snow Cloak
@@ -5515,7 +6202,8 @@ Ability: Snow Cloak
 - Icicle Crash
 - Earthquake
 - Stone Edge
-|Frosmoth
+|Frosmoth#2
+Frosmoth
 Level: 80
 Hardy Nature
 Ability: Shield Dust
@@ -5523,7 +6211,8 @@ Ability: Shield Dust
 - Air Slash
 - Bug Buzz
 - Quiver Dance
-|Cetitan
+|Cetitan#1
+Cetitan
 Level: 80
 Hardy Nature
 Ability: Thick Fat
@@ -5531,7 +6220,8 @@ Ability: Thick Fat
 - Liquidation
 - Ice Shard
 - Earthquake
-|Weavile
+|Weavile#5
+Weavile
 Level: 80
 Hardy Nature
 Ability: Pressure
@@ -5539,7 +6229,8 @@ Ability: Pressure
 - Icicle Crash
 - Brick Break
 - Poison Jab
-|Altaria
+|Altaria#7
+Altaria
 Level: 81
 Hardy Nature
 Ability: Natural Cure
@@ -5547,7 +6238,8 @@ Ability: Natural Cure
 - Dragon Pulse
 - Moonblast
 - Hurricane
-|Dugtrio
+|Dugtrio#2
+Dugtrio
 Level: 82
 Hardy Nature
 Ability: Sand Veil
@@ -5555,7 +6247,8 @@ Ability: Sand Veil
 - Rock Slide
 - Sucker Punch
 - Sandstorm
-|Whiscash
+|Whiscash#3
+Whiscash
 Level: 82
 Hardy Nature
 Ability: Oblivious
@@ -5563,7 +6256,8 @@ Ability: Oblivious
 - Earth Power
 - Ice Beam
 - Stealth Rock
-|Camerupt
+|Camerupt#3
+Camerupt
 Level: 82
 Hardy Nature
 Ability: Magma Armor
@@ -5571,7 +6265,8 @@ Ability: Magma Armor
 - Lava Plume
 - Flash Cannon
 - Yawn
-|Torterra
+|Torterra#2
+Torterra
 Level: 82
 Hardy Nature
 Ability: Shell Armor
@@ -5579,7 +6274,8 @@ Ability: Shell Armor
 - Iron Head
 - Seed Bomb
 - Body Press
-|Donphan
+|Donphan#1
+Donphan
 Level: 82
 Hardy Nature
 Ability: Sturdy
@@ -5587,7 +6283,8 @@ Ability: Sturdy
 - Stone Edge
 - Iron Head
 - Poison Jab
-|Clodsire
+|Clodsire#1
+Clodsire
 Level: 83
 Hardy Nature
 Ability: Water Absorb
@@ -5595,7 +6292,8 @@ Ability: Water Absorb
 - Liquidation
 - Toxic
 - Protect
-|Copperajah
+|Copperajah#1
+Copperajah
 Level: 82
 Hardy Nature
 Ability: Sheer Force
@@ -5603,7 +6301,8 @@ Ability: Sheer Force
 - Play Rough
 - Heavy Slam
 - Stealth Rock
-|Bastiodon
+|Bastiodon#2
+Bastiodon
 Level: 82
 Hardy Nature
 Ability: Sturdy
@@ -5611,7 +6310,8 @@ Ability: Sturdy
 - Body Press
 - Metal Burst
 - Reflect
-|Bronzong
+|Bronzong#6
+Bronzong
 Level: 82
 Hardy Nature
 Ability: Levitate
@@ -5619,7 +6319,8 @@ Ability: Levitate
 - Ice Spinner
 - Zen Headbutt
 - Earthquake
-|Magnezone
+|Magnezone#8
+Magnezone
 Level: 82
 Hardy Nature
 Ability: Sturdy
@@ -5627,7 +6328,8 @@ Ability: Sturdy
 - Flash Cannon
 - Light Screen
 - Tri Attack
-|Corviknight
+|Corviknight#3
+Corviknight
 Level: 83
 Hardy Nature
 Ability: Pressure
@@ -5635,7 +6337,8 @@ Ability: Pressure
 - Iron Head
 - Body Press
 - Iron Defense
-|Tinkaton
+|Tinkaton#1
+Tinkaton
 Level: 83
 Hardy Nature
 Ability: Mold Breaker
@@ -5643,7 +6346,8 @@ Ability: Mold Breaker
 - Gigaton Hammer
 - Brick Break
 - Stone Edge
-|Duraludon
+|Duraludon#2
+Duraludon
 Level: 82
 Hardy Nature
 Ability: Stalwart
@@ -5651,7 +6355,8 @@ Ability: Stalwart
 - Body Press
 - Thunderbolt
 - Draco Meteor
-|Noivern
+|Noivern#2
+Noivern
 Level: 82
 Hardy Nature
 Ability: Infiltrator
@@ -5659,7 +6364,8 @@ Ability: Infiltrator
 - Dragon Pulse
 - Super Fang
 - Boomburst
-|Haxorus
+|Haxorus#6
+Haxorus
 Level: 82
 Hardy Nature
 Ability: Mold Breaker
@@ -5667,7 +6373,8 @@ Ability: Mold Breaker
 - Crunch
 - Iron Head
 - Rock Tomb
-|Dragalge
+|Dragalge#3
+Dragalge
 Level: 82
 Hardy Nature
 Ability: Poison Point
@@ -5675,7 +6382,8 @@ Ability: Poison Point
 - Dragon Pulse
 - Hydro Pump
 - Thunderbolt
-|Dragonite
+|Dragonite#3
+Dragonite
 Level: 82
 Hardy Nature
 Ability: Inner Focus
@@ -5683,7 +6391,8 @@ Ability: Inner Focus
 - Dragon Rush
 - Earthquake
 - Stone Edge
-|Baxcalibur
+|Baxcalibur#1
+Baxcalibur
 Level: 83
 Hardy Nature
 Ability: Thermal Exchange
@@ -5691,7 +6400,8 @@ Ability: Thermal Exchange
 - Glaive Rush
 - Earthquake
 - Ice Shard
-|Glimmora
+|Glimmora#1
+Glimmora
 Level: 84
 Hardy Nature
 Ability: Toxic Debris
@@ -5699,7 +6409,8 @@ Ability: Toxic Debris
 - Sludge Wave
 - Earth Power
 - Light Screen
-|Espathra
+|Espathra#2
+Espathra
 Level: 84
 Hardy Nature
 Ability: Opportunist
@@ -5707,7 +6418,8 @@ Ability: Opportunist
 - Dazzling Gleam
 - Shadow Ball
 - Protect
-|Chesnaught
+|Chesnaught#1
+Chesnaught
 Level: 84
 Hardy Nature
 Ability: Bulletproof
@@ -5715,7 +6427,8 @@ Ability: Bulletproof
 - Leech Seed
 - Drain Punch
 - Bulk Up
-|Avalugg
+|Avalugg#2
+Avalugg
 Level: 84
 Hardy Nature
 Ability: Own Tempo
@@ -5723,7 +6436,8 @@ Ability: Own Tempo
 - Heavy Slam
 - Earthquake
 - Body Press
-|Dragapult
+|Dragapult#1
+Dragapult
 Level: 84
 Hardy Nature
 Ability: Clear Body
@@ -5731,7 +6445,8 @@ Ability: Clear Body
 - Sucker Punch
 - Thunderbolt
 - Shadow Ball
-|Kingambit
+|Kingambit#1
+Kingambit
 Level: 85
 Hardy Nature
 Ability: Supreme Overlord
@@ -5739,7 +6454,8 @@ Ability: Supreme Overlord
 - Kowtow Cleave
 - Tera Blast
 - Stone Edge
-|Mightyena
+|Mightyena#1
+Mightyena
 Level: 82
 Hardy Nature
 Ability: Intimidate
@@ -5747,7 +6463,8 @@ Ability: Intimidate
 - Howl
 - Yawn
 - Sucker Punch
-|Toucannon
+|Toucannon#2
+Toucannon
 Level: 82
 Hardy Nature
 Ability: Sheer Force
@@ -5755,7 +6472,8 @@ Ability: Sheer Force
 - Throat Chop
 - Flame Charge
 - Dual Wingbeat
-|Morpeko @ Focus Sash
+|Morpeko#2
+Morpeko @ Focus Sash
 Level: 82
 Hardy Nature
 Ability: Hunger Switch
@@ -5763,7 +6481,8 @@ Ability: Hunger Switch
 - Lash Out
 - Thunder Wave
 - Seed Bomb
-|Ninetales
+|Ninetales#4
+Ninetales
 Level: 82
 Hardy Nature
 Ability: Flash Fire
@@ -5771,7 +6490,8 @@ Ability: Flash Fire
 - Extrasensory
 - Will-O-Wisp
 - Disable
-|Scrafty
+|Scrafty#6
+Scrafty
 Level: 82
 Hardy Nature
 Ability: Intimidate
@@ -5779,7 +6499,8 @@ Ability: Intimidate
 - Crunch
 - Ice Punch
 - Bulk Up
-|Sinistcha @ Occa Berry
+|Sinistcha#1
+Sinistcha @ Occa Berry
 Level: 83
 Hardy Nature
 Ability: Hospitality
@@ -5787,7 +6508,8 @@ Ability: Hospitality
 - Hex
 - Stun Spore
 - Scald
-|Politoed
+|Politoed#2
+Politoed
 Level: 85
 Hardy Nature
 Ability: Drizzle
@@ -5795,7 +6517,8 @@ Ability: Drizzle
 - Weather Ball
 - Psychic
 - Helping Hand
-|Dragonite @ Expert Belt
+|Dragonite#4
+Dragonite @ Expert Belt
 Level: 85
 Hardy Nature
 Ability: Multiscale
@@ -5803,7 +6526,8 @@ Ability: Multiscale
 - Thunder
 - Extreme Speed
 - Breaking Swipe
-|Grimmsnarl @ Focus Sash
+|Grimmsnarl#2
+Grimmsnarl @ Focus Sash
 Level: 86
 Hardy Nature
 Ability: Prankster
@@ -5811,7 +6535,8 @@ Ability: Prankster
 - Spirit Break
 - Light Screen
 - Reflect
-|Porygon-Z @ Life Orb
+|Porygon-Z#2
+Porygon-Z @ Life Orb
 Level: 86
 Hardy Nature
 Ability: Adaptability
@@ -5819,7 +6544,8 @@ Ability: Adaptability
 - Ice Beam
 - Thunderbolt
 - Shadow Ball
-|Incineroar @ Sitrus Berry
+|Incineroar#1
+Incineroar @ Sitrus Berry
 Level: 86
 Hardy Nature
 Ability: Intimidate
@@ -5827,7 +6553,8 @@ Ability: Intimidate
 - Brick Break
 - Flare Blitz
 - Fake Out
-|Hydrapple @ Assault Vest
+|Hydrapple#1
+Hydrapple @ Assault Vest
 Level: 87
 Hardy Nature
 Ability: Supersweet Syrup
@@ -5835,7 +6562,8 @@ Ability: Supersweet Syrup
 - Gyro Ball
 - Tera Blast
 - Earth Power
-|Skarmory @ Rocky Helmet
+|Skarmory#3
+Skarmory @ Rocky Helmet
 Level: 83
 Hardy Nature
 Ability: Sturdy
@@ -5843,7 +6571,8 @@ Ability: Sturdy
 - Whirlwind
 - Body Press
 - Dual Wingbeat
-|Dugtrio-Alola @ Focus Sash
+|Dugtrio-Alola#2
+Dugtrio-Alola @ Focus Sash
 Level: 83
 Hardy Nature
 Ability: Sand Veil
@@ -5851,7 +6580,8 @@ Ability: Sand Veil
 - Sucker Punch
 - Iron Head
 - Stone Edge
-|Scizor @ Occa Berry
+|Scizor#4
+Scizor @ Occa Berry
 Level: 84
 Hardy Nature
 Ability: Technician
@@ -5859,7 +6589,8 @@ Ability: Technician
 - Trailblaze
 - Pounce
 - Aerial Ace
-|Reuniclus @ Leftovers
+|Reuniclus#4
+Reuniclus @ Leftovers
 Level: 84
 Hardy Nature
 Ability: Magic Guard
@@ -5867,7 +6598,8 @@ Ability: Magic Guard
 - Protect
 - Energy Ball
 - Psychic
-|Empoleon @ Mystic Water
+|Empoleon#3
+Empoleon @ Mystic Water
 Level: 84
 Hardy Nature
 Ability: Torrent
@@ -5875,7 +6607,8 @@ Ability: Torrent
 - Hydro Pump
 - Flash Cannon
 - Grass Knot
-|Metagross @ Expert Belt
+|Metagross#7
+Metagross @ Expert Belt
 Level: 85
 Hardy Nature
 Ability: Clear Body
@@ -5883,7 +6616,8 @@ Ability: Clear Body
 - Ice Punch
 - Zen Headbutt
 - Brick Break
-|Rotom-Heat @ Rocky Helmet
+|Rotom-Heat#2
+Rotom-Heat @ Rocky Helmet
 Level: 82
 Hardy Nature
 Ability: Levitate
@@ -5891,7 +6625,8 @@ Ability: Levitate
 - Overheat
 - Thunderbolt
 - Hex
-|Talonflame @ Focus Sash
+|Talonflame#3
+Talonflame @ Focus Sash
 Level: 82
 Hardy Nature
 Ability: Flame Body
@@ -5899,7 +6634,8 @@ Ability: Flame Body
 - Brave Bird
 - Flare Blitz
 - Roost
-|Exeggutor @ Sitrus Berry
+|Exeggutor#4
+Exeggutor @ Sitrus Berry
 Level: 83
 Hardy Nature
 Ability: Harvest
@@ -5907,7 +6643,8 @@ Ability: Harvest
 - Psyshock
 - Protect
 - Solar Beam
-|Camerupt @ Expert Belt
+|Camerupt#4
+Camerupt @ Expert Belt
 Level: 83
 Hardy Nature
 Ability: Solid Rock
@@ -5915,7 +6652,8 @@ Ability: Solid Rock
 - Heat Wave
 - Ancient Power
 - Zen Headbutt
-|Magmortar @ Passho Berry
+|Magmortar#4
+Magmortar @ Passho Berry
 Level: 83
 Hardy Nature
 Ability: Flame Body
@@ -5923,7 +6661,8 @@ Ability: Flame Body
 - Thunderbolt
 - Heat Wave
 - Sunny Day
-|Blaziken @ Assault Vest
+|Blaziken#3
+Blaziken @ Assault Vest
 Level: 84
 Hardy Nature
 Ability: Speed Boost
@@ -5931,7 +6670,8 @@ Ability: Speed Boost
 - Focus Blast
 - Temper Flare
 - Shadow Claw
-|Dragonite @ Yache Berry
+|Dragonite#5
+Dragonite @ Yache Berry
 Level: 83
 Hardy Nature
 Ability: Multiscale
@@ -5939,7 +6679,8 @@ Ability: Multiscale
 - Thunder Punch
 - Ice Spinner
 - Tailwind
-|Flygon @ Life Orb
+|Flygon#8
+Flygon @ Life Orb
 Level: 83
 Hardy Nature
 Ability: Levitate
@@ -5947,7 +6688,8 @@ Ability: Levitate
 - Stone Edge
 - Fire Punch
 - Breaking Swipe
-|Haxorus @ Focus Sash
+|Haxorus#7
+Haxorus @ Focus Sash
 Level: 84
 Hardy Nature
 Ability: Mold Breaker
@@ -5955,7 +6697,8 @@ Ability: Mold Breaker
 - Breaking Swipe
 - Iron Head
 - Dragon Dance
-|Sceptile @ Weakness Policy
+|Sceptile#1
+Sceptile @ Weakness Policy
 Level: 84
 Hardy Nature
 Ability: Unburden
@@ -5963,7 +6706,8 @@ Ability: Unburden
 - Leaf Storm
 - X-Scissor
 - Acrobatics
-|Kingdra @ Expert Belt
+|Kingdra#5
+Kingdra @ Expert Belt
 Level: 84
 Hardy Nature
 Ability: Swift Swim
@@ -5971,7 +6715,8 @@ Ability: Swift Swim
 - Ice Beam
 - Hydro Pump
 - Hurricane
-|Archaludon @ Assault Vest
+|Archaludon#1
+Archaludon @ Assault Vest
 Level: 85
 Hardy Nature
 Ability: Stamina
@@ -5979,7 +6724,8 @@ Ability: Stamina
 - Dragon Pulse
 - Flash Cannon
 - Snarl
-|Whimsicott @ Focus Sash
+|Whimsicott#2
+Whimsicott @ Focus Sash
 Level: 83
 Hardy Nature
 Ability: Prankster
@@ -5987,7 +6733,8 @@ Ability: Prankster
 - Tailwind
 - Energy Ball
 - Moonblast
-|Granbull @ Expert Belt
+|Granbull#2
+Granbull @ Expert Belt
 Level: 83
 Hardy Nature
 Ability: Intimidate
@@ -5995,7 +6742,8 @@ Ability: Intimidate
 - Fire Punch
 - Ice Punch
 - Stomping Tantrum
-|Primarina @ Throat Spray
+|Primarina#1
+Primarina @ Throat Spray
 Level: 84
 Hardy Nature
 Ability: Liquid Voice
@@ -6003,7 +6751,8 @@ Ability: Liquid Voice
 - Moonblast
 - Ice Beam
 - Shadow Ball
-|Slowbro @ Sitrus Berry
+|Slowbro#5
+Slowbro @ Sitrus Berry
 Level: 84
 Hardy Nature
 Ability: Quick Draw
@@ -6011,7 +6760,8 @@ Ability: Quick Draw
 - Psychic
 - Flamethrower
 - Ice Beam
-|Alcremie @ Leftovers
+|Alcremie#2
+Alcremie @ Leftovers
 Level: 84
 Hardy Nature
 Ability: Sweet Veil
@@ -6019,7 +6769,8 @@ Ability: Sweet Veil
 - Recover
 - Giga Drain
 - Alluring Voice
-|Excadrill @ Assault Vest
+|Excadrill#4
+Excadrill @ Assault Vest
 Level: 85
 Hardy Nature
 Ability: Mold Breaker
@@ -6027,7 +6778,8 @@ Ability: Mold Breaker
 - Iron Head
 - Rock Tomb
 - High Horsepower
-|Iron Moth
+|Iron Moth#1
+Iron Moth
 Level: 66
 Hardy Nature
 Ability: Quark Drive
@@ -6035,7 +6787,8 @@ Ability: Quark Drive
 - Fiery Dance
 - Discharge
 - Air Slash
-|Iron Bundle
+|Iron Bundle#1
+Iron Bundle
 Level: 66
 Hardy Nature
 Ability: Quark Drive
@@ -6043,7 +6796,8 @@ Ability: Quark Drive
 - Water Pulse
 - Freeze-Dry
 - Snowscape
-|Iron Hands
+|Iron Hands#1
+Iron Hands
 Level: 66
 Hardy Nature
 Ability: Quark Drive
@@ -6051,7 +6805,8 @@ Ability: Quark Drive
 - Drain Punch
 - Iron Head
 - Fake Out
-|Iron Jugulis
+|Iron Jugulis#1
+Iron Jugulis
 Level: 66
 Hardy Nature
 Ability: Quark Drive
@@ -6059,7 +6814,8 @@ Ability: Quark Drive
 - Dark Pulse
 - Flamethrower
 - Flash Cannon
-|Iron Thorns
+|Iron Thorns#1
+Iron Thorns
 Level: 66
 Hardy Nature
 Ability: Quark Drive
@@ -6067,7 +6823,8 @@ Ability: Quark Drive
 - Brick Break
 - Stone Edge
 - Earthquake
-|Iron Valiant @ Booster Energy
+|Iron Valiant#1
+Iron Valiant @ Booster Energy
 Level: 67
 Hardy Nature
 Ability: Quark Drive
@@ -6075,7 +6832,8 @@ Ability: Quark Drive
 - Brick Break
 - Spirit Break
 - Poison Jab
-|Slither Wing
+|Slither Wing#1
+Slither Wing
 Level: 66
 Hardy Nature
 Ability: Protosynthesis
@@ -6083,7 +6841,8 @@ Ability: Protosynthesis
 - Leech Life
 - Low Sweep
 - Zen Headbutt
-|Scream Tail
+|Scream Tail#1
+Scream Tail
 Level: 66
 Hardy Nature
 Ability: Protosynthesis
@@ -6091,7 +6850,8 @@ Ability: Protosynthesis
 - Drain Punch
 - Ice Punch
 - Zen Headbutt
-|Brute Bonnet
+|Brute Bonnet#1
+Brute Bonnet
 Level: 66
 Hardy Nature
 Ability: Protosynthesis
@@ -6099,7 +6859,8 @@ Ability: Protosynthesis
 - Giga Drain
 - Payback
 - Sucker Punch
-|Flutter Mane
+|Flutter Mane#1
+Flutter Mane
 Level: 66
 Hardy Nature
 Ability: Protosynthesis
@@ -6107,7 +6868,8 @@ Ability: Protosynthesis
 - Mystical Fire
 - Shadow Ball
 - Thunderbolt
-|Sandy Shocks
+|Sandy Shocks#1
+Sandy Shocks
 Level: 66
 Hardy Nature
 Ability: Protosynthesis
@@ -6115,7 +6877,8 @@ Ability: Protosynthesis
 - Earth Power
 - Flash Cannon
 - Power Gem
-|Roaring Moon @ Booster Energy
+|Roaring Moon#1
+Roaring Moon @ Booster Energy
 Level: 66
 Hardy Nature
 Ability: Protosynthesis
@@ -6123,7 +6886,8 @@ Ability: Protosynthesis
 - Night Slash
 - Stone Edge
 - Earthquake
-|Lycanroc
+|Lycanroc#2
+Lycanroc
 Level: 86
 Hardy Nature
 Ability: Sand Rush
@@ -6131,7 +6895,8 @@ Ability: Sand Rush
 - Drill Run
 - Play Rough
 - Stealth Rock
-|Kommo-o
+|Kommo-o#1
+Kommo-o
 Level: 86
 Hardy Nature
 Ability: Soundproof
@@ -6139,7 +6904,8 @@ Ability: Soundproof
 - Drain Punch
 - Thunder Punch
 - Earthquake
-|Greninja
+|Greninja#1
+Greninja
 Level: 86
 Hardy Nature
 Ability: Torrent
@@ -6147,7 +6913,8 @@ Ability: Torrent
 - Dark Pulse
 - Ice Beam
 - Grass Knot
-|Dusknoir
+|Dusknoir#5
+Dusknoir
 Level: 86
 Hardy Nature
 Ability: Pressure
@@ -6155,7 +6922,8 @@ Ability: Pressure
 - Thunder Punch
 - Shadow Sneak
 - Ice Punch
-|Pawmot
+|Pawmot#1
+Pawmot
 Level: 86
 Hardy Nature
 Ability: Volt Absorb
@@ -6163,7 +6931,8 @@ Ability: Volt Absorb
 - Close Combat
 - Ice Punch
 - Mach Punch
-|Skeledirge
+|Skeledirge#1
+Skeledirge
 Level: 87
 Hardy Nature
 Ability: Blaze
@@ -6171,7 +6940,8 @@ Ability: Blaze
 - Earth Power
 - Shadow Ball
 - Alluring Voice
-|Mienshao
+|Mienshao#3
+Mienshao
 Level: 78
 Hardy Nature
 Ability: Inner Focus
@@ -6179,7 +6949,8 @@ Ability: Inner Focus
 - Close Combat
 - Blaze Kick
 - U-turn
-|Luxray
+|Luxray#4
+Luxray
 Level: 78
 Hardy Nature
 Ability: Intimidate
@@ -6187,7 +6958,8 @@ Ability: Intimidate
 - Crunch
 - Psychic Fangs
 - Crunch
-|Corviknight
+|Corviknight#4
+Corviknight
 Level: 79
 Hardy Nature
 Ability: Unnerve
@@ -6195,7 +6967,8 @@ Ability: Unnerve
 - Brave Bird
 - Light Screen
 - Body Press
-|Lycanroc
+|Lycanroc#3
+Lycanroc
 Level: 80
 Hardy Nature
 Ability: Keen Eye
@@ -6203,7 +6976,8 @@ Ability: Keen Eye
 - Accelerock
 - Play Rough
 - Stealth Rock
-|Kommo-o
+|Kommo-o#2
+Kommo-o
 Level: 80
 Hardy Nature
 Ability: Soundproof
@@ -6211,7 +6985,8 @@ Ability: Soundproof
 - Flash Cannon
 - Aura Sphere
 - Clangorous Soul
-|Urshifu-Rapid-Strike
+|Urshifu-Rapid-Strike#1
+Urshifu-Rapid-Strike
 Level: 80
 Hardy Nature
 Ability: Unseen Fist
@@ -6219,7 +6994,8 @@ Ability: Unseen Fist
 - Close Combat
 - Iron Head
 - Poison Jab
-|Perrserker
+|Perrserker#1
+Perrserker
 Level: 74
 Hardy Nature
 Ability: Tough Claws
@@ -6227,7 +7003,8 @@ Ability: Tough Claws
 - Iron Head
 - Seed Bomb
 - Throat Chop
-|Bronzong
+|Bronzong#7
+Bronzong
 Level: 73
 Hardy Nature
 Ability: Heatproof
@@ -6235,7 +7012,8 @@ Ability: Heatproof
 - Flash Cannon
 - Calm Mind
 - Shadow Ball
-|Scizor
+|Scizor#5
+Scizor
 Level: 73
 Hardy Nature
 Ability: Technician
@@ -6243,7 +7021,8 @@ Ability: Technician
 - Bullet Punch
 - Wing Attack
 - Double Hit
-|Aggron
+|Aggron#5
+Aggron
 Level: 74
 Hardy Nature
 Ability: Sturdy
@@ -6251,7 +7030,8 @@ Ability: Sturdy
 - Stone Edge
 - Crunch
 - Iron Head
-|Copperajah
+|Copperajah#2
+Copperajah
 Level: 74
 Hardy Nature
 Ability: Sheer Force
@@ -6259,7 +7039,8 @@ Ability: Sheer Force
 - Heavy Slam
 - Play Rough
 - Superpower
-|Aegislash-Shield
+|Aegislash-Shield#2
+Aegislash-Shield
 Level: 62
 Hardy Nature
 Ability: Stance Change
@@ -6267,7 +7048,8 @@ Ability: Stance Change
 - Shadow Ball
 - Sacred Sword
 - Flash Cannon
-|Dragapult
+|Dragapult#2
+Dragapult
 Level: 62
 Hardy Nature
 Ability: Clear Body
@@ -6275,7 +7057,8 @@ Ability: Clear Body
 - Flamethrower
 - Thunderbolt
 - Dragon Breath
-|Haxorus
+|Haxorus#8
+Haxorus
 Level: 63
 Hardy Nature
 Ability: Mold Breaker
@@ -6283,7 +7066,8 @@ Ability: Mold Breaker
 - Iron Tail
 - Outrage
 - Earthquake
-|Rhyperior
+|Rhyperior#4
+Rhyperior
 Level: 64
 Hardy Nature
 Ability: Solid Rock
@@ -6291,7 +7075,8 @@ Ability: Solid Rock
 - Stone Edge
 - Megahorn
 - Heat Crash
-|Rillaboom
+|Rillaboom#1
+Rillaboom
 Level: 64
 Hardy Nature
 Ability: Overgrow
@@ -6299,7 +7084,8 @@ Ability: Overgrow
 - Knock Off
 - High Horsepower
 - Endeavor
-|Charizard
+|Charizard#3
+Charizard
 Level: 65
 Hardy Nature
 Ability: Blaze
@@ -6307,7 +7093,8 @@ Ability: Blaze
 - Air Slash
 - Solar Beam
 - Ancient Power
-|Greedent
+|Greedent#1
+Greedent
 Level: 82
 Hardy Nature
 Ability: Cheek Pouch
@@ -6315,7 +7102,8 @@ Ability: Cheek Pouch
 - Body Slam
 - Psychic Fangs
 - Earthquake
-|Cloyster
+|Cloyster#5
+Cloyster
 Level: 82
 Hardy Nature
 Ability: Skill Link
@@ -6323,7 +7111,8 @@ Ability: Skill Link
 - Icicle Spear
 - Liquidation
 - Light Screen
-|Scovillain
+|Scovillain#1
+Scovillain
 Level: 82
 Hardy Nature
 Ability: Chlorophyll
@@ -6331,7 +7120,8 @@ Ability: Chlorophyll
 - Energy Ball
 - Zen Headbutt
 - Crunch
-|Toedscruel
+|Toedscruel#1
+Toedscruel
 Level: 82
 Hardy Nature
 Ability: Mycelium Might
@@ -6339,7 +7129,8 @@ Ability: Mycelium Might
 - Earth Power
 - Spore
 - Sludge Bomb
-|Garganacl
+|Garganacl#1
+Garganacl
 Level: 82
 Hardy Nature
 Ability: Purifying Salt
@@ -6347,7 +7138,8 @@ Ability: Purifying Salt
 - Earthquake
 - Body Press
 - Stealth Rock
-|Mabosstiff
+|Mabosstiff#1
+Mabosstiff
 Level: 83
 Hardy Nature
 Ability: Intimidate
@@ -6355,7 +7147,8 @@ Ability: Intimidate
 - Psychic Fangs
 - Fire Fang
 - Play Rough
-|Umbreon
+|Umbreon#3
+Umbreon
 Level: 84
 Hardy Nature
 Ability: Synchronize
@@ -6363,7 +7156,8 @@ Ability: Synchronize
 - Quick Attack
 - Baby-Doll Eyes
 - Psychic
-|Vaporeon
+|Vaporeon#1
+Vaporeon
 Level: 84
 Hardy Nature
 Ability: Water Absorb
@@ -6371,7 +7165,8 @@ Ability: Water Absorb
 - Baby-Doll Eyes
 - Quick Attack
 - Aurora Beam
-|Jolteon
+|Jolteon#3
+Jolteon
 Level: 84
 Hardy Nature
 Ability: Volt Absorb
@@ -6379,7 +7174,8 @@ Ability: Volt Absorb
 - Quick Attack
 - Baby-Doll Eyes
 - Pin Missile
-|Flareon
+|Flareon#2
+Flareon
 Level: 84
 Hardy Nature
 Ability: Flash Fire
@@ -6387,7 +7183,8 @@ Ability: Flash Fire
 - Quick Attack
 - Baby-Doll Eyes
 - Fire Spin
-|Leafeon
+|Leafeon#2
+Leafeon
 Level: 84
 Hardy Nature
 Ability: Leaf Guard
@@ -6395,7 +7192,8 @@ Ability: Leaf Guard
 - Quick Attack
 - X-Scissor
 - Baby-Doll Eyes
-|Sylveon
+|Sylveon#3
+Sylveon
 Level: 85
 Hardy Nature
 Ability: Cute Charm
@@ -6403,7 +7201,8 @@ Ability: Cute Charm
 - Quick Attack
 - Baby-Doll Eyes
 - Shadow Ball
-|Pidgeot
+|Pidgeot#2
+Pidgeot
 Level: 66
 Hardy Nature
 Ability: Keen Eye
@@ -6411,7 +7210,8 @@ Ability: Keen Eye
 - Air Slash
 - Heat Wave
 - U-turn
-|Vileplume
+|Vileplume#3
+Vileplume
 Level: 66
 Hardy Nature
 Ability: Chlorophyll
@@ -6419,7 +7219,8 @@ Ability: Chlorophyll
 - Reflect
 - Sludge Bomb
 - Dazzling Gleam
-|Marowak
+|Marowak#1
+Marowak
 Level: 66
 Hardy Nature
 Ability: Rock Head
@@ -6427,7 +7228,8 @@ Ability: Rock Head
 - Earthquake
 - Fire Punch
 - Thunder Punch
-|Rapidash
+|Rapidash#2
+Rapidash
 Level: 66
 Hardy Nature
 Ability: Run Away
@@ -6435,7 +7237,8 @@ Ability: Run Away
 - Quick Attack
 - Poison Jab
 - Drill Run
-|Slowbro
+|Slowbro#6
+Slowbro
 Level: 66
 Hardy Nature
 Ability: Oblivious
@@ -6443,7 +7246,8 @@ Ability: Oblivious
 - Surf
 - Blizzard
 - Light Screen
-|Jolteon
+|Jolteon#4
+Jolteon
 Level: 67
 Hardy Nature
 Ability: Volt Absorb
@@ -6451,7 +7255,8 @@ Ability: Volt Absorb
 - Quick Attack
 - Pin Missile
 - Shadow Ball
-|Slowking
+|Slowking#4
+Slowking
 Level: 61
 Hardy Nature
 Ability: Own Tempo
@@ -6459,7 +7264,8 @@ Ability: Own Tempo
 - Psychic
 - Water Pulse
 - Skill Swap
-|Scizor
+|Scizor#6
+Scizor
 Level: 60
 Hardy Nature
 Ability: Swarm
@@ -6467,7 +7273,8 @@ Ability: Swarm
 - Silver Wind
 - Baton Pass
 - Swords Dance
-|Machamp
+|Machamp#9
+Machamp
 Level: 61
 Hardy Nature
 Ability: Guts
@@ -6475,7 +7282,8 @@ Ability: Guts
 - Rock Slide
 - Earthquake
 - Bulk Up
-|Salamence
+|Salamence#6
+Salamence
 Level: 60
 Hardy Nature
 Ability: Intimidate
@@ -6483,7 +7291,8 @@ Ability: Intimidate
 - Dragon Claw
 - Aerial Ace
 - Double-Edge
-|Slaking
+|Slaking#3
+Slaking
 Level: 60
 Hardy Nature
 Ability: Truant
@@ -6491,7 +7300,8 @@ Ability: Truant
 - Aerial Ace
 - Earthquake
 - Bulk Up
-|Tyranitar
+|Tyranitar#4
+Tyranitar
 Level: 60
 Hardy Nature
 Ability: Sand Stream
@@ -6499,7 +7309,8 @@ Ability: Sand Stream
 - Thunder
 - Rock Slide
 - Blizzard
-|Manectric
+|Manectric#2
+Manectric
 Level: 50
 Hardy Nature
 Ability: Lightning Rod
@@ -6507,7 +7318,8 @@ Ability: Lightning Rod
 - Crunch
 - Quick Attack
 - Iron Tail
-|Swellow
+|Swellow#2
+Swellow
 Level: 50
 Hardy Nature
 Ability: Guts
@@ -6515,7 +7327,8 @@ Ability: Guts
 - Steel Wing
 - Facade
 - Mud-Slap
-|Starmie
+|Starmie#5
+Starmie
 Level: 50
 Hardy Nature
 Ability: Illuminate
@@ -6523,7 +7336,8 @@ Ability: Illuminate
 - Thunderbolt
 - Ice Beam
 - Swift
-|Granbull
+|Granbull#3
+Granbull
 Level: 50
 Hardy Nature
 Ability: Intimidate
@@ -6531,7 +7345,8 @@ Ability: Intimidate
 - Shadow Ball
 - Brick Break
 - Double-Edge
-|Altaria
+|Altaria#8
+Altaria
 Level: 50
 Hardy Nature
 Ability: Natural Cure
@@ -6539,7 +7354,8 @@ Ability: Natural Cure
 - Earthquake
 - Aerial Ace
 - Steel Wing
-|Aerodactyl
+|Aerodactyl#4
+Aerodactyl
 Level: 50
 Hardy Nature
 Ability: Rock Head
@@ -6547,7 +7363,8 @@ Ability: Rock Head
 - Ancient Power
 - Aerial Ace
 - Double-Edge
-|Spiritomb
+|Spiritomb#4
+Spiritomb
 Level: 68
 Hardy Nature
 Ability: Pressure
@@ -6555,14 +7372,16 @@ Ability: Pressure
 - Dark Pulse
 - Hypnosis
 - Extrasensory
-|Roserade
+|Roserade#3
+Roserade
 Level: 68
 Hardy Nature
 Ability: Natural Cure
 - Petal Dance
 - Spikes
 - Poison Jab
-|Togekiss
+|Togekiss#4
+Togekiss
 Level: 68
 Hardy Nature
 Ability: Hustle
@@ -6570,14 +7389,16 @@ Ability: Hustle
 - Calm Mind
 - Moonblast
 - Extrasensory
-|Arcanine-Hisui
+|Arcanine-Hisui#1
+Arcanine-Hisui
 Level: 68
 Hardy Nature
 Ability: Intimidate
 - Raging Fury
 - Rock Slide
 - Crunch
-|Lucario
+|Lucario#7
+Lucario
 Level: 68
 Hardy Nature
 Ability: Steadfast
@@ -6585,7 +7406,8 @@ Ability: Steadfast
 - Bullet Punch
 - Close Combat
 - Crunch
-|Garchomp
+|Garchomp#3
+Garchomp
 Level: 68
 Hardy Nature
 Ability: Sand Veil
@@ -6593,7 +7415,8 @@ Ability: Sand Veil
 - Dragon Claw
 - Slash
 - Iron Head
-|Raichu-Alola
+|Raichu-Alola#1
+Raichu-Alola
 Level: 69
 Hardy Nature
 Ability: Surge Surfer
@@ -6601,7 +7424,8 @@ Ability: Surge Surfer
 - Quick Attack
 - Psychic
 - Focus Blast
-|Flareon
+|Flareon#3
+Flareon
 Level: 68
 Hardy Nature
 Ability: Flash Fire
@@ -6609,7 +7433,8 @@ Ability: Flash Fire
 - Quick Attack
 - Charm
 - Baby-Doll Eyes
-|Tauros
+|Tauros#3
+Tauros
 Level: 68
 Hardy Nature
 Ability: Intimidate
@@ -6617,7 +7442,8 @@ Ability: Intimidate
 - Iron Head
 - Earthquake
 - Double-Edge
-|Noivern
+|Noivern#3
+Noivern
 Level: 68
 Hardy Nature
 Ability: Infiltrator
@@ -6625,7 +7451,8 @@ Ability: Infiltrator
 - Air Slash
 - Dark Pulse
 - Super Fang
-|Crabominable
+|Crabominable#3
+Crabominable
 Level: 69
 Hardy Nature
 Ability: Iron Fist
@@ -6633,7 +7460,8 @@ Ability: Iron Fist
 - Ice Hammer
 - Stone Edge
 - Dizzy Punch
-|Primarina
+|Primarina#2
+Primarina
 Level: 70
 Hardy Nature
 Ability: Torrent
